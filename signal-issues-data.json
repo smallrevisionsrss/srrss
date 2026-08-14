@@ -1,0 +1,593 @@
+[
+  {
+    "dateLabel": "August 14, 2026",
+    "hero": {
+      "headline": "A Primordial Covenant of Relationship",
+      "dek": "An excerpt from Remembering Earth: Emmanuel Vaughan-Lee reads today's convergence of ecological and social crises as an invitation — to reawaken an ancient bond with the living Earth through love, remembrance, and sacred practice.",
+      "byline": "By Emmanuel Vaughan-Lee · Emergence Magazine",
+      "image": "https://emergencemagazine.org/app/uploads/2026/05/Primordial_Convenant_SEO.jpg",
+      "caption": "Photograph by Yael Martinez / Magnum Photos",
+      "url": "https://emergencemagazine.org/essay/a-primordial-covenant-of-relationship/"
+    },
+    "categories": {
+      "design-arch": [
+        { "headline": "An Architecture School Takes Over a Calgary Tower — With a Colour-Coded Design by HCMA", "source": "Azure Magazine", "date": "Aug 13", "url": "https://www.azuremagazine.com/article/an-architecture-school-takes-over-a-calgary-tower-with-a-colour-coded-design-by-hcma/" },
+        { "headline": "Punto Zero Bring Theatrical Contrast to a Historic Ferrara Apartment", "source": "Yatzer", "date": "Jul 26", "url": "https://www.yatzer.com/casa-frara-ferrara-punto-zero", "image": "https://media.yatzer.com/6-Casa-Frara-Ferrara-Punto-Zero-Architects-photo-Eller-Studio-yatzer-1400x934.jpg" },
+        { "headline": "FamilyMart's New Hipster 'FAMIMA' Reimagines What a Conbini Can Be", "source": "Spoon &amp; Tamago", "date": "Jul 11", "url": "https://spoon-tamago.com/familymart-new-famima-flagship/" },
+        { "headline": "This Summer, the Riverboat Is London's Preferred Staycation Destination", "source": "The Spaces", "date": "Jul 2026", "url": "https://thespaces.com/this-summer-the-riverboat-is-londons-preferred-staycation-destination/" }
+      ],
+      "craft": [
+        { "headline": "\"CFG-20260727\" Amant / New York", "source": "Flash Art", "date": "Aug 7", "url": "https://flash---art.com/2026/08/cfg-20260727-amant-new-york/" },
+        { "headline": "Allison Janae Hamilton Finds History in the Land", "source": "Elephant Magazine", "date": "Jul 27", "url": "https://elephant.art/allison-janae-hamilton-finds-history-in-the-land/" },
+        { "headline": "Simeon Solomon: Painting Queerness and Judaism in Victorian England", "source": "DailyArt Magazine", "date": "Aug 13", "url": "https://www.dailyartmagazine.com/simeon-solomon/", "image": "https://www.dailyartmagazine.com/wp-content/uploads/2026/08/moon-and-sleep-768x503.jpg" },
+        { "headline": "Speak the Unhearable: Postcards to Martin Wong", "source": "Sixty Inches From Center", "date": "Aug 12", "url": "https://sixtyinchesfromcenter.org/speak-the-unhearable-postcards-to-martin-wong/" }
+      ],
+      "photo-film": [
+        { "headline": "5 Frames from the Partial Eclipse 2026 (with a Panasonic LX100)", "source": "35mmc", "date": "Aug 13", "url": "https://www.35mmc.com/13/08/2026/5-frames-from-the-partial-eclipse-2026-with-a-panasonic-lx100/" },
+        { "headline": "Photography Educator: Lorena Molina", "source": "Lenscratch", "date": "Aug 14", "url": "https://lenscratch.com/2026/08/photography-educator-lorena-molina/" },
+        { "headline": "The Ten Rarest Weather Phenomena Ever Photographed", "source": "Fstoppers", "date": "Aug 13", "url": "https://fstoppers.com/originals/ten-rarest-weather-phenomena-ever-photographed-903660", "image": "https://cdn.fstoppers.com/styles/default_16_9/s3/lead/2026/07/st._elmo-s_fire_flashing_in_front_of_the_windshield_of_a_u.s._air_force_kc-135_stratotanker.jpg?itok=EDUG5e83" },
+        { "headline": "Filmmaking at the End of the World: The Quiet Earth", "source": "Senses of Cinema", "date": "Aug 2026", "url": "https://www.sensesofcinema.com/2026/cteq/filmmaking-at-the-end-of-the-world-the-quiet-earth/" }
+      ],
+      "sound-vinyl": [
+        { "headline": "more eaze Announces New Album valley and structure: Hear \"what's wrong with the structure?\"", "source": "Stereogum", "date": "Aug 14", "url": "https://www.stereogum.com/2508315/more-eaze-announces-new-album-valley-and-structure-hear-whats-wrong-with-the-structure/music" },
+        { "headline": "A Rough Guide To: Japanese City Pop", "source": "Rough Trade", "date": "Aug 7", "url": "https://blog.roughtrade.com/a-rough-guide-to-japanese-city-pop/" },
+        { "headline": "Alewya: Being and Nothingness", "source": "Crack Magazine", "date": "Aug 6", "url": "https://crackmagazine.net/article/profiles/alewya-cover-story-interview/" },
+        { "headline": "\"It Will Be a Tour Like No Other\": Royal Blood Announce UK Shows", "source": "Kerrang!", "date": "Aug 14", "url": "https://www.kerrang.com/royal-blood-announce-uk-shows-unpeople-dead-company-mike-kerr-ben-thatcher", "image": "https://transforms.kerrang.com/production/images/2026/08/royal-blood-promo-august-2026-credit-edward-cooke_2026-08-14-100928_ztur.jpg?w=800&auto=compress%2Cformat&fit=crop&dm=1786702233&s=0e0ae682eb5022a21a4cfb48ae1d07f5" }
+      ],
+      "collecting": [
+        { "headline": "A. Lange &amp; Söhne's Wilhelm Schmidt and His Personal Relationship with Time and Watches", "source": "Monochrome Watches", "date": "Aug 14", "url": "https://monochrome-watches.com/a-lange-sohnes-wilhelm-schmidt-and-his-personal-relationship-with-time-and-watches/", "image": "https://monochrome-watches.com/app/uploads/2026/08/A.-Lange-Sohne-Wilhelm-Schmid-CEO.jpg" },
+        { "headline": "Frames, One Year Later", "source": "Japan Camera Hunter", "date": "Jun 10", "url": "https://www.japancamerahunter.com/2026/06/frames-one-year-later/" },
+        { "headline": "Laurel and Hardy: A Timeless Slapstick Comedy Duo", "source": "Delcampe", "date": "Aug 10", "url": "https://blog.delcampe.net/en/laurel-and-hardy-a-timeless-slapstick-comedy-duo/" },
+        { "headline": "Toy-Ventures: Fun Finds at the Trinkets Toy Show!", "source": "Mego Museum", "date": "Aug 12", "url": "https://www.megomuseum.com/toy-ventures-fun-finds-at-the-trinkets-toy-show/" }
+      ],
+      "archives": [
+        { "headline": "From the Collection: Legacies of Swiss Style, Part 2—Wolfgang Weingart", "source": "Letterform Archive", "date": "Apr 13", "url": "https://letterformarchive.org/news/from-the-collection-legacies-of-swiss-style-part-2-wolfgang-weingart/" },
+        { "headline": "Vendyl Jones and the Temple Incense", "source": "Jewish Review of Books", "date": "Summer 2026", "url": "https://jewishreviewofbooks.com/jewish-history/20026/vendyl-jones-and-the-temple-incense/", "image": "https://i0.wp.com/jewishreviewofbooks.com/wp-content/uploads/2026/06/Lindell1.jpg?resize=1024%2C768&quality=89&ssl=1" },
+        { "headline": "Must a People Disappear for Us to Know That It Existed?", "source": "Guernica", "date": "Jul 15", "url": "https://www.guernicamag.com/must-a-people-disappear-for-us-to-know-that-it-existed/" },
+        { "headline": "Falling Out of the World", "source": "Cabinet Magazine", "date": "Issue 72", "url": "https://www.cabinetmagazine.org/issues/72/prochnik.php" }
+      ]
+    }
+  },
+  {
+    "dateLabel": "August 13, 2026",
+    "hero": {
+      "headline": "Thank This Projectionist for The Odyssey's 70-mm. Imax Run",
+      "dek": "Running a film in Christopher Nolan's preferred format is a specialized skill only a handful of projectionists left can claim — Chris Stanton profiles one of them, keeping 3 a.m. Imax showings of The Odyssey alive by hand.",
+      "byline": "By Chris Stanton · Vulture",
+      "image": "https://pyxis.nymag.com/v1/imgs/28c/ad6/9f88f86d498ea30495d0bb7d459a8965be-odyssey-ship.1x.rsocial.w1200.jpg",
+      "caption": "A 70mm Imax print being handled at a projection booth, via Vulture",
+      "url": "https://www.vulture.com/article/thank-this-projectionist-for-the-odysseys-70-mm-imax-run.html"
+    },
+    "categories": {
+      "design-arch": [
+        { "headline": "Haüsa Homes Demonstrates How to Fit a Folding House Into a Shipping Container", "source": "Core77", "date": "Aug 13", "url": "https://www.core77.com/posts/145067/Haüsa-Homes-Demonstrates-How-to-Fit-a-Folding-House-Into-a-Shipping-Container" },
+        { "headline": "LC1,37 Office by 27Atelier in Ho Chi Minh City, Vietnam", "source": "ArchEyes", "date": "Aug 13", "url": "https://archeyes.com/lc137-office-by-27atelier-in-ho-chi-minh-city-vietnam/", "image": "https://i0.wp.com/archeyes.com/wp-content/uploads/2026/08/03-illuminated-apostle-niches-black-facade-dusk-lc1-37-office-27atelier-quang-tran-archeyes.jpg?resize=850%2C638&ssl=1" },
+        { "headline": "In the Hamptons, Jessica Schuster Crafts a Family-Friendly Retreat on a Pastoral Property", "source": "1stDibs Introspective", "date": "Aug 9", "url": "https://www.1stdibs.com/introspective-magazine/jessica-schuster-southampton/" },
+        { "headline": "Miller Hull and Woods Bagot Bring Daylight to Seattle-Tacoma International Airport's Busiest Concourse", "source": "Surface Magazine", "date": "Jul 14", "url": "https://www.surfacemag.com/articles/miller-hull-and-woods-bagot-bring-daylight-to-seattle-tacoma-international-airport/" }
+      ],
+      "craft": [
+        { "headline": "In Eleanor Mahin Thorp's Paintings, the Land Looks Back", "source": "Southwest Contemporary", "date": "Aug 13", "url": "https://southwestcontemporary.com/in-eleanor-mahin-thorps-paintings-the-land-looks-back/", "image": "https://southwestcontemporary.com/wp-content/uploads/2026/08/EleanorMahinThorp-None.jpg" },
+        { "headline": "The Story of Damien Hirst's Famous Shark", "source": "DailyArt Magazine", "date": "Aug 12", "url": "https://www.dailyartmagazine.com/story-damien-hirst-shark/" },
+        { "headline": "4,000 Colorful Numbers Make Time Flow Above a Hong Kong Walkway", "source": "My Modern Met (Art)", "date": "Aug 13", "url": "https://mymodernmet.com/emmanuelle-moureaux-flow-installation-hong-kong/" },
+        { "headline": "Magdalena Petroni", "source": "Sculpture Magazine", "date": "Aug 6", "url": "https://sculpturemagazine.art/magdalena-petroni/" }
+      ],
+      "photo-film": [
+        { "headline": "Nobody's Ever Asked Me That: Avalon Fast", "source": "Talkhouse Film", "date": "Aug 11", "url": "https://talkhouse.com/nobodys-ever-asked-me-that-avalon-fast" },
+        { "headline": "Vertical Video Is Driving This Cameraman Insane", "source": "PetaPixel", "date": "Aug 13", "url": "https://petapixel.com/2026/08/13/vertical-video-is-driving-this-cameraman-insane/" },
+        { "headline": "My Ultimate Adventure Camera: Leica SL2-S Long Term Review", "source": "Casual Photophile", "date": "Jan 19", "url": "https://casualphotophile.com/2026/01/19/leica-sl2-s-long-term-review/" },
+        { "headline": "Inside 80 Buddhist Caves in India: One Scholar's 10,000-Image Archive", "source": "Feature Shoot", "date": "May 13", "url": "https://www.featureshoot.com/2026/05/inside-80-buddhist-caves-in-india-one-scholars-10000-image-archive/", "image": "https://i0.wp.com/www.featureshoot.com/wp-content/uploads/2026/05/12_DSC03319_copy.jpg?resize=1000%2C667&ssl=1" }
+      ],
+      "sound-vinyl": [
+        { "headline": "King Gizzard and the Lizard Wizard to Drop New Techno Album Alien Metal on Friday", "source": "Consequence", "date": "Aug 13", "url": "https://consequence.net/2026/08/king-gizzard-and-the-lizard-wizard-to-release-alien-metal-techno-album-friday/" },
+        { "headline": "Above & Beyond Mark 15 Years of \"Group Therapy\" With Picture Disc Pre-Order and Album Deep-Dive", "source": "We Rave You", "date": "Aug 13", "url": "https://weraveyou.com/2026/08/above-and-beyond-group-therapy-15-year-anniversary-picture-disc/" },
+        { "headline": "Interview: Fainting Dreams on the Process Behind \"You Can Be Anything\"", "source": "Decibel Magazine", "date": "Aug 13", "url": "https://www.decibelmagazine.com/2026/08/13/interview-fainting-dreams-on-the-process-behind-you-can-be-anything/", "image": "https://www.decibelmagazine.com/wp-content/uploads/2026/08/0030075431_10-820x539.jpg" },
+        { "headline": "Album Review: Baby Smith – Lately, Love Is Dead", "source": "Beats Per Minute", "date": "Aug 13", "url": "https://beatsperminute.com/album-review-baby-smith-lately-love-is-dead/" }
+      ],
+      "collecting": [
+        { "headline": "Hands-On: Armin Strom's Orbit in Midnight Purple Regalia", "source": "Monochrome Watches", "date": "Aug 13", "url": "https://monochrome-watches.com/hands-on-review-armin-strom-orbit-midnight-purple-regalia-independent-watchmaking-manufacture-specs-price-live-pics/", "image": "https://monochrome-watches.com/app/uploads/2026/08/2026-Armin-Strom-Orbit-Midnight-Purple-Review-Featured-B.jpg" },
+        { "headline": "The Nivada Grenchen F77 MKII: Refining the Integrated Ideal", "source": "Quill & Pad", "date": "Jul 20", "url": "https://quillandpad.com/2026/07/20/the-nivada-grenchen-f77-mkii-refining-the-integrated-ideal/" },
+        { "headline": "Review: KONKR Pocket Advance – The Nintendo GBA, Perfected", "source": "Time Extension", "date": "Aug 13", "url": "https://www.timeextension.com/reviews/konkr-pocket-advance-the-nintendo-gba-perfected" },
+        { "headline": "Pop Race and Mini GT Join the Aston F1 Fleet", "source": "Lamley Group", "date": "Jul 30", "url": "https://lamleygroup.com/2026/07/30/pop-race-and-mini-gt-join-the-aston-f1-fleet/" }
+      ],
+      "archives": [
+        { "headline": "Bottoms Up: Vast Roman Shipwreck Filled With Ancient Wine Amphoras Discovered Near Sicily", "source": "The Art Newspaper", "date": "Aug 11", "url": "https://www.theartnewspaper.com/2026/08/11/bottoms-up-vast-roman-shipwreck-filled-with-ancient-wine-amphoras-discovered-near-sicily" },
+        { "headline": "Macy's Giant Shopping Bag Sign Is Removed, Revealing a 100-Year-Old Building Hidden for Decades", "source": "6sqft", "date": "Jul 28", "url": "https://www.6sqft.com/macys-herald-square-shopping-bag-sign-removed/", "image": "https://www.6sqft.com/wp-content/uploads/2026/07/macys-herald-square-july-2026-1-.jpeg?w=1560&format=webp" },
+        { "headline": "From the Collection: Dorothy and Otis Shepard", "source": "Letterform Archive", "date": "Aug 10", "url": "https://letterformarchive.org/news/from-the-collection-dorothy-and-otis-shepard/" },
+        { "headline": "Adventures Newly Narrated: Jessica Francis Kane on Penelope Fitzgerald's Lost Adventure", "source": "Public Books", "date": "Aug 11", "url": "https://www.publicbooks.org/adventures-newly-narrated-jessica-francis-kane-on-penelope-fitzgeralds-lost-adventure/" }
+      ]
+    }
+  },
+  {
+    "dateLabel": "August 12, 2026",
+    "hero": {
+      "headline": "After the Post-Avant-Garde",
+      "dek": "Sean Tatol traces how the internet dismantled the subcultural scenes that once sustained avant-garde art criticism, and argues artists are better served drawing on the full historical archive than chasing novelty for its own sake.",
+      "byline": "By Sean Tatol · The Point Magazine",
+      "image": "https://thepointmag.com/wp-content/uploads/2026/08/LutzBacher_web2.jpg",
+      "caption": "Lutz Bacher, Angry Bird, 2016. Printed polyester, helium balloon, 110 × 80 × 1 cm. Courtesy of the Estate of Lutz Bacher and Galerie Buchholz",
+      "url": "https://thepointmag.com/criticism/after-the-post-avant-garde/"
+    },
+    "categories": {
+      "design-arch": [
+        { "headline": "They Turned a 1930s Cinque Terre Villa Into a Sunny, Streamlined Surf Shack", "source": "Dwell", "date": "Aug 11", "url": "https://www.dwell.com/article/surf-house-llab-renovated-apartment-mediterranean-coast-787cee3e" },
+        { "headline": "A Vancouver Addition Blurs the Line Between House and Garden", "source": "Design Milk", "date": "Aug 11", "url": "https://design-milk.com/evoke-international-design-vancouver-home-addition/", "image": "https://design-milk.com/images/2026/08/vancouver-home-evoke-international-design-18.jpg" },
+        { "headline": "Industrial Designer Gudmundur Ludvik Re-Thinks the Folding Chair", "source": "Core77", "date": "Aug 11", "url": "https://www.core77.com/posts/145038/Industrial-designer-Gudmundur-Ludvik-Re-Thinks-the-Folding-Chair" },
+        { "headline": "Furniture Made From Wood Scraps You'd Actually Pay For", "source": "Yanko Design", "date": "Aug 12", "url": "https://www.yankodesign.com/2026/08/12/furniture-made-from-wood-scraps-youd-actually-pay-for/" }
+      ],
+      "craft": [
+        { "headline": "Discipline and Routine: A Conversation with Augustas Serapinas", "source": "Sculpture Magazine", "date": "Aug 12", "url": "https://sculpturemagazine.art/discipline-and-routine-a-conversation-with-augustas-serapinas/", "image": "https://i0.wp.com/sculpturemagazine.art/wp-content/uploads/2026/08/9-replacement-AS.jpg?fit=2398%2C1800&ssl=1" },
+        { "headline": "The Sound of Broken Eggshells: Luzie Meyer", "source": "Flash Art", "date": "Jul 30", "url": "https://flash---art.com/article/the-sound-of-broken-eggshells-luzie-meyer/" },
+        { "headline": "Did Duchamp Give Up on Art, or Did Art Give Up on Duchamp?", "source": "Cultbytes", "date": "Jul 30", "url": "https://cultbytes.com/did-duchamp-give-up-on-art-or-did-art-give-up-on-duchamp/" },
+        { "headline": "Marques Hanalei Marzan Puts His Spin on Hermès petit h in Hawaii", "source": "Whitewall", "date": "Aug 11", "url": "https://whitewall.art/art/marques-hanalei-marzan-puts-his-spin-on-hermes-petit-h-in-hawaii/" }
+      ],
+      "photo-film": [
+        { "headline": "Richies & Rebels: On Ferris Bueller's Day Off and Pretty in Pink at 40", "source": "Talkhouse Film", "date": "Aug 12", "url": "https://talkhouse.com/richies-rebels" },
+        { "headline": "Chester Higgins on Photographing Black Life Across the Diaspora", "source": "Feature Shoot", "date": "May 20", "url": "https://www.featureshoot.com/2026/05/chester-higgins-on-photographing-black-life-across-the-diaspora/", "image": "https://i0.wp.com/www.featureshoot.com/wp-content/uploads/2026/05/Chester_higgins5.png?resize=1280%2C822&ssl=1" },
+        { "headline": "Lemons and Lemonade: A Review of the Pentax PC35AF", "source": "Casual Photophile", "date": "Jan 30", "url": "https://casualphotophile.com/2026/01/30/pentax-pc35af-camera-review/" },
+        { "headline": "Miniature Wildlife Portraits, Built From the Plastic That Threatens Them", "source": "My Modern Met (Art)", "date": "Aug 11", "url": "https://mymodernmet.com/benedek-lampert-the-nature-we-replaced/" }
+      ],
+      "sound-vinyl": [
+        { "headline": "Album Review: Overmono – Pure Devotion", "source": "Beats Per Minute", "date": "Aug 7", "url": "https://beatsperminute.com/album-review-overmono-pure-devotion/" },
+        { "headline": "Helen – Dead Shark II", "source": "Gorilla vs Bear", "date": "Aug 4", "url": "https://www.gorillavsbear.net/helen-dead-shark-ii/" },
+        { "headline": "Kyle Watson: \"A Track Is Never Finished – You Just Have to Know When to Stop\"", "source": "Attack Magazine", "date": "Jul 7", "url": "https://www.attackmagazine.com/features/interview/kyle-watson-a-track-is-never-finished-you-just-have-to-know-when-to-stop/" },
+        { "headline": "Track Premiere: Encasement – \"Exodus\"", "source": "Decibel Magazine", "date": "Aug 12", "url": "https://www.decibelmagazine.com/2026/08/12/track-premiere-encasement-exodus/", "image": "https://www.decibelmagazine.com/wp-content/uploads/2026/08/ENCASEMENT-James-forest-bw-2-Photo-by-Gen-Pintel-e1786137620512-820x375.jpg" }
+      ],
+      "collecting": [
+        { "headline": "A Closer Look: Credor Goldfeather Porcelain Dial", "source": "Revolution", "date": "Aug 12", "url": "https://revolutionwatch.com/a-closer-look-credor-goldfeather-porcelain-dial/" },
+        { "headline": "Barrington Watch Winders Provide Stylish Storage That Keeps Your Watches Wound and Ready", "source": "Time+Tide Watches", "date": "Aug 11", "url": "https://timeandtidewatches.com/barrington-watch-winders-hands-on/" },
+        { "headline": "The GBA at 25: Celebrating Nintendo's Pixel Powerhouse", "source": "Bitmap Books", "date": "Aug 3", "url": "https://www.bitmapbooks.com/blogs/news/the-gba-at-25-celebrating-nintendos-pixel-powerhouse", "image": "https://www.bitmapbooks.com/cdn/shop/articles/GBABlog_BitmapBooks_2637de2c-0930-4cf7-8b6d-95d1f0253d48_1024x642.jpg?v=1785772113" },
+        { "headline": "A Mego Buck Rogers Toy Fair Photo from Australia, 1980", "source": "Plaid Stallions", "date": "Aug 2", "url": "https://plaidstallions.com/reboot/mego-buck-rogers-toy-fair-photo-from-australia-1980/" }
+      ],
+      "archives": [
+        { "headline": "Newly Discovered Standing Stones in France Shed Light on the Ancient Megalith Builders", "source": "The Art Newspaper", "date": "Aug 12", "url": "https://www.theartnewspaper.com/2026/08/12/newly-discovered-standing-stones-in-france-shed-light-on-the-ancient-megalith-builders", "image": "https://cdn.sanity.io/images/cxgd3urn/production/e572116e8cc5c6e410814407bedf13c7a94c19a3-1781x1002.jpg?w=1200&h=675&q=85&fit=crop&auto=format" },
+        { "headline": "17 NYC Businesses That Feel Like Old New York", "source": "6sqft", "date": "Aug 5", "url": "https://www.6sqft.com/nyc-businesses-that-feel-like-old-new-york/" },
+        { "headline": "How Civilisations Fall, According to Gibbon", "source": "Engelsberg Ideas", "date": "Jul 22", "url": "https://engelsbergideas.com/essays/how-civilisations-fall-according-to-gibbon/" },
+        { "headline": "The Surprising, Tangled Origins of the Kippa", "source": "Jewish Review of Books", "date": "Summer 2026", "url": "https://jewishreviewofbooks.com/jewish-history/20024/cover-story/" }
+      ]
+    }
+  },
+  {
+    "dateLabel": "August 11, 2026",
+    "hero": {
+      "headline": "How Art Invented Humanity",
+      "dek": "When early humans first painted cave walls, they began to find out who they really were: our minds emerged from our images.",
+      "byline": "By J F Martel · Aeon",
+      "image": "https://images.aeonmedia.co/images/9dd5b35c-261c-4106-8a9b-53f732aab9b8/essay-hi-res-quilt-nmah-89-10656-000001.jpg?width=1200&quality=75&format=jpeg",
+      "caption": "Solar System (1876), a quilt by Ellen Harding Baker. Courtesy the Smithsonian Libraries and Archives",
+      "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around"
+    },
+    "categories": {
+      "design-arch": [
+        { "headline": "Studio Maks Tops Science Pavilion in Austria With an Undulating Mirrored Roof", "source": "Dezeen", "date": "Aug 11", "url": "https://www.dezeen.com/2026/08/11/studio-maks-vista-science-experience-centre/" },
+        { "headline": "A Weathered Steel-Clad Artist's Studio Recedes Into the Forest", "source": "Azure Magazine", "date": "Jul 21", "url": "https://www.azuremagazine.com/article/verge-select-artist-studio/", "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Verge-Select-Watson-Studio-hero.jpg" },
+        { "headline": "Sun Gold, Aquamarine, Bright Blue: This Ibiza Apartment Mirrors the Land, Sea, and Sky", "source": "Domino", "date": "Aug 10", "url": "https://www.domino.com/design-inspiration/ingrid-rasmussen-ibiza-spain-holiday-home/" },
+        { "headline": "This Tokyo Hair Salon Was Built to Change Its Mind", "source": "Yellowtrace", "date": "Aug 5", "url": "https://www.yellowtrace.com.au/atelier-write-unravel-tokyo-hair-salon-movable-steel-structure/" }
+      ],
+      "craft": [
+        { "headline": "Where There Is Life, There Are Zines", "source": "Sixty Inches From Center", "date": "Aug 10", "url": "https://sixtyinchesfromcenter.org/where-there-is-life-there-are-zines/", "image": "https://sixtyinchesfromcenter.org/wp-content/uploads/2026/07/Ladasia_Zines_art_2-scaled.jpeg" },
+        { "headline": "Dallas Is a City of Paradoxes, Says Architecture Critic Mark Lamster", "source": "Glasstire", "date": "Aug 9", "url": "https://glasstire.com/2026/08/09/art-dirt-dallas-is-paradox-city-talking-with-mark-lamster/" },
+        { "headline": "Labor and Belief in Luna Palazzolo-Daboul's Artworks", "source": "Burnaway", "date": "Aug 11", "url": "https://burnaway.org/daily/labor-and-belief-in-luna-palazzolo-dabouls-artworks/" },
+        { "headline": "Rae-Yen Song's Marvellous Mini-Beasts and the Pleasures of Parasitism", "source": "Elephant Magazine", "date": "Aug 5", "url": "https://elephant.art/rae-yen-song/" }
+      ],
+      "photo-film": [
+        { "headline": "Powell and Pressburger's Enduring Myth of Britishness", "source": "Bright Wall/Dark Room", "date": "Aug 5", "url": "https://www.brightwalldarkroom.com/2026/08/05/blimps-and-pimpernels-powell-and-pressburger-and-the-myth-of-britishness/" },
+        { "headline": "Brandon Tani: Mining New Veins", "source": "Lenscratch", "date": "Aug 11", "url": "https://lenscratch.com/2026/08/brandon-tani/", "image": "http://lenscratch.com/wp-content/uploads/2026/05/Tani-14.jpg" },
+        { "headline": "How the First Photo of a Black Hole Was Actually Made", "source": "Fstoppers", "date": "Aug 11", "url": "https://fstoppers.com/originals/how-first-photo-black-hole-was-actually-made-903649" },
+        { "headline": "Vanishing Soon", "source": "35mmc", "date": "Aug 11", "url": "https://www.35mmc.com/11/08/2026/vanishing-soon/" }
+      ],
+      "sound-vinyl": [
+        { "headline": "Rough Trade's August Pick: Man/Woman/Chainsaw's Cannonball", "source": "Rough Trade", "date": "Aug 7", "url": "https://blog.roughtrade.com/album-of-the-month-august-2026/" },
+        { "headline": "10 Reasons Why You Need Castle Rat in Your Life", "source": "Kerrang!", "date": "Aug 4", "url": "https://www.kerrang.com/castle-rat-interview-rat-queen-riley-pinkerton-10-reasons-why-you-need-them-in-your-life-rodent-grim-reapers-plague-doctors-swords-sorcery-magic" },
+        { "headline": "Screen Time: Tony Njoku", "source": "Crack Magazine", "date": "Aug 7", "url": "https://crackmagazine.net/article/long-reads/screen-time-tony-njoku-interview/", "image": "https://crackmagazine.net/wp-content/uploads/2026/08/Tony-Njoku-screen-time-parallax.jpg" },
+        { "headline": "Fear Factory's Obsolete Predicted Our Current AI Surveillance Dystopia", "source": "Stereogum", "date": "Jul 31", "url": "https://stereogum.com/2506715/mans-not-obsolete-fear-factory-at-the-dawn-of-the-ai-resistance/columns/breaking-the-oath" }
+      ],
+      "collecting": [
+        { "headline": "Matchbox Monday Returns to 2026's Batch H", "source": "Lamley Group", "date": "Aug 10", "url": "https://lamleygroup.com/2026/08/10/matchbox-monday-heads-back-to-2026-batch-h-basics/", "image": "https://i0.wp.com/lamleygroup.com/wp-content/uploads/2026/07/260810-2026-Batch-H-part-2-70.jpg?fit=1200%2C900&ssl=1" },
+        { "headline": "Gulliver Toys' \"Super Heroes\" Brand Incredible Hulk From Colombia", "source": "Mego Museum", "date": "Jul 21", "url": "https://www.megomuseum.com/gulliver-toys-super-heroes-brand-incredible-hulk-from-colombia/" },
+        { "headline": "Delcampe's Top Sales for July 2026", "source": "Delcampe", "date": "Jul 23", "url": "https://blog.delcampe.net/en/delcampe-top-sales-july-2026/" },
+        { "headline": "A Watch Lover's Pilgrimage to Vienna's Uhrenmuseum", "source": "Fratello Watches", "date": "Aug 9", "url": "https://www.fratellowatches.com/a-watch-lovers-pilgrimage-to-viennas-uhrenmuseum/" }
+      ],
+      "archives": [
+        { "headline": "A Neon Wonderland Is Housed in a Historic Elks Building in The Dalles, Oregon", "source": "Atlas Obscura", "date": "Aug 9", "url": "https://www.atlasobscura.com/articles/posts/a-neon-wonderland-is-housed-in-a-historic-elks-building-in-the-dalles-oregon" },
+        { "headline": "Francis Younghusband and the Delusions of the Great Game", "source": "Engelsberg Ideas", "date": "Aug 11", "url": "https://engelsbergideas.com/portraits/francis-younghusband-and-the-delusions-of-the-great-game/" },
+        { "headline": "The Soviets Drilled the Deepest Hole Ever", "source": "Nautilus", "date": "Aug 11", "url": "https://nautil.us/the-soviets-drilled-the-deepest-hole-ever-1283561" },
+        { "headline": "The First Tomato to Know Everything", "source": "Cabinet Magazine", "date": "Feb 2026", "url": "https://www.cabinetmagazine.org/issues/70/oreilly2.php", "image": "https://cabinetmagazine.org/issues/70/cabinet_070_oreilly_sally2_facebook_twitter.jpg" }
+      ]
+    }
+  },
+  {
+    "dateLabel": "August 10, 2026",
+    "hero": {
+      "headline": "Thank You, Everything: An Illustrated Love Letter to the World",
+      "dek": "Icinori's wordless, cumulative picture book turns a simple \"thank you,\" first to a chair, then to the rain, then to the whole improbable world, into a sweeping meditation on gratitude as a way of seeing.",
+      "byline": "By Maria Popova · The Marginalian",
+      "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/12/thankyoueverything1.jpg",
+      "caption": "Illustration from Icinori's Thank You, Everything, 2024",
+      "url": "https://www.themarginalian.org/2026/08/07/thank-you-everything-icinori/"
+    },
+    "categories": {
+      "design-arch": [
+        { "headline": "Sou Fujimoto's Meiji Park Brings a Three-Dimensional Landscape to Hakata Station", "source": "Spoon &amp; Tamago", "date": "Aug 7", "url": "https://spoon-tamago.com/sou-fujimoto-meiji-park-fukuoka/", "image": "https://spoon-tamago.com/wp-content/uploads/2026/08/meiji-park-fukuoka-by-sou-fujimoto-4.jpeg" },
+        { "headline": "How the Arts and Crafts Movement Still Shapes Contemporary Architecture", "source": "ArchDaily", "date": "Aug 10", "url": "https://www.archdaily.com/1181917/how-the-arts-and-crafts-movement-still-shapes-contemporary-architecture" },
+        { "headline": "Pentagram Nails Controlled Chaos in Its Identity for Manhattan \"Shophouse\" Style Thai Restaurant LenLen", "source": "BP&amp;O", "date": "Aug 4", "url": "https://bpando.org/2026/08/04/pentagram-manhattan-thai-restaurant-lenlen/" },
+        { "headline": "Noble Signs Restores NYC's Storefront Signage So You \"Feel at Home Before You've Stepped in Your Own Door\"", "source": "It's Nice That", "date": "Jul 16", "url": "https://www.itsnicethat.com/articles/nicer-tuesdays-new-york-june-noble-signs-160726" }
+      ],
+      "craft": [
+        { "headline": "Simone Forti Talks Yoko Ono, Dance, and Aging in Never-Before-Published Interview", "source": "Hyperallergic", "date": "Aug 6", "url": "https://hyperallergic.com/simone-forti-talks-yoko-ono-dance-and-aging-in-never-before-published-interview/" },
+        { "headline": "Fall in Love With the Strange Beauty of Artist Gwen John", "source": "Wallpaper*", "date": "Aug 8", "url": "https://www.wallpaper.com/art/exhibitions-shows/gwen-john-scottish-national-gallery-of-modern-art" },
+        { "headline": "New York City's Last Standing Wood Column Company Closes After 110 Years", "source": "Colossal", "date": "Aug 6", "url": "https://www.thisiscolossal.com/2026/08/american-wood-column-corporation-closes/", "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/americanwoodcolumncorp-13-e1786131818546.jpg" },
+        { "headline": "Es Devlin, Grayson Perry and Danh Vō Headline Frieze Masters Talks 2026", "source": "Frieze", "date": "Aug 7", "url": "https://www.frieze.com/article/frieze-masters-2026-talks-programme" }
+      ],
+      "photo-film": [
+        { "headline": "Behind the Window Display: Cinema's Desperate Salesmen", "source": "Little White Lies", "date": "Aug 3", "url": "https://lwlies.com/deep-cuts/behind-the-window-display-cinemas-desperate-salesmen", "image": "https://tco-london.transforms.svdcdn.com/production/tco/images/salesmen.jpg?w=1200&h=630&q=82&auto=format%2Cavif&fit=min&dm=1785672445&s=427b9052f142b4bcd91ec52ddd4a8937" },
+        { "headline": "\"He Was a Giant for Work\": Michal Leszczylowski, Editor of The Sacrifice, on Andrei Tarkovsky", "source": "Sight and Sound", "date": "Autumn 1987", "url": "https://www.bfi.org.uk/sight-and-sound/features/he-was-giant-work-michal-leszczylowski-editor-sacrifice-andrei-tarkovsky" },
+        { "headline": "Courtney Love Looks Back on Her Life as a Movie Star", "source": "Criterion", "date": "Jul 2", "url": "https://www.criterion.com/current/posts/9206-courtney-love-looks-back-on-her-life-as-a-movie-star" },
+        { "headline": "How Schiaparelli Reimagined the Fashion Photograph", "source": "Aperture", "date": "Jun 25", "url": "https://aperture.org/editorial/how-schiaparelli-reimagined-the-fashion-photograph/" }
+      ],
+      "sound-vinyl": [
+        { "headline": "A Guide to Dimmu Borgir, the Original Symphonic Black Metal Band", "source": "Bandcamp Daily", "date": "Aug 10", "url": "https://daily.bandcamp.com/lists/dimmu-borgir-album-guide" },
+        { "headline": "John Carpenter: Cathedral", "source": "The Quietus", "date": "Aug 10", "url": "https://thequietus.com/quietus-reviews/john-carpenter-cathedral-review/", "image": "https://thequietus.com/app/uploads/2026/08/carpenter-cathedral.avif" },
+        { "headline": "The Durutti Column :: Renascent", "source": "Aquarium Drunkard", "date": "Aug 10", "url": "https://aquariumdrunkard.com/2026/08/10/the-durutti-column-renascent/" },
+        { "headline": "Ricardo Villalobos: Slipping Through Time", "source": "Resident Advisor", "date": "Jul 16", "url": "https://ra.co/features/4513" }
+      ],
+      "collecting": [
+        { "headline": "Michael D. Roberto, Hess Toy Truck Historian", "source": "Toy Tales", "date": "Jul 3", "url": "https://toytales.ca/michael-d-roberto-hess-toy-truck-historian/" },
+        { "headline": "London Centre for Book Arts", "source": "Present &amp; Correct", "date": "Jul 8", "url": "https://www.presentandcorrect.com/blogs/blog/london-centre-for-book-arts" },
+        { "headline": "\"Exploring Unfamiliar Histories of Visual Culture\": Four Corners Books Shares Its Favorite Publications", "source": "AIGA Eye on Design", "date": "Oct 2022", "url": "https://eyeondesign.aiga.org/exploring-unfamiliar-histories-of-visual-culture-four-corners-books-shares-its-favorite-publications/" },
+        { "headline": "An Archivist's \"Ephemeral Expertise\"", "source": "The Strong National Museum of Play", "date": "Aug 7", "url": "https://www.museumofplay.org/blog/an-archivists-ephemeral-expertise/", "image": "https://www.museumofplay.org/app/uploads/2026/08/Improved-Game-of-Snap.jpg" }
+      ],
+      "archives": [
+        { "headline": "Animal, Vegetable, Lamb: The Zoophyte From Tartary", "source": "Public Domain Review", "date": "May 28", "url": "https://publicdomainreview.org/essay/animal-vegetable-lamb/" },
+        { "headline": "Sounds &amp; Stories: A V&amp;A East Event Exploring and Celebrating Black British Music", "source": "V&amp;A Blog", "date": "Aug 4", "url": "https://www.vam.ac.uk/blog/east/sounds-stories-a-va-east-event-exploring-and-celebrating-black-british-music", "image": "https://www.vam.ac.uk/blog/wp-content/uploads/TMIB-trip.jpg" },
+        { "headline": "Rollerena: New York's Fairy Godmother", "source": "JSTOR Daily", "date": "Jun 24", "url": "https://daily.jstor.org/rollerena-new-yorks-fairy-godmother/" },
+        { "headline": "This Box of 300 Love Letters Showed Up Out of the Blue. Who Was the Whimsical World War II Soldier Who Wrote Them?", "source": "Smithsonian Magazine", "date": "Aug 10", "url": "https://www.smithsonianmag.com/history/this-box-of-300-love-letters-showed-up-out-of-the-blue-who-was-the-whimsical-world-war-ii-soldier-who-wrote-them-180989300/" }
+      ]
+    }
+  },
+  {
+    "dateLabel": "August 7, 2026",
+    "hero": {
+      "headline": "Roots and the Meaning of Life",
+      "dek": "A century-old, hand-illustrated study of prairie plant root systems — cross-sections showing how each species anchors itself, unseen, underground — becomes an unlikely meditation on the hidden architecture that holds up a life, and a character, from below.",
+      "byline": "By Maria Popova · The Marginalian",
+      "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/03/roots1.jpg?resize=680%2C544&ssl=1",
+      "caption": "Root-system illustration from John Weaver's The Ecological Relations of Roots, 1919",
+      "url": "https://www.themarginalian.org/2026/08/04/roots/"
+    },
+    "categories": {
+      "design-arch": [
+        { "headline": "Micro-Ecosystems: South Korea's Answer to High-Density Mixed-Use Living", "source": "ArchDaily", "date": "Aug 7", "url": "https://www.archdaily.com/1182297/micro-ecosystems-south-koreas-answer-to-high-density-mixed-use-living" },
+        { "headline": "Lukas Bobotis Turns a Compact Plot in Athens into a Vertical Family Home", "source": "Yatzer", "date": "Jul 23", "url": "https://www.yatzer.com/c27-lukas-bobotis-athens-greece", "image": "https://media.yatzer.com/33-C27-Athens-Bobotis-Architects-photo-Alina-Lefa-yatzer-1400x934.jpg" },
+        { "headline": "All Purpose Ditches Wine Clichés in Its Lurid New Identity for Natural Wine Importer Ancestrel", "source": "BP&amp;O", "date": "Aug 6", "url": "https://bpando.org/2026/08/06/all-purpose-natural-wine-ancestrel-identity-brand-design/" },
+        { "headline": "The Daily Heller: Das Plakat From Germany and Switzerland", "source": "PRINT Magazine", "date": "Jul 19", "url": "https://www.printmag.com/daily-heller/the-daily-heller-das-plakat-in-germany-and-switzerland/" }
+      ],
+      "craft": [
+        { "headline": "Anna Boghiguian on Weaving Armenia", "source": "Hyperallergic", "date": "Aug 6", "url": "https://hyperallergic.com/anna-boghiguian-on-weaving-armenia/" },
+        { "headline": "Suleman Aqeel Khilji's Fires of Memory", "source": "Frieze", "date": "Jun 25", "url": "https://www.frieze.com/article/suleman-aqeel-khilji-transmission-2026-review" },
+        { "headline": "Del LaGrace Volcano on Photography, Performance and a Lifetime of Revolutionising LGBTQI+ Visual Culture", "source": "Wallpaper*", "date": "Aug 1", "url": "https://www.wallpaper.com/art/photography/del-lagrace-volcano-exhibition" },
+        { "headline": "A Menagerie of Animal Sculptures by 50+ Artists Populate 'The Ark'", "source": "Colossal", "date": "Aug 7", "url": "https://www.thisiscolossal.com/2026/08/the-ark-powerhouse-arts-animal-sculptures-exhibition/", "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/ark-9.jpeg" }
+      ],
+      "photo-film": [
+        { "headline": "Minor Keys and Major Unrest", "source": "MUBI Notebook", "date": "Jul 19", "url": "https://mubi.com/en/notebook/posts/minor-keys-and-major-unrest" },
+        { "headline": "Venus as a Boy: Pink Narcissus at 55", "source": "Little White Lies", "date": "Aug 6", "url": "https://lwlies.com/in-praise-of/pink-narcissus-at-55", "image": "https://tco-london.transforms.svdcdn.com/production/tco/images/Little-White-Lies/pink-narcissus.jpg?w=1920&h=1080&q=80&fm=webp&fit=min&dm=1786009255&s=a8751bfa51c63a3661d6c31a6ee51eae" },
+        { "headline": "\"It Earns Every Hair It Stiffens\": Alejandro Amenábar's The Others", "source": "Sight and Sound", "date": "Nov 2001", "url": "https://www.bfi.org.uk/sight-and-sound/features/it-earns-every-hair-it-stiffens-alejandro-amenabars-others" },
+        { "headline": "The Sudanese Film Group's Legacy of Political Resistance and Creative Liberation", "source": "Criterion", "date": "Aug 7", "url": "https://www.criterion.com/current/posts/9243-the-sudanese-film-group-s-legacy-of-political-resistance-and-creative-liberation" }
+      ],
+      "sound-vinyl": [
+        { "headline": "The Strange World Of… The Cramps", "source": "The Quietus", "date": "Aug 6", "url": "https://thequietus.com/interviews/strange-world-of/the-cramps-best-music/", "image": "https://thequietus.com/app/uploads/2026/08/Cramps_BoweryBasement_1977_frame19_V14_16x24_GODLIS-1024x695.jpg" },
+        { "headline": "Faire Play: The Modern World of Early Music", "source": "Bandcamp Daily", "date": "Aug 4", "url": "https://daily.bandcamp.com/features/contemporary-early-music-feature" },
+        { "headline": "Pax Nicholas and the Nettey Family :: Na Teef Know De Road of Teef", "source": "Aquarium Drunkard", "date": "Aug 6", "url": "https://aquariumdrunkard.com/2026/08/06/pax-nicholas-and-the-nettey-family-na-teef-know-de-road-of-teef/" },
+        { "headline": "Standouts From 50 Years of Electronic Jazz", "source": "Resident Advisor", "date": "Jul 23", "url": "https://ra.co/features/4515" }
+      ],
+      "collecting": [
+        { "headline": "A Small Collection of Deadstock Drafting Templates", "source": "Present &amp; Correct", "date": "May 19", "url": "https://www.presentandcorrect.com/blogs/blog/a-small-collection-of-deadstock-drafting-templates" },
+        { "headline": "Camera Geekery: Kodak Aerochrome Cameras", "source": "Japan Camera Hunter", "date": "Mar 16", "url": "https://www.japancamerahunter.com/2026/03/camera-geekery-kodak-aerochrome-cameras/" },
+        { "headline": "Toys and U.S. History in Playthings Magazine", "source": "The Strong National Museum of Play", "date": "", "url": "https://www.museumofplay.org/blog/toys-and-u-s-history-in-playthings-magazine/", "image": "https://www.museumofplay.org/app/uploads/2025/01/Advertisement-2-1024x768.jpg" },
+        { "headline": "Jason Morgan, Transformers", "source": "Toy Tales", "date": "Aug 7", "url": "https://toytales.ca/jason-morgan-transformers/" }
+      ],
+      "archives": [
+        { "headline": "Look What Zaiba Jabbar Found at V&amp;A East Storehouse", "source": "V&amp;A Blog", "date": "Aug 1", "url": "https://www.vam.ac.uk/blog/east/look-what-zaiba-jabbar-found-at-va-east-storehouse", "image": "https://www.vam.ac.uk/blog/wp-content/uploads/Picture1-8.png" },
+        { "headline": "Louis Pope Gratacap, A Curator in Lost Worlds", "source": "Public Domain Review", "date": "Jun 17", "url": "https://publicdomainreview.org/essay/gratacap-curator-in-lost-worlds/" },
+        { "headline": "Life Inside Icelandic Turf Houses", "source": "JSTOR Daily", "date": "Jul 15", "url": "https://daily.jstor.org/life-inside-icelandic-turf-houses/" },
+        { "headline": "The American Revolution's Overlooked Influence? Physics. How 'Common Sense' Spelled Out Astronomical Expectations for a New Nation", "source": "Smithsonian Magazine", "date": "Summer 2026", "url": "https://www.smithsonianmag.com/history/american-revolution-overlooked-influence-physics-thomas-paine-common-sense-spelled-out-astronomical-expectations-new-nation-180988795/" }
+      ]
+    }
+  },
+  {
+    "dateLabel": "August 6, 2026",
+    "hero": {
+      "headline": "Trial, Triumph, and the Art of the Possible: The Remarkable Story Behind Beethoven's \"Ode to Joy\"",
+      "dek": "Going deaf and living through political upheaval, Beethoven spent three decades turning a Schiller poem he'd loved since his teens into the choral finale of his Ninth Symphony — writing at the time, \"Day by day I am approaching the goal which I apprehend but cannot describe.\"",
+      "byline": "By Maria Popova · The Marginalian",
+      "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/05/odetojoy_Marginalian.jpg",
+      "caption": "Beethoven by Josef Willibrord Mähler, circa 1804–1805",
+      "url": "https://www.themarginalian.org/2026/08/04/beethoven-ode-to-joy/"
+    },
+    "categories": {
+      "design-arch": [
+        { "headline": "Has Architecture Ever Been Entirely Human? Beatriz Colomina and Mark Wigley on the Microbial Nature of Architecture", "source": "ArchDaily", "date": "Aug 6", "url": "https://www.archdaily.com/1181842/has-architecture-ever-been-entirely-human-beatriz-colomina-and-mark-wigley-on-the-microbial-nature-of-architecture" },
+        { "headline": "Rumah Rubah by Maximilian Jencquel: Where Japanese Restraint Meets Balinese Craft", "source": "Yatzer", "date": "Aug 5", "url": "https://www.yatzer.com/rumah-rubah-maison-kitsune-studio-jencquel-bali-indonesia" },
+        { "headline": "Coca-Cola's new identity by JKR proves that sometimes the smartest rebrand is barely a rebrand at all", "source": "BP&amp;O", "date": "Jul 30", "url": "https://bpando.org/2026/07/30/coca-cola-identity-refresh-jkr/" },
+        { "headline": "Violaine et Jérémy Keep Materiality, Craft, and Hand-Drawn Illustration Kicking in the Digital Age", "source": "The Dieline", "date": "Aug 6", "url": "https://thedieline.com/violaine-et-jeremy-keep-materiality-craft-and-hand-drawn-illustration-kicking-in-the-digital-age/", "image": "https://thedieline.com/wp-content/uploads/2026/08/EASTERN_AND_ORIENTAL_EXPRESS_BELMOND1-scaled.jpg" }
+      ],
+      "craft": [
+        { "headline": "The Scent of Ancient Rome in St. Louis", "source": "Hyperallergic", "date": "Aug 5", "url": "https://hyperallergic.com/the-scent-of-ancient-rome-in-st-louis/" },
+        { "headline": "The Summer Belongs to Joel Meyerowitz", "source": "Aperture", "date": "Jul 8", "url": "https://aperture.org/editorial/the-summer-belongs-to-joel-meyerowitz/", "image": "https://aperture.org/wp-content/uploads/2026/07/joel-meyerowitz-truro.jpg" },
+        { "headline": "Japan's First Shrine Dedicated to Plushies Opens for Stuffed Animal Devotees", "source": "Spoon &amp; Tamago", "date": "Jun 23", "url": "https://spoon-tamago.com/japan-first-plushie-shrine/" },
+        { "headline": "The Summer of Male Shorts Anxiety", "source": "The Cut", "date": "Aug 5", "url": "https://www.thecut.com/article/male-shorts-anxiety-summer.html" }
+      ],
+      "photo-film": [
+        { "headline": "This Dystopian Future: A Conversation with Tsai Ming-liang", "source": "MUBI Notebook", "date": "Aug 6", "url": "https://mubi.com/en/notebook/posts/this-dystopian-future-a-conversation-with-tsai-ming-liang" },
+        { "headline": "Film Blocking 101: Space, Shape, and Power on Screen", "source": "No Film School", "date": "Aug 5", "url": "https://nofilmschool.com/film-blocking-guide", "image": "https://nofilmschool.com/media-library/django.jpg?id=34082835&width=1245&height=700&quality=50&coordinates=196%2C0%2C196%2C0" },
+        { "headline": "\"It Ain't Like It Used to Be. But It'll Do\": How Sam Peckinpah's 'The Wild Bunch' Became Both a Eulogy for a Mythic Past and a Template for a New Kind of Action", "source": "Cinephilia &amp; Beyond", "date": "Jun 19", "url": "https://cinephiliabeyond.org/the-wild-bunch/" },
+        { "headline": "When Carolco Was King", "source": "Metrograph", "date": "Jul 6", "url": "https://metrograph.com/carolco-was-king-curtis-tsui/" }
+      ],
+      "sound-vinyl": [
+        { "headline": "This Organ Will Play One Composition Until 2640. It's Redefining How Slowly Music Can Be Played", "source": "AP News", "date": "Aug 6", "url": "https://apnews.com/article/john-cage-organ-project-halberstadt-organ-aslsp-938b5a1d0bc3d8d0dec5cb19accd00a6" },
+        { "headline": "Hieroglyphics Reveal the Original Name of 93 Til Infinity and the Story Behind Their Logo", "source": "Ambrosia for Heads", "date": "Apr 13", "url": "https://ambrosiaforheads.com/2026/04/hieroglyphics-reveal-the-original-name-of-93-til-infinity-and-the-story-behind-their-logo/" },
+        { "headline": "Martyn: Between the Inner and Outer World", "source": "Wax Poetics", "date": "Jul 9", "url": "https://waxpoetics.com/blogs/editorial/martyn-between-the-inner-and-outer-world", "image": "https://waxpoetics.com/cdn/shop/articles/Martyn_Random_Portrait_03_Credit_Nigel3Times_5f09b7f6-abdb-47d5-9c33-bfe8d7663faf.jpg?v=1784291335&width=3648" },
+        { "headline": "The 25 Best-Selling New Releases on Discogs in July 2026", "source": "Discogs Digs", "date": "Aug 5", "url": "https://www.discogs.com/digs/collecting/the-25-best-selling-new-releases-on-discogs-in-july-2026/?srsltid=AfmBOoqzNlHfjBxmrN_Eia2Kj7RZrEj9uc5xlYK9c2E91kHX1ioJiRyG" }
+      ],
+      "collecting": [
+        { "headline": "The \"mechanical miracle\" that ruined Mark Twain's life", "source": "Res Obscura", "date": "Aug 5", "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined", "image": "https://substackcdn.com/image/fetch/$s_!Zpj4!,w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96f75737-4dd0-4fd9-a427-0c3ff00e03aa_1553x968.png" },
+        { "headline": "The Wizard of Oz Museum, Cocoa Beach, Florida", "source": "Toy Tales", "date": "Aug 2", "url": "https://toytales.ca/the-wizard-of-oz-museum-cocoa-beach-florida/" },
+        { "headline": "In your bag 1785 – John Gleason, Jr", "source": "Japan Camera Hunter", "date": "May 26", "url": "https://www.japancamerahunter.com/2026/05/in-your-bag-1785-john-gleason-jr/" },
+        { "headline": "Abbott Forming Games", "source": "The Strong National Museum of Play", "date": "Jul 16", "url": "https://www.museumofplay.org/blog/abbott-forming-games/" }
+      ],
+      "archives": [
+        { "headline": "\"Worthless Idiot, Donkey Head\": Parodies of Pedantry on the Renaissance Stage", "source": "Public Domain Review", "date": "Jul 8", "url": "https://publicdomainreview.org/essay/parodies-of-pedantry" },
+        { "headline": "The Many Lives of Libraries", "source": "JSTOR Daily", "date": "Aug 6", "url": "https://daily.jstor.org/we-love-libraries/" },
+        { "headline": "Connecting with Historic Silver through Modern Making", "source": "V&amp;A Blog", "date": "Aug 4", "url": "https://www.vam.ac.uk/blog/museum-life/connecting-with-historic-silver-through-modern-making", "image": "https://www.vam.ac.uk/blog/wp-content/uploads/image-105.png" },
+        { "headline": "Seen Together: Ludwig &amp; Mayer Type Specimen and Poster Design for Chlorodont", "source": "Letterform Archive", "date": "Jun 22", "url": "https://letterformarchive.org/news/seen-together-chlorodont/" }
+      ]
+    }
+  },
+  {
+    "dateLabel": "August 5, 2026",
+    "hero": {
+      "headline": "Searching for Truth on the Set of \"The X-Files\"",
+      "dek": "In the early 2000s, photographer John Divola talked his way onto the abandoned soundstages of The X-Files, drawn to the seam between manufactured illusion and the ordinary machinery that built it.",
+      "byline": "By Chloe Wyma · Aperture",
+      "image": "https://aperture.org/wp-content/uploads/2026/07/263MAG099_Divola_HR.jpg",
+      "caption": "John Divola, from the series X-Files, Fox Studios, Los Angeles, 2002",
+      "url": "https://aperture.org/editorial/searching-for-truth-on-the-set-of-the-x-files/"
+    },
+    "categories": {
+      "design-arch": [
+        { "headline": "Bus Palladium Paris: Studio KO Turns a Legendary Pigalle Nightclub into a Five-Star Hotel", "source": "Yatzer", "date": "Jun 10", "url": "https://www.yatzer.com/bus-palladium-studio-ko-paris-france" },
+        { "headline": "Kiyo Takeda: The Architect Making Tokyo Green Again", "source": "Spoon &amp; Tamago", "date": "Jul 26", "url": "https://spoon-tamago.com/kiyo-takeda-the-architect-making-tokyo-green-again/", "image": "https://spoon-tamago.com/wp-content/uploads/2026/07/kiyo-takada-top.jpg" },
+        { "headline": "Escaping Demolition: The Preservation of the A. Conger Goodyear House", "source": "ArchDaily", "date": "Aug 5", "url": "https://www.archdaily.com/1181916/escaping-demolition-the-preservation-of-the-a-conger-goodyear-house" },
+        { "headline": "The Daily Heller: 30 Years of Sign Trawling", "source": "PRINT Magazine", "date": "Aug 5", "url": "https://www.printmag.com/daily-heller/the-daily-heller-thirty-years-of-sign-trawling/" }
+      ],
+      "craft": [
+        { "headline": "Tiny Faces Surface Amid Sweeping Lines in En Iwamura's Expressive Sculptures", "source": "Colossal", "date": "Aug 4", "url": "https://www.thisiscolossal.com/2026/08/en-iwamura-expressive-ceramic-sculptures/" },
+        { "headline": "Bruce Gilden Describes the People He Photographs as His \"Family\"", "source": "PetaPixel", "date": "Aug 5", "url": "https://petapixel.com/2026/08/05/bruce-gilden-describes-the-people-he-photographs-as-his-family/" },
+        { "headline": "Mark Sealy's Vision of Photography Beyond Critique", "source": "1000 Words", "date": "Jul 16", "url": "https://1000wordsmag.com/mark-sealys-vision-of-photography-beyond-critique/" },
+        { "headline": "Pleating With Iris van Herpen", "source": "Hyperallergic", "date": "Aug 5", "url": "https://hyperallergic.com/pleating-with-iris-van-herpen/", "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/irisvanherpen1-1.jpg" }
+      ],
+      "photo-film": [
+        { "headline": "Lee Anne Schmitt: An Anthropology of Americanism", "source": "Senses of Cinema", "date": "Jul 30", "url": "https://www.sensesofcinema.com/2026/interviews/lee-anne-schmitt-an-anthropology-of-americanism/" },
+        { "headline": "'The Parallax View' at 52: Pakula's Unsettling Examination of Post-Compliant America", "source": "Cinephilia &amp; Beyond", "date": "Jun 19", "url": "https://cinephiliabeyond.org/parallax-view-pakulas-unsettling-examination-post-compliant-america/" },
+        { "headline": "Double Exposure: India Donaldson and Eliza Hittmann", "source": "Metrograph", "date": "Aug 5", "url": "https://metrograph.com/double-exposure-india-donaldson-and-eliza-hittmann/", "image": "https://metrograph.com/wp-content/uploads/2026/08/indiaeliza.png" },
+        { "headline": "In Praise of Hiroshi Teshigahara: Surveyor of the Abyss", "source": "Little White Lies", "date": "Jul 30", "url": "https://lwlies.com/in-praise-of/in-praise-of-hiroshi-teshigahara-the-great-surveyor-of-the-abyss" }
+      ],
+      "sound-vinyl": [
+        { "headline": "Stayin' Alive: The History of the Disco Ball", "source": "DJ Mag", "date": "Aug 3", "url": "https://djmag.com/features/stayin-alive-history-of-disco-ball", "image": "https://djmag.com/sites/default/files/styles/djm_23_961x540/public/2026-08/HEADER%203.png.webp?itok=NdR0uNQx" },
+        { "headline": "How Afropunk's James Spooner Punked the Movement", "source": "PopMatters", "date": "Jul 30", "url": "https://www.popmatters.com/afropunk-james-spooner-2026" },
+        { "headline": "Ed Kuepper and The Saints: Australia's Original Punk Band", "source": "Tape Op Magazine", "date": "Nov 4", "url": "https://tapeop.com/interviews/170/ed-kuepper-and-the-saints-australia-s-original-punk-band/" },
+        { "headline": "\"Kingdom Come, Kingdom Go\" Brings Aging Church Organs Back to Life", "source": "Bandcamp Daily", "date": "Jul 24", "url": "https://daily.bandcamp.com/features/michael-cloud-duguay-kingdom-come-kingdom-go-feature" }
+      ],
+      "collecting": [
+        { "headline": "Camera Geekery: Father, Son, Camera, Action", "source": "Japan Camera Hunter", "date": "Mar 13", "url": "https://www.japancamerahunter.com/2026/03/camera-geekery-father-son-camera-action/" },
+        { "headline": "A Collectors' Guide to Urban Jürgensen Wristwatches", "source": "A Collected Man", "date": "Dec 11", "url": "https://www.acollectedman.com/blogs/journal/urban-jurgensen-wristwatches" },
+        { "headline": "What's in a Conservator's Toolkit?", "source": "The Strong National Museum of Play", "date": "Jun 4", "url": "https://www.museumofplay.org/blog/whats-in-a-conservators-toolkit/" },
+        { "headline": "Skill-It – The Frying Pan Maze from Milton Bradley (1966)", "source": "Toy Tales", "date": "Aug 4", "url": "https://toytales.ca/skill-it-the-frying-pan-maze-from-milton-bradley-1966/", "image": "https://toytales.ca/wp-content/uploads/2020/05/Skill-it.jpg" }
+      ],
+      "archives": [
+        { "headline": "Archie G. Norcross' Maine Forest Fire Maps (1918–22)", "source": "Public Domain Review", "date": "Jul 14", "url": "https://publicdomainreview.org/collection/maine-forest-fire-maps", "image": "https://pdr-assets.b-cdn.net/collections/maine-forest-fire-maps/BRM3549-Norcross-View-from-Double-Top-1919_lowres-3000x2990-edit.jpg?width=1200&height=765" },
+        { "headline": "The Oral Histories of the AIDS Crisis", "source": "JSTOR Daily", "date": "Jun 3", "url": "https://daily.jstor.org/the-oral-histories-of-the-aids-crisis/" },
+        { "headline": "Beyond the Music: Inside PJ Harvey's Archive", "source": "V&amp;A Blog", "date": "Jun 29", "url": "https://www.vam.ac.uk/blog/projects/beyond-the-music-inside-pj-harveys-archive" },
+        { "headline": "From the Collection: An Introduction to Letterform Archive in Hindi", "source": "Letterform Archive", "date": "Apr 22", "url": "https://letterformarchive.org/news/%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b9-%e0%a4%b8%e0%a5%87-%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b2%e0%a5%87%e0%a4%9f%e0%a4%b0/" }
+      ]
+    }
+  },
+  {
+    "dateLabel": "August 4, 2026",
+    "hero": {
+      "headline": "Twilight of the Velocipede: Typesetting Races before the Age of Linotype",
+      "dek": "Before mechanical typesetting machines rendered them obsolete, hand compositors competed in speed contests that drew thousands of spectators and serious prize money — races fast enough to earn the era's champion the nickname \"the Velocipede,\" and public enough that women compositors used them to fight for a place in the trade.",
+      "byline": "By Alex Wright · Public Domain Review",
+      "image": "https://pdr-assets.b-cdn.net/essays/twilight-of-the-velocipede/01-e8db5a102ce2e1d32f2d98a81c6e7af2-edit.jpg?width=1200&height=765",
+      "caption": "The Chicago Contestants, from A Collation of Facts Related to Fast Typesetting (1887)",
+      "url": "https://publicdomainreview.org/essay/twilight-of-the-velocipede"
+    },
+    "categories": {
+      "design-arch": [
+        { "headline": "Craft After Conflict: Why Rebuilding Cities Begins with Rebuilding Knowledge", "source": "ArchDaily", "date": "Aug 4", "url": "https://www.archdaily.com/1182061/craft-after-conflict-why-rebuilding-cities-begins-with-rebuilding-knowledge" },
+        { "headline": "Who was Jean Royère, the design titan who kept Parisian ateliers in business?", "source": "The Spaces", "date": "Jul 30", "url": "https://thespaces.com/who-was-jean-royere-the-design-titan-who-kept-parisian-ateliers-in-business/" },
+        { "headline": "Why Noguchi's Akari Light Sculptures Outshine the Trends", "source": "1stDibs Introspective", "date": "Jul 17", "url": "https://www.1stdibs.com/introspective-magazine/isamu-noguchi-akari-light-sculptures/" },
+        { "headline": "SHA-LA Waterfront Brings Yoga to a 19th-Century Grain Storehouse in Berlin's Kreuzberg", "source": "Yatzer", "date": "Jul 7", "url": "https://www.yatzer.com/shala-studios-waterfront-studio-hamara-berlin", "image": "https://media.yatzer.com/14-ShaLa-Waterfront-Berlin-photo-Jordana-Schramm-yatzer-1400x934.jpg" },
+        { "headline": "Yinka Ilori's New Book Explores the Chair as a Vessel for Memory and Identity", "source": "designboom", "date": "Aug 4", "url": "https://www.designboom.com/design/yinka-ilori-book-chair-vessel-memory-identity-oro-editions-chairman/" }
+      ],
+      "craft": [
+        { "headline": "The Untold Story Behind Larry Clark's \"Tulsa\"", "source": "Aperture", "date": "Jul 31", "url": "https://aperture.org/editorial/the-untold-story-behind-larry-clarks-tulsa/" },
+        { "headline": "Artist Uses Traditional Basketry Techniques to Create Wearable Woven Sculptures", "source": "My Modern Met", "date": "Jul 29", "url": "https://mymodernmet.com/lewis-prosser-willow-basketry-sculptures/", "image": "https://mymodernmet.com/wp/wp-content/uploads/2026/07/lewis-prosser-willow-basketry-sculptures-fb.jpg" },
+        { "headline": "Heritage Bookbinding Elements Transform into Contemporary Sculptures by Adelene Koh", "source": "Colossal", "date": "Jul 31", "url": "https://www.thisiscolossal.com/2026/07/adelene-koh-bookbinding-paper-sewing-sculpture-loewe-craft-prize/" },
+        { "headline": "Meet the Maker Crafting Copper Sculptures and Furniture with a Blowtorch and a Hammer", "source": "Galerie Magazine", "date": "Aug 3", "url": "https://galeriemagazine.com/meet-the-maker-marius-ritiu/" },
+        { "headline": "In Practice: Making and Tuning Gongs with Hazemann &amp; Monnin", "source": "A Collected Man", "date": "Oct 22", "url": "https://www.acollectedman.com/blogs/journal/hm-gongs" }
+      ],
+      "photo-film": [
+        { "headline": "\"Nobody's Ever Asked Me That\": Nicolas Winding Refn", "source": "Talkhouse Film", "date": "Aug 4", "url": "https://talkhouse.com/inobodys-ever-asked-me-that-i-nicolas-winding-refn/" },
+        { "headline": "Tsai Ming-liang (on shooting The Hole)", "source": "Metrograph", "date": "Jul 16", "url": "https://metrograph.com/tsai-ming-liang-the-hole/", "image": "https://metrograph.com/wp-content/uploads/2026/07/tsaiprofile_header.png" },
+        { "headline": "Time and Tide: In Conversation with Director Vee Shi and Cinematographer-Producer Nicholson Ren", "source": "Senses of Cinema", "date": "Jul 30", "url": "https://www.sensesofcinema.com/2026/interviews/time-and-tide-in-conversation-with-director-vee-shi-and-cinematographer-producer-nicholson-ren/" },
+        { "headline": "Turbulent Waters: The Cinema of Jean Epstein", "source": "MUBI Notebook", "date": "Aug 4", "url": "https://mubi.com/en/notebook/posts/turbulent-waters-the-cinema-of-jean-epstein" }
+      ],
+      "sound-vinyl": [
+        { "headline": "109 Years Ago Today, the \"Father of Country Music\" Recorded His First Songs at a Furniture Store in Tennessee", "source": "American Songwriter", "date": "Aug 4", "url": "https://americansongwriter.com/109-years-ago-today-the-father-of-country-music-recorded-his-first-songs-at-a-furniture-store-in-tennessee/" },
+        { "headline": "\"Eve of Destruction\": History Never Repeats Itself in These 12 Versions", "source": "PopMatters", "date": "Jul 23", "url": "https://www.popmatters.com/eve-of-destruction-12-versions" },
+        { "headline": "Melvin Seals and Jacklyn LaBranch on Jerry Garcia's \"Magic Band\"", "source": "Relix", "date": "Aug 3", "url": "https://relix.com/features/detail/melvin-seals-and-jacklyn-labranch-remember-jerry-garcias-magic-band/", "image": "https://lede-admin.relix.com/wp-content/uploads/sites/74/2024/11/jayBlakesberg_2_jerryGarcia.jpg?resize=2880%2C1920" },
+        { "headline": "Superstar magician Penn Jillette has a wild secret rock 'n' roll past that no-one ever talks about", "source": "Louder", "date": "Aug 3", "url": "https://www.loudersound.com/bands-artists/the-secret-rock-n-roll-life-of-superstar-magician-penn-jillette" },
+        { "headline": "Free Dirt Records Is Shaping the New Sound of Roots Music", "source": "Bandcamp Daily", "date": "Jul 20", "url": "https://daily.bandcamp.com/label-profile/free-dirt-records-label-profile" }
+      ],
+      "collecting": [
+        { "headline": "\"The Blood Drained From My Face\" — 97 Copies Of Never-Before-Seen Super Mario Bros. Variant Found In Wisconsin Retro Store", "source": "Time Extension", "date": "Jul 31", "url": "https://www.timeextension.com/news/2026/07/the-blood-drained-from-my-face-97-copies-of-never-before-seen-super-mario-bros-variant-found-in-wisconsin-retro-store", "image": "https://images.timeextension.com/4e596b3cc61b5/the-blood-drained-from-my-face-97-copies-of-never-before-seen-super-mario-bros-variant-found-in-wisconsin-retro-store-1.900x.jpg" },
+        { "headline": "Julian \"Jaz\" Rignall: The Magazines Of A Lifetime", "source": "Bitmap Books", "date": "Mar 19", "url": "https://www.bitmapbooks.com/blogs/news/julian-jaz-rignall-the-magazines-of-a-lifetime" },
+        { "headline": "Rare Finds &amp; Hidden Grails: Inside Ponti Collection", "source": "Revolution", "date": "Aug 4", "url": "https://revolutionwatch.com/rare-finds-hidden-grails-inside-ponti-collection/" },
+        { "headline": "Sonic, Rayman, and more in latest additions to GamePro CD collection", "source": "Video Game History Foundation", "date": "May 22", "url": "https://gamehistory.org/gamepro-cds-201-300/" }
+      ],
+      "archives": [
+        { "headline": "Closing Time – Stories from the Lost Music Venue Archive", "source": "V&A Blog", "date": "Jul 28", "url": "https://www.vam.ac.uk/blog/projects/closing-time-stories-from-the-lost-music-venue-archive" },
+        { "headline": "From the Collection: Emigre Font Development Files", "source": "Letterform Archive", "date": "May 26", "url": "https://letterformarchive.org/news/from-the-collection-emigre-font-development-files/" },
+        { "headline": "The Cassette Tapes of the Great Migration", "source": "JSTOR Daily", "date": "Jul 22", "url": "https://daily.jstor.org/the-cassette-tapes-of-the-great-migration/" },
+        { "headline": "Cooper Hewitt Unveils Permanent Collection Galleries", "source": "Cooper Hewitt Journal", "date": "Jun 15", "url": "https://www.cooperhewitt.org/2026/06/15/cooper-hewitt-unveils-permanent-collection-galleries-showcasing-a-multi-year-presentation-of-the-national-design-collection/", "image": "https://www.cooperhewitt.org/wp-content/uploads/2026/03/WebBanner_2000x1000-DesignAcrossTime-030226-1.jpg" }
+      ]
+    }
+  },
+  {
+    "dateLabel": "August 3, 2026",
+    "hero": {
+      "headline": "How Three Friends Turned Photography into a Way of Life",
+      "dek": "Michael Londres traces how Minor White, Aaron Siskind, and Harry Callahan turned photography inward in the mid-twentieth century — treating the camera not as a tool for documentation but as an instrument of personal expression and spiritual transcendence.",
+      "byline": "By Michael Londres · Aperture",
+      "image": "https://aperture.org/wp-content/uploads/2026/07/PUAMANX23_102936-scaled.jpg",
+      "caption": "Photograph via Aperture",
+      "url": "https://aperture.org/editorial/how-three-friends-turned-photography-into-a-way-of-life/"
+    },
+    "categories": {
+      "design-arch": [
+        { "headline": "Węzeł Cieplny: A Former Heating Substation Finds New Warmth as a Restaurant in Gdańsk", "source": "Yatzer", "date": "Jul 28", "url": "https://www.yatzer.com/wezel-cieplny-con-s-gdansk-poland" },
+        { "headline": "Twilight of the Bugmen", "source": "Kneeling Bus", "date": "Jul 24", "url": "https://kneelingbus.substack.com/p/twilight-of-the-bugmen" },
+        { "headline": "Inside the hand-painted animations bringing isamu noguchi's unrealized playgrounds to life", "source": "designboom", "date": "Aug 3", "url": "https://www.designboom.com/art/hand-painted-animations-isamu-noguchi-unrealized-playgrounds-life-eastend-western-nicolas-menard-jack-cunningham-kate-wiener-interview/", "image": "https://www.designboom.com/wp-content/uploads/2026/07/hand-painted-animations-isamu-noguchi-unrealized-playgrounds-life-eastend-western-nicolas-menard-jack-cunningham-kate-wiener-interview-designboom-02.jpg" },
+        { "headline": "A Crafted Shelter by V Taller: Not A Hotel Retreat in Yakushima, Japan", "source": "ArchEyes", "date": "Aug 2", "url": "https://archeyes.com/a-crafted-shelter-by-v-taller-not-a-hotel-retreat-in-yakushima-japan/" }
+      ],
+      "craft": [
+        { "headline": "MUJI is Restoring Antique Furniture Salvaged from Kominka Across Japan", "source": "Spoon & Tamago", "date": "Jun 28", "url": "https://spoon-tamago.com/muji-antique-furniture/", "image": "https://spoon-tamago.com/wp-content/uploads/2026/06/muji-antique-furniture.jpg" },
+        { "headline": "SPOTLIGHT: A centuries old Murano glassmaker reinvents itself for the modern era", "source": "Sight Unseen", "date": "Jul 2", "url": "https://www.sightunseen.com/2026/07/spotlight-a-centuries-old-murano-glassmaker-reinvents-itself-for-the-modern-era/" },
+        { "headline": "Photographs of Atlantic City Sand Sculpture (ca. 1880–1920)", "source": "Public Domain Review", "date": "Jul 29", "url": "https://publicdomainreview.org/collection/atlantic-city-sand-sculpture" },
+        { "headline": "Walter Benjamin Warned Us About AI", "source": "Hyperallergic", "date": "Aug 1", "url": "https://hyperallergic.com/walter-benjamin-warned-us-about-ai/" }
+      ],
+      "photo-film": [
+        { "headline": "Take It to the Limit One More Time: Michael Mann's 'Miami Vice' at 20", "source": "Cinephilia & Beyond", "date": "Jul 28", "url": "https://cinephiliabeyond.org/miami-vice/", "image": "https://cinephiliabeyond.org/wp-content/uploads/2019/01/5j-scaled.webp?x62794" },
+        { "headline": "What Does a Christopher Nolan Movie Want?", "source": "MUBI Notebook", "date": "Aug 3", "url": "https://mubi.com/en/notebook/posts/what-does-a-christopher-nolan-movie-want" },
+        { "headline": "Meeting Otar Iosseliani", "source": "Metrograph", "date": "Jul 31", "url": "https://metrograph.com/meeting-otar-iosseliani/" },
+        { "headline": "\"A Radical Democracy of Images\": Mike Mills on His Work Outside of Feature Filmmaking", "source": "Criterion Current", "date": "Jul 22", "url": "https://www.criterion.com/current/posts/9231--a-radical-democracy-of-images-mike-mills-on-his-work-outside-of-feature-filmmaking" }
+      ],
+      "sound-vinyl": [
+        { "headline": "How long will the Grateful Dead's songs survive?", "source": "NPR Music", "date": "Aug 3", "url": "https://www.npr.org/2026/08/03/nx-s1-5901986/grateful-dead-future-legacy" },
+        { "headline": "The Durutti Column's Factory Years, Reconstructed", "source": "Bandcamp Daily", "date": "Jul 29", "url": "https://daily.bandcamp.com/lists/durutti-column-factory-album-guide" },
+        { "headline": "The Box Set: An Appreciation, Vol. 3", "source": "Aquarium Drunkard", "date": "Jul 28", "url": "https://aquariumdrunkard.com/2026/07/28/the-box-set-an-appreciation-vol-3/" },
+        { "headline": "Electronic Music Pioneer Patrick Gleeson Has Died At 91", "source": "Synthtopia", "date": "Jul 29", "url": "https://www.synthtopia.com/content/2026/07/28/electronic-music-pioneer-patrick-gleeson-has-died-at-91/", "image": "https://www.synthtopia.com/wp-content/uploads/2026/07/patrick-gleeson-herbie-hancock-320x317.jpg" }
+      ],
+      "collecting": [
+        { "headline": "A collectors' guide to A. Lange & Söhne Handwerkskunst", "source": "A Collected Man", "date": "Jul 28", "url": "https://www.acollectedman.com/blogs/journal/collectors-guide-handwerkskunst" },
+        { "headline": "A lost Indiana Jones adventure recovered", "source": "Video Game History Foundation", "date": "Jun 29", "url": "https://gamehistory.org/indiana-jones-paradise-vga/", "image": "https://gamehistory.org/wp-content/uploads/2026/06/indyvga_screenshot-1024x768.png" },
+        { "headline": "Heads Up For A Japanese History Lesson: The Roger Dubuis Excalibur The Kabuto Legacy", "source": "Fratello Watches", "date": "Aug 3", "url": "https://www.fratellowatches.com/roger-dubuis-excalibur-the-kabuto-legacy/" },
+        { "headline": "How Stone Sculpting Took Over This Skateboarder's Life", "source": "Jenkem Magazine", "date": "Jun 23", "url": "https://www.jenkemmag.com/home/2026/06/23/how-stone-sculpting-took-over-this-skateboarders-life/" }
+      ],
+      "archives": [
+        { "headline": "Badges in the David Bowie Archive", "source": "V&A Blog", "date": "Jul 27", "url": "https://www.vam.ac.uk/blog/museum-life/badges-in-the-david-bowie-archive" },
+        { "headline": "In Memoriam: Betye Saar (1926–2026)", "source": "LACMA Unframed", "date": "Jul 29", "url": "https://unframed.lacma.org/2026/07/29/in-memoriam-betye-saar-1926-2026" },
+        { "headline": "Maria Nicanor talks with Robert Earl Paige, 2026 National Design Award Winner", "source": "Cooper Hewitt Journal", "date": "Jul 28", "url": "https://www.cooperhewitt.org/2026/07/28/maria-nicanor-talks-with-robert-earl-paige-2026-national-design-awards-winner-design-visionary/" },
+        { "headline": "Black Memory Scholar: The Language of Storytellers", "source": "Letterform Archive", "date": "Apr 27", "url": "https://letterformarchive.org/news/black-memory-scholar-the-language-of-storytellers/", "image": "https://letterformarchive.org/wp-content/uploads/2026/04/bms-featured-image.jpg" }
+      ]
+    }
+  },
+  {
+    "dateLabel": "August 2, 2026",
+    "hero": {
+      "headline": "Enchantment and the Courage of Joy: René Magritte on the Antidote to the Banality of Pessimism",
+      "dek": "Maria Popova revisits Magritte's insistence that joy and enchantment aren't naive escapism but a deliberate, clear-eyed act of resistance against a culture that mistakes despair for depth.",
+      "byline": "By Maria Popova · The Marginalian",
+      "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2023/05/magritte_lovers.jpg?resize=680%2C511&ssl=1",
+      "caption": "René Magritte, The Lovers II (1928)",
+      "url": "https://www.themarginalian.org/2026/08/02/rene-magritte-enchantment/"
+    },
+    "categories": {
+      "design-arch": [
+        { "headline": "Designed for a Dead Language", "source": "A List Apart", "date": "Jun 30", "url": "https://alistapart.com/article/designed-for-a-dead-language/" },
+        { "headline": "Grandmother in Latex: Archive for Space Reworks a Madrid Apartment", "source": "Yellowtrace", "date": "Jul 29", "url": "https://www.yellowtrace.com.au/archive-for-space-jesus-del-valle-madrid-apartment-renovation/", "image": "https://assets.yellowtrace.com.au/wp-content/uploads/2024/11/16190731/Yellowtrace-Archive-for-Space-Jesus-de-Vale-Madrid-Apartment-Photo-Enric-Badrinas-01_opt80.jpg" },
+        { "headline": "Mecanoo's Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca", "source": "Azure Magazine", "date": "Jul 30", "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/" },
+        { "headline": "Colombian Architecture and Design Studio F05's Vision for Contemporary Tropical Modernism", "source": "Surface Magazine", "date": "Jul 31", "url": "https://www.surfacemag.com/articles/colombian-architecture-and-design-studio-f05/" }
+      ],
+      "craft": [
+        { "headline": "The feminist possibilities of the cut image", "source": "1000 Words", "date": "Jul 2", "url": "https://1000wordsmag.com/the-feminist-possibilities-of-the-cut-image/" },
+        { "headline": "A People's History of Puerto Rico", "source": "Aperture", "date": "Jul 23", "url": "https://aperture.org/editorial/a-peoples-history-of-puerto-rico/" },
+        { "headline": "Nobody's born a minimalist", "source": "Blackbird Spyplane", "date": "Jul 26", "url": "https://www.blackbirdspyplane.com/p/nobodys-born-a-minimalist" },
+        { "headline": "Travelling surfaces – Part 2: reconstructing a Korean palace interior", "source": "V&A Blog", "date": "Jul 27", "url": "https://www.vam.ac.uk/blog/projects/travelling-surfaces-part-2-reconstructing-a-korean-palace-interior", "image": "https://www.vam.ac.uk/blog/wp-content/uploads/1-150-610x490.jpg" }
+      ],
+      "photo-film": [
+        { "headline": "The 50 Essential Western Films (Part 2)", "source": "The Honest Broker", "date": "Jul 27", "url": "https://www.honest-broker.com/p/the-50-essential-western-films-part" },
+        { "headline": "Weaving The Odyssey", "source": "Filmmaker Magazine", "date": "Jul 29", "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/" },
+        { "headline": "Out of Print is Back in Print!", "source": "Talkhouse Film", "date": "Jul 27", "url": "https://talkhouse.com/iout-of-print-i-is-back-in-print/", "image": "https://lede-admin.talkhouse.com/wp-content/uploads/sites/73/2026/07/Out-of-Print-Back-in-Print-35mm-Julia-Marchese-Talkhouse-Film.jpg?w=2880" },
+        { "headline": "'Midnight Run' at 38: Martin Brest's Cult-Action Comedy that Just Doesn't Seem to Get Old", "source": "Cinephilia & Beyond", "date": "Jul 20", "url": "https://cinephiliabeyond.org/midnight-run-martin-brests-cult-action-comedy-just-doesnt-seem-get-old/" }
+      ],
+      "sound-vinyl": [
+        { "headline": "Allien Lanes", "source": "Bandcamp Daily", "date": "Jul 28", "url": "https://daily.bandcamp.com/lists/ellen-allien-album-guide", "image": "https://f4.bcbits.com/img/0046277469_0" },
+        { "headline": "Fela Kuti in the Studio", "source": "Tape Op", "date": "May 11", "url": "https://tapeop.com/interviews/173/fela-kuti/" },
+        { "headline": "Choose Life: The Trainspotting Soundtrack at 30", "source": "Aquarium Drunkard", "date": "Jul 27", "url": "https://aquariumdrunkard.com/2026/07/27/choose-life-the-trainspotting-soundtrack-at-30/" },
+        { "headline": "The Freedom Songs of Bill Withers", "source": "Wax Poetics", "date": "Feb 6", "url": "https://waxpoetics.com/blogs/editorial/the-freedom-songs-of-bill-withers" }
+      ],
+      "collecting": [
+        { "headline": "Revisit E3 like you've never seen it before", "source": "Video Game History Foundation", "date": "Jul 22", "url": "https://gamehistory.org/e3-history/" },
+        { "headline": "Meet the Filmmaker Behind the Cult Documentary About Shopping Cart Racing", "source": "Jenkem Magazine", "date": "Jul 27", "url": "https://www.jenkemmag.com/home/2026/07/27/meet-the-filmmaker-behind-the-cult-documentary-about-shopping-cart-racing/" },
+        { "headline": "Shogun-Town AKA Machinderville", "source": "Plaid Stallions", "date": "Jul 25", "url": "https://plaidstallions.com/reboot/shogun-town-aka-machinderville/" },
+        { "headline": "Payday! Finance and Culture in Board Games", "source": "Toy Tales", "date": "Jul 28", "url": "https://toytales.ca/payday-finance-and-culture-in-board-games/", "image": "https://toytales.ca/wp-content/uploads/2026/07/Payday-Finance-and-Culture1.jpg" }
+      ],
+      "archives": [
+        { "headline": "Madrid Museum Puts Picasso in Dialogue With 'African Guernica'", "source": "Hyperallergic", "date": "Aug 1", "url": "https://hyperallergic.com/madrid-museum-puts-picasso-in-dialogue-with-african-guernica/", "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/07/01_Dumile-Feni-African-Guernica.jpg" },
+        { "headline": "Soraya Ahn on Young-Il Ahn's Legacy and the David Geffen Galleries", "source": "LACMA Unframed", "date": "Jul 20", "url": "https://unframed.lacma.org/2026/07/21/soraya-ahn-young-il-ahn-legacy-and-david-geffen-galleries" },
+        { "headline": "What Did We Lose When We Lost the Stars?", "source": "The Convivial Society", "date": "Jul 19", "url": "https://theconvivialsociety.substack.com/p/what-did-we-lose-when-we-lost-the-c3b" },
+        { "headline": "The Persian Mâr-Nâmeh or, The Book for Taking Omens from Snakes (1892)", "source": "Public Domain Review", "date": "Jul 28", "url": "https://publicdomainreview.org/collection/marnameh" }
+      ]
+    }
+  },
+  {
+    "dateLabel": "August 1, 2026",
+    "hero": {
+      "headline": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "dek": "Anne Lawrence-Mathers traces the medieval Ars notoria, a manuscript that promised scholars supernatural shortcuts to advanced learning — a six-hundred-year-old preview of the same appeal, and the same danger, behind every promise that a shortcut can replace the discipline of actually learning something.",
+      "byline": "By Anne Lawrence-Mathers · Public Domain Review",
+      "image": "https://pdr-assets.b-cdn.net/essays/ars-notoria/dedupmrg1191555822_IE4927965_FL5355234-edit.jpg?width=1200&height=765",
+      "caption": "Two figures related to the art of astronomy, from a manuscript of the Ars notoria (c. 1550–1600), via the National Library of Israel",
+      "url": "https://publicdomainreview.org/essay/ars-notoria"
+    },
+    "categories": {
+      "design-arch": [
+        { "headline": "How One Bedouin Well Became a High-security Jordanian Prison", "source": "Failed Architecture", "date": "Jun 23", "url": "https://failedarchitecture.com/how-one-bedouin-well-became-a-high-security-jordanian-prison/" },
+        { "headline": "The Monday Media Diet with Matt Spevack", "source": "Why Is This Interesting?", "date": "Jul 27", "url": "https://whyisthisinteresting.substack.com/p/the-monday-media-diet-with-matt-spevack" },
+        { "headline": "Studio Blackburn's branding for Ellis Butchers is unflinchingly carcass-centric, yet somehow so full of warmth", "source": "BP&O", "date": "Jul 7", "url": "https://bpando.org/2026/07/07/studio-blackburn-ellis-butchers-brand-identity/" },
+        { "headline": "Welcome to the House Museum. Have You Seen Our New Bathroom?", "source": "Dwell", "date": "Jul 29", "url": "https://www.dwell.com/article/how-the-visitors-center-became-the-house-museums-latest-attraction-gropius-house-5d2de24d", "image": "https://images2.dwell.com/photos/6063391372700811264/7488260345628241920/original.jpg?auto=format&q=75&w=1200" }
+      ],
+      "craft": [
+        { "headline": "In your bag 1786 – Steve Hodgson", "source": "Japan Camera Hunter", "date": "Aug 1", "url": "https://www.japancamerahunter.com/2026/08/in-your-bag-1786-steve-hodgson/" },
+        { "headline": "The Photographer Who Never Secured a Way Home: The Death of Carl McCunn", "source": "Fstoppers", "date": "Jul 31", "url": "https://fstoppers.com/originals/photographer-who-never-secured-way-home-death-carl-mccunn-903464", "image": "https://cdn.fstoppers.com/styles/default_16_9/s3/lead/2026/07/1280px-lower_coleen_river_bluffs.jpg?itok=MCEN0Wzk" },
+        { "headline": "25 Photobooks That Define America", "source": "Aperture", "date": "Jul 1", "url": "https://aperture.org/editorial/25-photobooks-that-define-america/" },
+        { "headline": "Kokuyo's New 'Transparent Mechanism' Collection Puts its Engineering on Full Display", "source": "Spoon & Tamago", "date": "Jul 12", "url": "https://spoon-tamago.com/kokuyo-transparent-mechanism/" }
+      ],
+      "photo-film": [
+        { "headline": "The Dziga Vertov Group Rises Again, and It Needs You | Jean-Pierre Gorin in New York", "source": "MUBI Notebook", "date": "Jul 27", "url": "https://mubi.com/en/notebook/posts/the-dziga-vertov-group-rises-again-and-it-needs-you-jean-pierre-gorin-in-new-york" },
+        { "headline": "Nobody's Ever Asked Me That: Abel Ferrara", "source": "Talkhouse Film", "date": "Jul 21", "url": "https://talkhouse.com/nobodys-ever-asked-me-that-abel-ferrara/", "image": "https://lede-admin.talkhouse.com/wp-content/uploads/sites/73/2026/07/Abel-Ferrara-Website-without-text.png?w=2880" },
+        { "headline": "Get Me Out of Here: Harry Dean Stanton in Straight Time", "source": "Criterion Current", "date": "Jul 21", "url": "https://www.criterion.com/current/posts/9226-get-me-out-of-here-harry-dean-stanton-in-straight-time" },
+        { "headline": "Do You Love Me Reassembles Lebanon's Cultural Memory", "source": "Filmmaker Magazine", "date": "Jul 14", "url": "https://filmmakermagazine.com/133997-do-you-love-me-reassembles-lebanons-cultural-memory/" }
+      ],
+      "sound-vinyl": [
+        { "headline": "Remembering Irish singer–songwriter Glen Hansard", "source": "NPR Music", "date": "Jul 31", "url": "https://www.npr.org/2026/07/31/nx-s1-5913715/remembering-irish-singer-songwriter-glen-hansard" },
+        { "headline": "No Endtroducing: DJ Shadow's Debut at 30", "source": "Aquarium Drunkard", "date": "Jul 22", "url": "https://aquariumdrunkard.com/2026/07/22/no-endtroducing-dj-shadows-debut-at-30/" },
+        { "headline": "French Synthwave Producer Kavinsky Dead At 50", "source": "Synthtopia", "date": "Jul 29", "url": "https://www.synthtopia.com/content/2026/07/29/french-synthwave-producer-kavinsky-dead-at-50/", "image": "https://www.synthtopia.com/wp-content/uploads/2026/07/dj-kavinsky.jpg" },
+        { "headline": "Mulatu on Mulatu: The Father of Ethio Jazz, Needs A Favor", "source": "Wax Poetics", "date": "Jan 27", "url": "https://waxpoetics.com/blogs/editorial/mulatu-on-mulatu-the-father-of-ethio-jazz-needs-a-favor" }
+      ],
+      "collecting": [
+        { "headline": "H. Moser & Cie: Inside an Unbrand", "source": "Quill & Pad", "date": "Jul 13", "url": "https://quillandpad.com/2026/07/13/h-moser-cie-inside-an-unbrand/" },
+        { "headline": "Why we scanned every issue of Neopets The Official Magazine", "source": "Video Game History Foundation", "date": "Jun 2", "url": "https://gamehistory.org/neopets-magazine/" },
+        { "headline": "An Afternoon with Dann Phimphrachanh", "source": "A Collected Man", "date": "May 28", "url": "https://www.acollectedman.com/blogs/journal/an-afternoon-with-dann-phimphrachanh" },
+        { "headline": "How Are European Skateshops Doing?", "source": "Jenkem Magazine", "date": "Jun 12", "url": "https://www.jenkemmag.com/home/2026/06/12/how-are-european-skateshops-doing/" }
+      ],
+      "archives": [
+        { "headline": "Pages of provenance: art sales catalogues in the National Art Library", "source": "V&A Blog", "date": "Jul 24", "url": "https://www.vam.ac.uk/blog/museum-life/pages-of-provenance-art-sales-catalogues-in-the-national-art-library" },
+        { "headline": "Taking Alien Life Seriously: The Origins of Exobiology", "source": "JSTOR Daily", "date": "Jul 30", "url": "https://daily.jstor.org/taking-alien-life-seriously-the-origins-of-exobiology/" },
+        { "headline": "Designing a William Morris–Inspired Wallpaper for the 21st Century", "source": "LACMA Unframed", "date": "Jul 16", "url": "https://unframed.lacma.org/2026/07/16/designing-william-morris%E2%80%93inspired-wallpaper-21st-century", "image": "https://unframed.lacma.org/sites/default/files/styles/article_full/public/field/image/EX9313-20251105-VW009.jpg?itok=x99y5w85" },
+        { "headline": "Quality non-fiction books are the antithesis of AI slop", "source": "Res Obscura", "date": "Jul 22", "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the" }
+      ]
+    }
+  }
+]
