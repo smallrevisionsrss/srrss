@@ -5,6 +5,7 @@
       "headline": "A Primordial Covenant of Relationship",
       "dek": "An excerpt from Remembering Earth: Emmanuel Vaughan-Lee reads today's convergence of ecological and social crises as an invitation — to reawaken an ancient bond with the living Earth through love, remembrance, and sacred practice.",
       "byline": "By Emmanuel Vaughan-Lee · Emergence Magazine",
+      "category": "archives",
       "image": "https://emergencemagazine.org/app/uploads/2026/05/Primordial_Convenant_SEO.jpg",
       "caption": "Photograph by Yael Martinez / Magnum Photos",
       "url": "https://emergencemagazine.org/essay/a-primordial-covenant-of-relationship/"
@@ -54,6 +55,7 @@
       "headline": "Thank This Projectionist for The Odyssey's 70-mm. Imax Run",
       "dek": "Running a film in Christopher Nolan's preferred format is a specialized skill only a handful of projectionists left can claim — Chris Stanton profiles one of them, keeping 3 a.m. Imax showings of The Odyssey alive by hand.",
       "byline": "By Chris Stanton · Vulture",
+      "category": "photo-film",
       "image": "https://pyxis.nymag.com/v1/imgs/28c/ad6/9f88f86d498ea30495d0bb7d459a8965be-odyssey-ship.1x.rsocial.w1200.jpg",
       "caption": "A 70mm Imax print being handled at a projection booth, via Vulture",
       "url": "https://www.vulture.com/article/thank-this-projectionist-for-the-odysseys-70-mm-imax-run.html"
@@ -103,6 +105,7 @@
       "headline": "After the Post-Avant-Garde",
       "dek": "Sean Tatol traces how the internet dismantled the subcultural scenes that once sustained avant-garde art criticism, and argues artists are better served drawing on the full historical archive than chasing novelty for its own sake.",
       "byline": "By Sean Tatol · The Point Magazine",
+      "category": "craft",
       "image": "https://thepointmag.com/wp-content/uploads/2026/08/LutzBacher_web2.jpg",
       "caption": "Lutz Bacher, Angry Bird, 2016. Printed polyester, helium balloon, 110 × 80 × 1 cm. Courtesy of the Estate of Lutz Bacher and Galerie Buchholz",
       "url": "https://thepointmag.com/criticism/after-the-post-avant-garde/"
@@ -152,6 +155,7 @@
       "headline": "How Art Invented Humanity",
       "dek": "When early humans first painted cave walls, they began to find out who they really were: our minds emerged from our images.",
       "byline": "By J F Martel · Aeon",
+      "category": "craft",
       "image": "https://images.aeonmedia.co/images/9dd5b35c-261c-4106-8a9b-53f732aab9b8/essay-hi-res-quilt-nmah-89-10656-000001.jpg?width=1200&quality=75&format=jpeg",
       "caption": "Solar System (1876), a quilt by Ellen Harding Baker. Courtesy the Smithsonian Libraries and Archives",
       "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around"
@@ -201,6 +205,7 @@
       "headline": "Thank You, Everything: An Illustrated Love Letter to the World",
       "dek": "Icinori's wordless, cumulative picture book turns a simple \"thank you,\" first to a chair, then to the rain, then to the whole improbable world, into a sweeping meditation on gratitude as a way of seeing.",
       "byline": "By Maria Popova · The Marginalian",
+      "category": "craft",
       "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/12/thankyoueverything1.jpg",
       "caption": "Illustration from Icinori's Thank You, Everything, 2024",
       "url": "https://www.themarginalian.org/2026/08/07/thank-you-everything-icinori/"
@@ -250,6 +255,7 @@
       "headline": "Roots and the Meaning of Life",
       "dek": "A century-old, hand-illustrated study of prairie plant root systems — cross-sections showing how each species anchors itself, unseen, underground — becomes an unlikely meditation on the hidden architecture that holds up a life, and a character, from below.",
       "byline": "By Maria Popova · The Marginalian",
+      "category": "archives",
       "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/03/roots1.jpg?resize=680%2C544&ssl=1",
       "caption": "Root-system illustration from John Weaver's The Ecological Relations of Roots, 1919",
       "url": "https://www.themarginalian.org/2026/08/04/roots/"
@@ -299,6 +305,7 @@
       "headline": "Trial, Triumph, and the Art of the Possible: The Remarkable Story Behind Beethoven's \"Ode to Joy\"",
       "dek": "Going deaf and living through political upheaval, Beethoven spent three decades turning a Schiller poem he'd loved since his teens into the choral finale of his Ninth Symphony — writing at the time, \"Day by day I am approaching the goal which I apprehend but cannot describe.\"",
       "byline": "By Maria Popova · The Marginalian",
+      "category": "sound-vinyl",
       "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/05/odetojoy_Marginalian.jpg",
       "caption": "Beethoven by Josef Willibrord Mähler, circa 1804–1805",
       "url": "https://www.themarginalian.org/2026/08/04/beethoven-ode-to-joy/"
@@ -348,6 +355,7 @@
       "headline": "Searching for Truth on the Set of \"The X-Files\"",
       "dek": "In the early 2000s, photographer John Divola talked his way onto the abandoned soundstages of The X-Files, drawn to the seam between manufactured illusion and the ordinary machinery that built it.",
       "byline": "By Chloe Wyma · Aperture",
+      "category": "photo-film",
       "image": "https://aperture.org/wp-content/uploads/2026/07/263MAG099_Divola_HR.jpg",
       "caption": "John Divola, from the series X-Files, Fox Studios, Los Angeles, 2002",
       "url": "https://aperture.org/editorial/searching-for-truth-on-the-set-of-the-x-files/"
@@ -397,6 +405,7 @@
       "headline": "Twilight of the Velocipede: Typesetting Races before the Age of Linotype",
       "dek": "Before mechanical typesetting machines rendered them obsolete, hand compositors competed in speed contests that drew thousands of spectators and serious prize money — races fast enough to earn the era's champion the nickname \"the Velocipede,\" and public enough that women compositors used them to fight for a place in the trade.",
       "byline": "By Alex Wright · Public Domain Review",
+      "category": "archives",
       "image": "https://pdr-assets.b-cdn.net/essays/twilight-of-the-velocipede/01-e8db5a102ce2e1d32f2d98a81c6e7af2-edit.jpg?width=1200&height=765",
       "caption": "The Chicago Contestants, from A Collation of Facts Related to Fast Typesetting (1887)",
       "url": "https://publicdomainreview.org/essay/twilight-of-the-velocipede"
@@ -413,8 +422,7 @@
         { "headline": "The Untold Story Behind Larry Clark's \"Tulsa\"", "source": "Aperture", "date": "Jul 31", "url": "https://aperture.org/editorial/the-untold-story-behind-larry-clarks-tulsa/" },
         { "headline": "Artist Uses Traditional Basketry Techniques to Create Wearable Woven Sculptures", "source": "My Modern Met", "date": "Jul 29", "url": "https://mymodernmet.com/lewis-prosser-willow-basketry-sculptures/", "image": "https://mymodernmet.com/wp/wp-content/uploads/2026/07/lewis-prosser-willow-basketry-sculptures-fb.jpg" },
         { "headline": "Heritage Bookbinding Elements Transform into Contemporary Sculptures by Adelene Koh", "source": "Colossal", "date": "Jul 31", "url": "https://www.thisiscolossal.com/2026/07/adelene-koh-bookbinding-paper-sewing-sculpture-loewe-craft-prize/" },
-        { "headline": "Meet the Maker Crafting Copper Sculptures and Furniture with a Blowtorch and a Hammer", "source": "Galerie Magazine", "date": "Aug 3", "url": "https://galeriemagazine.com/meet-the-maker-marius-ritiu/" },
-        { "headline": "In Practice: Making and Tuning Gongs with Hazemann &amp; Monnin", "source": "A Collected Man", "date": "Oct 22", "url": "https://www.acollectedman.com/blogs/journal/hm-gongs" }
+        { "headline": "Meet the Maker Crafting Copper Sculptures and Furniture with a Blowtorch and a Hammer", "source": "Galerie Magazine", "date": "Aug 3", "url": "https://galeriemagazine.com/meet-the-maker-marius-ritiu/" }
       ],
       "photo-film": [
         { "headline": "\"Nobody's Ever Asked Me That\": Nicolas Winding Refn", "source": "Talkhouse Film", "date": "Aug 4", "url": "https://talkhouse.com/inobodys-ever-asked-me-that-i-nicolas-winding-refn/" },
@@ -449,6 +457,7 @@
       "headline": "How Three Friends Turned Photography into a Way of Life",
       "dek": "Michael Londres traces how Minor White, Aaron Siskind, and Harry Callahan turned photography inward in the mid-twentieth century — treating the camera not as a tool for documentation but as an instrument of personal expression and spiritual transcendence.",
       "byline": "By Michael Londres · Aperture",
+      "category": "photo-film",
       "image": "https://aperture.org/wp-content/uploads/2026/07/PUAMANX23_102936-scaled.jpg",
       "caption": "Photograph via Aperture",
       "url": "https://aperture.org/editorial/how-three-friends-turned-photography-into-a-way-of-life/"
@@ -498,6 +507,7 @@
       "headline": "Enchantment and the Courage of Joy: René Magritte on the Antidote to the Banality of Pessimism",
       "dek": "Maria Popova revisits Magritte's insistence that joy and enchantment aren't naive escapism but a deliberate, clear-eyed act of resistance against a culture that mistakes despair for depth.",
       "byline": "By Maria Popova · The Marginalian",
+      "category": "craft",
       "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2023/05/magritte_lovers.jpg?resize=680%2C511&ssl=1",
       "caption": "René Magritte, The Lovers II (1928)",
       "url": "https://www.themarginalian.org/2026/08/02/rene-magritte-enchantment/"
@@ -547,6 +557,7 @@
       "headline": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
       "dek": "Anne Lawrence-Mathers traces the medieval Ars notoria, a manuscript that promised scholars supernatural shortcuts to advanced learning — a six-hundred-year-old preview of the same appeal, and the same danger, behind every promise that a shortcut can replace the discipline of actually learning something.",
       "byline": "By Anne Lawrence-Mathers · Public Domain Review",
+      "category": "archives",
       "image": "https://pdr-assets.b-cdn.net/essays/ars-notoria/dedupmrg1191555822_IE4927965_FL5355234-edit.jpg?width=1200&height=765",
       "caption": "Two figures related to the art of astronomy, from a manuscript of the Ars notoria (c. 1550–1600), via the National Library of Israel",
       "url": "https://publicdomainreview.org/essay/ars-notoria"
