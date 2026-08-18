@@ -1,5 +1,105 @@
 [
   {
+    "dateLabel": "August 18, 2026",
+    "hero": {
+      "headline": "Georgia O'Keeffe on the Art of Seeing",
+      "dek": "O'Keeffe explains why she painted her flowers so large: to force viewers to stop and truly look, rather than settle for the sexual reading critics kept projecting onto her work. As she put it, nobody really sees a flower.",
+      "byline": "By Maria Popova · The Marginalian",
+      "category": "craft",
+      "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2018/11/GeorgiaOkeeffe_RedCanna_1924.jpg?resize=680%2C823&ssl=1",
+      "caption": "Georgia O'Keeffe, Red Canna (1924)",
+      "url": "https://www.themarginalian.org/2026/08/18/georgia-okeeffe-flower/"
+    },
+    "categories": {
+      "design-arch": [
+        { "headline": "How Bedouin Tent Design Principles Are Reshaping Gulf Infrastructure", "source": "ArchDaily", "date": "Aug 18", "url": "https://www.archdaily.com/1183404/from-tent-to-terminal-bedouin-craft-in-contemporary-infrastructure", "image": "https://images.adsttc.com/media/images/6a82/81ba/ab59/ca01/8994/55a8/large_jpg/from-tent-to-terminal-bedouin-craft-in-contemporary-infrastructure_7.jpg?1786937797" },
+        { "headline": "A Tennessee Resort's New Branding Chooses Quiet Elegance Over Shouting", "source": "BP&amp;O", "date": "Aug 18", "url": "https://bpando.org/2026/08/18/perky-bros-southern-hospitality-tennessee-resort-southall/" },
+        { "headline": "César Pelli's Last Building Finally Gives Lola Mora's Sculptures a Home", "source": "Surface Magazine", "date": "Aug 13", "url": "https://www.surfacemag.com/articles/lola-mora-cultural-center-cesar-pelli-last-building/" },
+        { "headline": "Designer Luca Ricci Turns Optical Illusion Into Furniture", "source": "Yatzer", "date": "Jul 21", "url": "https://www.yatzer.com/luca-ricci-plisse-block-milan" }
+      ],
+      "craft": [
+        { "headline": "Artist Rain Chan Finds Material for Art in Bureaucracy Itself", "source": "Cultbytes", "date": "Aug 1", "url": "https://cultbytes.com/in-bed-stuy-rain-chan-and-sofia-thieu-damico-discuss-compulsive-archiving-other-and-mousse/" },
+        { "headline": "Julie Green Spent Years Painting the Last Meals of Death Row Inmates", "source": "Colossal", "date": "Aug 18", "url": "https://www.thisiscolossal.com/2026/08/julie-green-last-supper-ceramic-plates-final-meals/", "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/green-8-960x976.jpg" },
+        { "headline": "An Artist Recreated Hokusai's Great Wave Using 750,000 Dahlias", "source": "Spoon &amp; Tamago", "date": "Aug 15", "url": "https://spoon-tamago.com/hiro-sugiyama-hokusai-great-wave-brussels/" },
+        { "headline": "Mary Heilmann, Painter of Irreverent Abstractions, Dies at 86", "source": "Hyperallergic", "date": "Aug 17", "url": "https://hyperallergic.com/mary-heilmann-painter-of-irreverent-abstractions-dies-at-86/" }
+      ],
+      "sound-vinyl": [
+        { "headline": "Nina Winder-Lind's Wild Love Is a Guitar-Led Search for Self", "source": "Aquarium Drunkard", "date": "Aug 18", "url": "https://aquariumdrunkard.com/2026/08/18/nina-winder-lind-wild-love/" },
+        { "headline": "Inside Colectivo Casa Amarela, the Label Building a New Music Scene in Portugal", "source": "Bandcamp Daily", "date": "Aug 18", "url": "https://daily.bandcamp.com/label-profile/colectivo-casa-amarela-label-profile" },
+        { "headline": "Watch Yusuke Yukimatsu DJ a Technics Set Atop Tokyo Tower", "source": "Resident Advisor", "date": "Aug 18", "url": "https://ra.co/features/4517", "image": "https://static.ra.co/images/features/2026/yy-technics_1-headerxl.jpg" },
+        { "headline": "Charli XCX's Lollapalooza Set Was a Career-Defining Triumph", "source": "Consequence", "date": "Aug 1", "url": "https://consequence.net/2026/08/charli-xcxs-lollapalooza-set-made-me-think-there-might-be-a-god/" }
+      ],
+      "collecting": [
+        { "headline": "A New Picture Book Cracks Open London Homes to Reveal What Collectors Hoard", "source": "It's Nice That", "date": "Aug 18", "url": "https://www.itsnicethat.com/articles/owl-and-dog-playbooks-yooree-ko-collectors-street-illustration-publication-project-180826" },
+        { "headline": "This Week in Watches: An Eclipse MoonSwatch and IWC's Mercedes Tribute", "source": "Revolution", "date": "Aug 17", "url": "https://revolutionwatch.com/last-week-in-watches-iwc-mercedes-benz-140th-anniversary-total-solar-eclipse-moonswatch-zandvoort-tag-heuer-and-more/" },
+        { "headline": "This Week's Best Vintage Toy Finds on eBay", "source": "Plaid Stallions", "date": "Aug 13", "url": "https://plaidstallions.com/reboot/5-awesome-things-on-ebay-this-week-214/" },
+        { "headline": "How a Designer's Dream Became the Board Game Sequence", "source": "Toy Tales", "date": "Aug 18", "url": "https://toytales.ca/unboxed-origins-how-sequence-evolved-from-a-dream-to-a-board-game-classic/", "image": "https://toytales.ca/wp-content/uploads/2026/08/Unboxed-Origins-sequence-1.jpg" }
+      ],
+      "archives": [
+        { "headline": "The Teenage Spy Who Succeeded Where Nathan Hale Failed", "source": "Smithsonian Magazine", "date": "Aug 17", "url": "https://www.smithsonianmag.com/history/this-connecticut-teenager-spied-on-the-british-during-the-american-revolution-succeeding-where-nathan-hale-failed-180989309/", "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9a/30/9a3074ea-bdcc-4d5f-ad2a-a80bc49a6f8a/david-maltbie.png" },
+        { "headline": "Inside Ancient Rome's Neighborhood of Immigrants", "source": "JSTOR Daily", "date": "Aug 17", "url": "https://daily.jstor.org/ancient-rome-a-city-of-immigrants/" },
+        { "headline": "Cataloging a Century of British Photography History", "source": "V&amp;A Blog", "date": "May 11", "url": "https://www.vam.ac.uk/blog/museum-life/royal-photographic-society-work-in-progress-the-archivists-perspective" },
+        { "headline": "Why Wooden Stupas Vanished From History", "source": "Res Obscura", "date": "May 14", "url": "https://resobscura.substack.com/p/survivorship-bias-in-history" }
+      ],
+      "photo-film": [
+        { "headline": "Ten Films That Show How William Greaves Broke Documentary's Rules", "source": "Sight and Sound", "date": "Aug 17", "url": "https://www.bfi.org.uk/sight-and-sound/lists/shooting-outside-box-william-greaves-ten-films" },
+        { "headline": "Catherine Opie on Three Decades of Teaching Photography", "source": "Aperture", "date": "Aug 18", "url": "https://aperture.org/editorial/how-catherine-opie-learned-the-art-of-teaching-photography/", "image": "https://aperture.org/wp-content/uploads/2026/08/Catherine-Opie-Flipper-Tanya-Chloe-Harriet-1.jpg" },
+        { "headline": "A Century of American Photography Goes on View in London", "source": "Wallpaper*", "date": "Aug 13", "url": "https://www.wallpaper.com/art/photography/portrait-of-a-city-a-century-of-american-photography-review" },
+        { "headline": "Filmmakers Spent Four Years Following a Lion's Journey to Become King", "source": "PetaPixel", "date": "Aug 18", "url": "https://petapixel.com/2026/08/18/filmmakers-spent-four-years-following-a-lion-on-his-journey-to-become-king/" }
+      ]
+    }
+  },
+  {
+    "dateLabel": "August 17, 2026",
+    "hero": {
+      "headline": "Nature's Oldest Mandolin: The Poetic Science of How Cicadas Sing",
+      "dek": "Drawing on a century-old naturalist's field guide, Maria Popova traces how cicadas — with no vocal cords, only drum-like tymbals — became nature's oldest unbroken musicians, loud enough to rival a jet engine and old enough to have serenaded Homer.",
+      "byline": "By Maria Popova · The Marginalian",
+      "category": "sound-vinyl",
+      "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/05/cicada_transformation_TheMarginalian.jpg",
+      "caption": "Transformation of the periodical Cicada Septemdecim. Illustration by Lillie Sullivan, 1898",
+      "url": "https://www.themarginalian.org/2026/08/17/cicadas/"
+    },
+    "categories": {
+      "design-arch": [
+        { "headline": "LANZA Atelier's Serpentine Pavilion Bends Around a \"Crinkle-Crankle\" Wall", "source": "ArchDaily", "date": "Aug 17", "url": "https://www.archdaily.com/1183428/serpentine-pavillion-lanza-atelier" },
+        { "headline": "Porto Rocha's New Identity for Almeida &amp; Dale Keeps the Art in the Spotlight", "source": "BP&amp;O", "date": "Aug 13", "url": "https://bpando.org/2026/08/13/new-brand-identity-design-for-brazilian-art-gallery-almeida-dale-by-porto-rocha-bpo/" },
+        { "headline": "Designing for 3 Billion: Inside Instagram's New Brand System", "source": "It's Nice That", "date": "Aug 17", "url": "https://www.itsnicethat.com/features/designing-for-3-billion-how-instagram-built-a-brand-system-that-celebrates-everyones-point-of-view-partnership-170826" },
+        { "headline": "Inside \"Marques of the Machine,\" a Deep Dive Into Early American Car Logos", "source": "PRINT Magazine", "date": "Aug 17", "url": "https://www.printmag.com/daily-heller/the-daily-heller-crown-jewels-of-the-auto-industry/", "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-15-at-1.07.09-PM-1.png" }
+      ],
+      "craft": [
+        { "headline": "Wiley Wallace's Jewel-Toned Paintings Conjure Enchantment in the Desert", "source": "Colossal", "date": "Aug 17", "url": "https://www.thisiscolossal.com/2026/08/wiley-wallace-night-blooms-acrylic-paintings-desert-crystals/", "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/wallace-1-960x961.jpg" },
+        { "headline": "In \"Breathing Moons,\" Shirley Tse and Dana Berman Duff Turn Gravity Into Art", "source": "Hyperallergic", "date": "Aug 14", "url": "https://hyperallergic.com/shirley-tse-and-dana-berman-duffs-breathing-moons/" },
+        { "headline": "Andreas Angelidakis Turns the Greek Pavilion Into a Strobe-Lit Escape Room", "source": "Wallpaper*", "date": "Aug 3", "url": "https://www.wallpaper.com/art/exhibitions-shows/andreas-angelidakis-escape-room-greek-pavilion-venice-biennale-review" },
+        { "headline": "Arthur Jafa on \"Helter Skelter\" and the Power of Images", "source": "Whitewall", "date": "Aug 14", "url": "https://whitewall.art/art/arthur-jafa-on-helter-skelter-in-venice-and-the-power-of-images/" }
+      ],
+      "photo-film": [
+        { "headline": "Locarno's Leopards: This Year's Big Festival Winners", "source": "Criterion", "date": "Aug 17", "url": "https://www.criterion.com/current/posts/9253-locarno-s-leopards", "image": "https://criterion-production.s3.amazonaws.com/Xm5aDwNaBGxbzAkFyhONsZ7isfTJEk.jpg" },
+        { "headline": "The First-Ever Film of a Solar Eclipse, Restored", "source": "Sight and Sound", "date": "Aug 11", "url": "https://www.bfi.org.uk/sight-and-sound/features/darkest-hour-first-ever-film-solar-eclipse" },
+        { "headline": "An Odyssey Across the Japanese Archipelago", "source": "Aperture", "date": "Aug 13", "url": "https://aperture.org/editorial/an-odyssey-across-the-japanese-archipelago/" },
+        { "headline": "Paul Ridd on Directing the Edinburgh Film Festival's 79th Year", "source": "Little White Lies", "date": "Aug 14", "url": "https://lwlies.com/festivals/eiff-79-paul-ridd" }
+      ],
+      "sound-vinyl": [
+        { "headline": "Akusmi :: Terra Incognita", "source": "Aquarium Drunkard", "date": "Aug 17", "url": "https://aquariumdrunkard.com/2026/08/17/akusmi-terra-incognita/" },
+        { "headline": "Jeff Mills: Seeing Is Believing", "source": "Resident Advisor", "date": "Jul 7", "url": "https://ra.co/features/4512", "image": "https://static.ra.co/images/features/2026/jeffmills-feature-headers-ipsheaderxl.jpg" },
+        { "headline": "Cuba's DIY Music Scene Endures Despite Constant Crackdowns", "source": "Bandcamp Daily", "date": "Aug 13", "url": "https://daily.bandcamp.com/scene-report/cuba-experimental-underground-scene-report" },
+        { "headline": "ABBA's \"Dancing Queen\" Turns 50", "source": "The Quietus", "date": "Aug 16", "url": "https://thequietus.com/opinion-and-essays/anniversary/abba-dancing-queen/" }
+      ],
+      "collecting": [
+        { "headline": "A New Collection of Vintage Japanese Lottery Tickets", "source": "Present &amp; Correct", "date": "Aug 11", "url": "https://www.presentandcorrect.com/blogs/blog/luck-book" },
+        { "headline": "Big Max and His Electronic Conveyor, From Remco (1957)", "source": "Toy Tales", "date": "Aug 17", "url": "https://toytales.ca/big-max-and-his-electronic-conveyor-1957/" },
+        { "headline": "In Your Bag 1782 – Eliot Herman", "source": "Japan Camera Hunter", "date": "Jan 8", "url": "https://www.japancamerahunter.com/2026/01/in-your-bag-1782-eliot-herman/", "image": "https://www.japancamerahunter.com/wp-content/uploads/2026/01/image001-1280x640.jpg" },
+        { "headline": "I Hate Mondays: Inside the Garfield Merchandise Empire", "source": "The Strong National Museum of Play", "date": "Jun 18", "url": "https://www.museumofplay.org/blog/i-hate-mondays-exploring-the-garfield-franchise/" }
+      ],
+      "archives": [
+        { "headline": "The Rediscovered Dust Jackets of Kenneth Romney Towndrow", "source": "V&amp;A Blog", "date": "Aug 11", "url": "https://www.vam.ac.uk/blog/museum-life/kenneth-romney-towndrows-divine-dust-jackets" },
+        { "headline": "Amauta: The Radical 1920s Magazine That Reimagined Peruvian Art", "source": "Public Domain Review", "date": "Jul 8", "url": "https://publicdomainreview.org/collection/amauta-covers/" },
+        { "headline": "The Peacock Flower and Reproductive Resistance Under Slavery", "source": "JSTOR Daily", "date": "Jul 29", "url": "https://daily.jstor.org/the-peacock-flower-and-reproductive-resistance-under-slavery/" },
+        { "headline": "Archaeologists Uncover 40,000-Year-Old Bird Sculptures Carved From Mammoth Ivory", "source": "Smithsonian Magazine", "date": "Jul 31", "url": "https://www.smithsonianmag.com/smart-news/archaeologists-discover-two-thumbnail-sized-bird-sculptures-carved-from-mammoth-ivory-40000-years-ago-180989239/", "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/07/9b/079ba559-4697-4610-91c2-fe0ba5d9aa2e/birds.jpg" }
+      ]
+    }
+  },
+  {
     "dateLabel": "August 14, 2026",
     "hero": {
       "headline": "A Primordial Covenant of Relationship",
