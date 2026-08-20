@@ -1,5 +1,55 @@
 [
   {
+    "dateLabel": "August 20, 2026",
+    "hero": {
+      "headline": "A Bernini Painting Spent 37 Years Hidden in a Museum Storeroom",
+      "dek": "The Kunsthistorisches Museum's Portrait of an Old Man sat unattributed in storage since 1989. Curator Gudrun Swoboda now argues its sculptural brushwork and facial modeling point to Gian Lorenzo Bernini, one of fewer than twenty paintings ever authenticated to the Baroque master.",
+      "byline": "By Martin Bailey · The Art Newspaper",
+      "category": "archives",
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/7a7890dd5519a4bcf3120a63de2a6d325822c31d-1614x2121.jpg?rect=0,412,1614,968&w=1200&h=720&q=85&fit=crop&auto=format",
+      "caption": "Portrait of an Old Man, newly attributed to Bernini, has been in the Kunsthistorisches Museum's collection for more than a century",
+      "url": "https://www.theartnewspaper.com/2026/08/20/newly-discovered-bernini-painting-to-be-unveiled-at-vienna-museum"
+    },
+    "categories": {
+      "design-arch": [
+        { "headline": "A SoHo Skincare Flagship Is Built Like a Rippling Wooden Valley", "source": "Design Milk", "date": "Aug 13", "url": "https://design-milk.com/skin1004-soho-flagship-lmtls-architecture/" },
+        { "headline": "A Stack of Concrete Cubes Extends a Historic Lisbon School", "source": "Dezeen", "date": "Aug 20", "url": "https://www.dezeen.com/2026/08/20/antonio-costa-lima-colegio-de-santa-maria/" },
+        { "headline": "The Hidden Artistry of Storefront Awnings, Reimagined as Sculpture", "source": "PRINT Magazine", "date": "Aug 17", "url": "https://www.printmag.com/design-news/egon-van-herreweghe-the-menu/", "image": "https://www.printmag.com/wp-content/uploads/2026/08/TM_EVH_The_Menu_Footnote_18-scaled.jpg" },
+        { "headline": "A Bent Plywood Desk Puts Your Monitor High and Your Hands Low", "source": "Yanko Design", "date": "Aug 19", "url": "https://www.yankodesign.com/2026/08/19/someone-finally-bent-a-desk-to-put-your-monitor-higher-and-hands-low/" }
+      ],
+      "craft": [
+        { "headline": "Does the World's First AI Art Museum Make Its Case?", "source": "Frieze", "date": "Aug 14", "url": "https://www.frieze.com/article/can-new-los-angeles-museum-make-case-ai-art", "image": "https://static.staging.frieze.com/frieze/files/article/inline/machine-dreams-rainforest-discovery-portal.jpg" },
+        { "headline": "A New Artist Book Turns LongHouse Reserve Into a Field of Daydreams", "source": "Whitewall", "date": "Aug 20", "url": "https://whitewall.art/art/daydreams-turns-longhouse-reserve-into-a-landscape-of-imagination/" },
+        { "headline": "Restorers Bring Back the Soldier Erased From a 17th-Century Dutch Painting", "source": "My Modern Met", "date": "Aug 17", "url": "https://mymodernmet.com/pieter-de-hooch-figures-in-a-courtyard-restoration/" },
+        { "headline": "Vanessa German's Sculptures Reclaim the Story of a Reform School's 'Midnight Girls Club'", "source": "Sculpture Magazine", "date": "Jul 30", "url": "https://sculpturemagazine.art/vanessa-german-leap-all-who-are-heavy-laden/" }
+      ],
+      "sound-vinyl": [
+        { "headline": "L'Rain's fata morgana Extends Black Music's Psychedelic Turn", "source": "Beats Per Minute", "date": "Aug 19", "url": "https://beatsperminute.com/album-review-lrain-fata-morgana/" },
+        { "headline": "How One Woman's Maine Venue Built a Hardcore Scene From Scratch", "source": "Decibel Magazine", "date": "Aug 14", "url": "https://www.decibelmagazine.com/2026/08/14/downeast-hardcore-stories-from-the-kave-qa-with-director-ricky-leighton/", "image": "https://www.decibelmagazine.com/wp-content/uploads/2026/08/5eae02d2cf-poster.webp" },
+        { "headline": "Cate Le Bon on Staying Porous as a Producer for Wilco and Devendra Banhart", "source": "Tape Op", "date": "Issue 174", "url": "https://tapeop.com/interviews/174/cate-le-bon" },
+        { "headline": "Blood Brothers' Members Regroup as Evil Island, With Guy Picciotto in Tow", "source": "PopMatters", "date": "Aug 19", "url": "https://www.popmatters.com/evil-island-terraform-afterlife" }
+      ],
+      "collecting": [
+        { "headline": "If You Could Own Just Two Watches, Which Would You Choose?", "source": "Fratello Watches", "date": "Aug 20", "url": "https://www.fratellowatches.com/fratello-talks-building-a-dream-two-watch-collection/" },
+        { "headline": "Unlocking the Secrets of Mego's 1980 Pocket Superheroes Batcave", "source": "Mego Museum", "date": "Apr 19", "url": "https://www.megomuseum.com/secrets-of-the-mego-pocket-superheroes-batcave-vintage-mego/" },
+        { "headline": "A Look Inside Matchbox's Third Collectors Batch of 2026", "source": "Lamley Group", "date": "Aug 17", "url": "https://lamleygroup.com/2026/08/17/matchbox-monday-collects-its-thoughts-on-collectors-batch-c/" },
+        { "headline": "Kudoke Joins Horology's Small Club of Tremblage-Dial Watchmakers", "source": "Quill & Pad", "date": "Aug 16", "url": "https://quillandpad.com/2026/08/16/league-of-severe-decorative-style-thanks-to-the-preserved-gold-part-of-the-7750/", "image": "https://quillandpad.com/wp-content/uploads/2026/08/KUDOKE1_Tremblage_blackr_Image_k.jpg" }
+      ],
+      "archives": [
+        { "headline": "The Delicate Work of Conserving an 18th-Century French Snuffbox", "source": "V&amp;A Blog", "date": "Jul 9", "url": "https://www.vam.ac.uk/blog/museum-life/conserving-an-intriguing-bonbonniere-in-the-rosalinde-and-arthur-gilbert-collection" },
+        { "headline": "The Ninth-Century Forgery That Reshaped the Medieval Papacy", "source": "History Today", "date": "Sep 2026", "url": "https://www.historytoday.com/archive/feature/medieval-forgery-heart-church", "image": "https://www.historytoday.com/sites/default/files/styles/large/public/2026-08/pseudo-isidore_catholic_church_history_today_0.jpg?itok=SfkGd7co" },
+        { "headline": "How Hannibal's 37 War Elephants Determined His Route Through the Alps", "source": "Nautilus", "date": "Jul 7", "url": "https://nautil.us/how-hannibals-war-elephants-helped-to-determine-his-route-through-the-alps-1282523" },
+        { "headline": "Knossos, the Bronze Age Palace That Was Mostly One Man's Guess", "source": "Atlas Obscura", "date": "Aug 13", "url": "https://www.atlasobscura.com/articles/posts/the-palace-that-was-mostly-guessed" }
+      ],
+      "photo-film": [
+        { "headline": "Ten Entry Points Into the Mind-Bending Films of Adam Curtis", "source": "The Quietus", "date": "Aug 19", "url": "https://thequietus.com/interviews/strange-world-of/adam-curtis-best-films-party-conference/", "image": "https://thequietus.com/app/uploads/2026/08/Untitled3-1024x576.png" },
+        { "headline": "How an Olympic Mascot Souvenir Order Inspired a Filipino Cult Classic", "source": "Criterion", "date": "Aug 13", "url": "https://www.criterion.com/current/posts/9244-small-town-big-money-capitalism-runs-amok-in-turumba" },
+        { "headline": "Five Frames From the Solar Eclipse, Shot on a Zeiss Loxia Lens", "source": "35mmc", "date": "Aug 20", "url": "https://www.35mmc.com/20/08/2026/5-eclipse-frames-with-a-zeiss-loxia-sonnar-50mm-f2-lens/" },
+        { "headline": "'Noble, Upstanding, Nauseating Liquids': A Filmmaker on Alcoholism and The Lost Weekend", "source": "Talkhouse Film", "date": "Aug 14", "url": "https://talkhouse.com/noble-upstanding-nauseating-liquids-on-the-lost-weekend" }
+      ]
+    }
+  },
+  {
     "dateLabel": "August 19, 2026",
     "hero": {
       "headline": "The Nakagin Capsule Tower and the Dream of a Home That Could Change",
