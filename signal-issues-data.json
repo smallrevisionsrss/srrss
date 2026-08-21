@@ -600,6 +600,106 @@
     }
   },
   {
+    "dateLabel": "August 9, 2026",
+    "hero": {
+      "headline": "Vinyl in the Veins",
+      "dek": "Behind the nostalgia lies an uncomfortable truth: every record is made of oil.",
+      "byline": "By Kyle Devine · Longreads",
+      "category": "sound-vinyl",
+      "image": "https://longreads.com/wp-content/uploads/2026/07/Recomposed-Kyle-Devine-vinyl-record.png",
+      "caption": "Author Kyle Devine alongside the cover of his book Recomposed: Music, Climate, Crisis, Change (Verso, 2026)",
+      "url": "https://longreads.com/2026/07/14/vinyl-record-music-industry-kyle-devine/"
+    },
+    "categories": {
+      "design-arch": [
+        { "headline": "A Barn-Inspired Treehouse in the Italian Alps With a Rope Net Bed", "source": "Yanko Design", "date": "Aug 6", "url": "https://www.yankodesign.com/2026/08/06/a-barn-inspired-treehouse-in-the-italian-alps-with-a-rope-net-bed/" },
+        { "headline": "Inside Norm Architects' \"Sanctuary in the Sky\" at 262 Fifth Avenue", "source": "Surface", "date": "Aug 4", "url": "https://www.surfacemag.com/articles/inside-norm-architects-sanctuary-in-the-sky-at-262-fifth-avenue/" },
+        { "headline": "Inside Sculpted, a Sydney Home Built Like a Macro Sculpture", "source": "Yellowtrace", "date": "Aug 3", "url": "https://www.yellowtrace.com.au/madeleine-blanchfield-architects-sculpted-bronte-house-australian-architecture/", "image": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/16194720/Yellowtrace-Madeleine-Blanchfield-Architects-Sculpted-Bronte-House-Photo-Anson-Smart-04_opt80.jpg" },
+        { "headline": "Weekly Design Roundup, August 3 to 7", "source": "Core77", "date": "Aug 7", "url": "https://www.core77.com/posts/144934/Core77-Weekly-Roundup-8-3-26-to-8-7-26" }
+      ],
+      "craft": [
+        { "headline": "Ken Kelleher's Colorful Characters Take Over a Botanical Garden", "source": "Design Milk", "date": "Aug 5", "url": "https://design-milk.com/ken-kelleher-anchorball-royal-botanical-gardens/", "image": "https://design-milk.com/images/2026/08/Design-Milk-Kelleher-RBG-2.jpeg" },
+        { "headline": "Porcelain Flower Sculptures With Golden Accents Capture the Way Sunlight Dances Across Petals", "source": "My Modern Met", "date": "Aug 3", "url": "https://mymodernmet.com/porcelain-flowers-monica-prado/" },
+        { "headline": "7 Must-See Solo Gallery Shows in August", "source": "Galerie Magazine", "date": "Aug 1", "url": "https://galeriemagazine.com/must-see-solo-gallery-shows-in-august/" },
+        { "headline": "Rooted in Memory: The Gullah Geechee Vision of Jonathan Green", "source": "Burnaway", "date": "Aug 4", "url": "https://burnaway.org/daily/rooted-in-memory-the-gullah-geechee-vision-of-jonathan-green-at-cameron-art-museum-wilmington/" }
+      ],
+      "sound-vinyl": [
+        { "headline": "Behold the Unique Commodore 64 Synthesizer of Doctor Mix", "source": "Synthtopia", "date": "Aug 5", "url": "https://www.synthtopia.com/content/2026/08/05/behold-the-unique-commodore-64-synthesizer-of-doctor-mix/" },
+        { "headline": "New Music Friday: The Best Albums Out Aug. 7", "source": "NPR Music", "date": "Aug 7", "url": "https://www.npr.org/2026/08/07/nx-s1-5922419/new-music-friday-best-albums-august-7-2026" },
+        { "headline": "Slow Fiction Deliver One of 2026's Strongest Indie Rock Debuts With \"Dollhouse\"", "source": "AudioFuzz", "date": "Aug 7", "url": "https://www.audiofuzz.com/2026/08/07/audiofuzz-hot-new-album-slow-fiction-deliver-one-of-2026s-strongest-indie-rock-debuts-with-dollhouse/" },
+        { "headline": "New Vinyl Reissues: August 7, 2026", "source": "VinylCut.net", "date": "Aug 6", "url": "https://www.vinylcut.net/new-vinyl-reissues-august-7-2026/", "image": "https://storage.ghost.io/c/4d/b6/4db6d862-9de4-4d69-858c-f76c2e9abb26/content/images/size/w1200/2026/08/vc080626hro.jpeg" }
+      ],
+      "collecting": [
+        { "headline": "Six Important Historic Marathon Watches, According to the Brand's President", "source": "aBlogtoWatch", "date": "Aug 6", "url": "https://www.ablogtowatch.com/six-important-historic-marathon-watches/" },
+        { "headline": "Retro Recap: All the Classic Gaming News From the Past Week", "source": "Time Extension", "date": "Aug 9", "url": "https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-august-9th-2026", "image": "https://images.timeextension.com/a73cbf40a00c2/retro-recap-all-the-classic-gaming-news-from-the-past-week-august-9th-2026-1.900x.jpg" },
+        { "headline": "Mego Buck Rogers Toy Fair Display by Croner Toys", "source": "Mego Museum", "date": "Aug 2", "url": "https://www.megomuseum.com/mego-buck-rogers-toyfair-display-by-croner-toys/" },
+        { "headline": "5 Awesome Things on eBay This Week: New Avengers, TJ Hooker, Rogun Robots, Hong Kong Phooey and the Shadow", "source": "Plaid Stallions", "date": "Jul 30", "url": "https://plaidstallions.com/reboot/5-awesome-things-on-ebay-this-week-212/" }
+      ],
+      "archives": [
+        { "headline": "The Ableism of Kings, the Fury of Trump", "source": "Public Books", "date": "Jul 16", "url": "https://www.publicbooks.org/the-ableism-of-kings-the-fury-of-trump/" },
+        { "headline": "MTA Is Auctioning Off MetroCard Vending Machines", "source": "6sqft", "date": "Aug 5", "url": "https://www.6sqft.com/mta-is-auctioning-off-metrocard-vending-machines/" },
+        { "headline": "Digital Detox: Is Social Media Still Worth It for Museums?", "source": "Museums Association", "date": "Aug 3", "url": "https://www.museumsassociation.org/museums-journal/analysis/2026/08/digital-detox-is-social-media-still-worth-it-for-museums/", "image": "https://media-library.museumsassociation.org/app/uploads/2026/08/03075533/Screenshot-2026-08-03-at-10.50.14-e1785743987408-1024x577.webp" },
+        { "headline": "The Age of the Genius General Is Over", "source": "Engelsberg Ideas", "date": "Jul 24", "url": "https://engelsbergideas.com/essays/the-age-of-the-genius-general-is-over/" }
+      ],
+      "photo-film": [
+        { "headline": "Portrait of a City at Dulwich Picture Gallery", "source": "1854 Photography", "date": "Aug 5", "url": "https://www.1854.photography/2026/08/city-dulwich/" },
+        { "headline": "Student Prize: Top 25 to Watch", "source": "Lenscratch", "date": "Aug 2", "url": "https://lenscratch.com/2026/08/student-prize-top-25-to-watch/" },
+        { "headline": "Immersed and Submerged: Lucrecia Martel's Nuestra Tierra", "source": "Bright Wall/Dark Room", "date": "Jul 8", "url": "https://www.brightwalldarkroom.com/2026/07/08/immersed-and-submerged/" },
+        { "headline": "\"You Have to Be There\": Barbara Kopple Looks Back on American Dream", "source": "Filmmaker Magazine", "date": "May 1", "url": "https://filmmakermagazine.com/133707-interview-barbara-kopple-american-dream-janus-restoration-2026/", "image": "https://cdn.filmmakermagazine.com/uploads/2026/05/31114id_056_0002_31114id_149_w1600.jpg" }
+      ]
+    }
+  },
+  {
+    "dateLabel": "August 8, 2026",
+    "hero": {
+      "headline": "The Other Naipaul Walked Through Jonestown's Wreckage",
+      "dek": "A newly reissued 1982 book on the deaths at Jonestown reveals Shiva Naipaul, younger brother of Nobel laureate V.S. Naipaul, as a fierce and unsettled moral reporter who saw the massacre as a political catastrophe rather than just a cult story.",
+      "byline": "By Andrew Holter · The Paris Review",
+      "category": "archives",
+      "image": "https://www.theparisreview.org/blog/wp-content/uploads/2026/08/1280px-jonestown-entrance.jpg",
+      "caption": "The entrance to the Jonestown compound in Guyana, where more than 900 members of the Peoples Temple died in November 1978.",
+      "url": "https://www.theparisreview.org/blog/2026/08/06/no-more-missionaries-shiva-naipauls-jonestown/"
+    },
+    "categories": {
+      "design-arch": [
+        { "headline": "Berlin's Confusing Museum Network Just Renamed Itself Using the City's Own Street Signs", "source": "It's Nice That", "date": "Aug 6", "url": "https://www.itsnicethat.com/articles/stan-hema-berlin-museum-graphic-design-project-060826", "image": "https://admin.itsnicethat.com/images/DGq-KIDbRd-SCpPSyuahUQfLwpI=/280718/width-1440/stan-hema-berlin-museum-graphic-design-itsnicethat-9.jpg" },
+        { "headline": "Domino Architects Pushes 3D-Printed Furniture Past the Prototype Stage", "source": "Casa Brutus", "date": "Aug 8", "url": "https://casabrutus.com/categories/design/490615" },
+        { "headline": "This Year's Top Design Awards Gave a Plain Cardboard Box a Perfect Score", "source": "The Dieline", "date": "May 13", "url": "https://thedieline.com/10-sustainable-packaging-winners-at-if-design-awards-2026/" },
+        { "headline": "Issey Miyake's New Manhattan Store Folds a Frank Gehry Relic Into a Beaux-Arts Landmark", "source": "Spoon &amp; Tamago", "date": "May 9", "url": "https://spoon-tamago.com/issey-miyake-new-nyc-flagship-blends-fashion-and-architecture/" }
+      ],
+      "craft": [
+        { "headline": "Cathrin Hoffmann Turns Exhaustion Into Clay-Toned Paintings and Concrete Bodies", "source": "Juxtapoz", "date": "Mar 16", "url": "https://www.juxtapoz.com/news/installation/cathrin-hoffmann-sill-public-gallery-london/" },
+        { "headline": "Melted Flowers and Hand-Cast Brass: This Week's Best Small-Batch Objects", "source": "Sight Unseen", "date": "May 8", "url": "https://www.sightunseen.com/2026/05/our-favorite-floral-ceramics-a-new-handmade-hardware-line-and-more/" },
+        { "headline": "30 Makers, One Prize: Inside This Year's Loewe Craft Shortlist", "source": "Wallpaper*", "date": "Feb 23", "url": "https://www.wallpaper.com/design-interiors/loewe-craft-prize-2026-shortlist", "image": "https://cdn.mos.cms.futurecdn.net/sJDBAdWhfFUYcJqEsKFQtE-1216-80.jpg" },
+        { "headline": "Seven Ceramicists to Watch at London Craft Week", "source": "This Thing With Ceramics", "date": "May 6", "url": "https://www.thisthingwithceramics.co.uk/people/future-icons-selects-2026-ceramic-artists" }
+      ],
+      "photo-film": [
+        { "headline": "A Century of Photography, From Arbus to Goldin, Hits the Road", "source": "PetaPixel", "date": "Aug 8", "url": "https://petapixel.com/2026/08/08/incredible-photo-collection-featuring-works-by-nan-goldin-and-diane-arbus-goes-on-tour/" },
+        { "headline": "The Movies Every Photographer Should Watch to Sharpen Their Eye", "source": "Fstoppers", "date": "Jul 29", "url": "https://fstoppers.com/opinion/films-every-photographer-should-see-903665" },
+        { "headline": "Cincinnati's New Photo Center Asks Who Counts as American", "source": "Aperture", "date": "Jul 14", "url": "https://aperture.org/editorial/a-new-space-for-photography-explores-who-gets-to-be-an-american/", "image": "https://aperture.org/wp-content/uploads/2026/07/Copy-of-Freedman_Jill-Freedman-78-scaled.jpeg" },
+        { "headline": "Staged Family Photos Take On Race and Identity in the Netherlands", "source": "1000 Words", "date": "Jul 30", "url": "https://1000wordsmag.com/between-pose-and-presence-on-farren-van-wyks-mixedness-is-my-mythology/" }
+      ],
+      "sound-vinyl": [
+        { "headline": "Melvins and Butthole Surfers Members Form New Band Gatta Morta", "source": "Metal Injection", "date": "Aug 4", "url": "https://metalinjection.net/news/listen-members-of-melvins-butthole-surfers-more-launch-supergroup-gatta-morta-hear-burn-witch-burn" },
+        { "headline": "Five New Metal and Hardcore Records Worth Hearing This Week", "source": "Decibel Magazine", "date": "Aug 7", "url": "https://www.decibelmagazine.com/2026/08/07/five-for-friday-august-7-2026/", "image": "https://www.decibelmagazine.com/wp-content/uploads/2026/08/dBNews_2026-08-07_FiveForFriday.png" },
+        { "headline": "Team Dresch Share New Song and Stop-Motion Video Ahead of Their First Album in 30 Years", "source": "The Line of Best Fit", "date": "Aug 7", "url": "https://www.thelineofbestfit.com/news/team-dresch-preview-first-album-in-30-years-with-growing-underground-video-made-by-coraline-animators" },
+        { "headline": "Harlem Rapper Liim Announces Second Album and Shares Throwback Single \"1980\"", "source": "The FADER", "date": "Aug 7", "url": "https://www.thefader.com/2026/08/07/liim-announces-new-album-a-sunflower-garden-in-harlem-is-hard-to-find" }
+      ],
+      "collecting": [
+        { "headline": "The 25 Priciest Records Collectors Chased Down in June", "source": "Discogs Digs", "date": "Jul 1", "url": "https://www.discogs.com/digs/collecting/the-stories-behind-discogs-most-valuable-record-sales-june-2026/" },
+        { "headline": "Where to Start When You're Building Your First Watch Collection", "source": "Fratello Watches", "date": "Jan 1", "url": "https://www.fratellowatches.com/fratello-talks-the-best-entry-level-watches-to-start-a-collection-in-2026/" },
+        { "headline": "How a Teenager Built the World's Biggest Jellycat Collection Secondhand", "source": "Guinness World Records", "date": "Jun 15", "url": "https://www.guinnessworldrecords.com/news/2026/6/jellycat-collector-shares-bargain-hunting-secrets-and-tests-knowledge-of-the-famous-toys" },
+        { "headline": "The Man Who's Spent 20 Years Hunting Rare Pumas", "source": "Sneaker Freaker", "date": "Aug 7", "url": "https://www.sneakerfreaker.com/features/collector-spotlight-justin-oliver-puma-interview", "image": "https://cdn.sanity.io/images/c1chvb1i/production/52d04a234473395fa1e018cab99ab5b458fb0636-1980x1320.png" }
+      ],
+      "archives": [
+        { "headline": "Ink Ghosts Reveal 42 Pages Lost From a 6th-Century Bible for 800 Years", "source": "Ancient Origins", "date": "Apr 26", "url": "https://www.ancient-origins.net/news-history-archaeology/new-testament-manuscript-00102733" },
+        { "headline": "The Scroll Women Wrapped Around Their Bodies to Survive Childbirth", "source": "Wellcome Collection", "date": "Jun 18", "url": "https://wellcomecollection.org/stories/protecting-body-and-soul-in-medieval-childbirth", "image": "https://images.prismic.io/wellcomecollection/ajK9aI1P9HI4Uoup_Protectingbodyandsoulinmedievalchildbirth.jpg" },
+        { "headline": "Antiquity Wasn't Just Greece and Rome, It Was the Whole World Trading", "source": "Aeon", "date": "Jul 20", "url": "https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome" },
+        { "headline": "The Biggest POW Breakout of World War II Isn't the One You've Heard Of", "source": "Smithsonian Magazine", "date": "Aug 5", "url": "https://www.smithsonianmag.com/history/why-has-history-forgotten-world-war-iis-largest-prison-break-which-claimed-the-lives-of-more-than-200-japanese-pows-180989246/" }
+      ]
+    }
+  },
+  {
     "dateLabel": "August 7, 2026",
     "hero": {
       "headline": "Roots and the Meaning of Life",
