@@ -300,6 +300,56 @@
     }
   },
   {
+    "dateLabel": "August 15, 2026",
+    "hero": {
+      "headline": "Dungeon Master: Kiyoshi Kurosawa on \"The Samurai and the Prisoner\"",
+      "dek": "Blending \"Throne of Blood\" with \"The Silence of the Lambs,\" the J-horror auteur stages a murder mystery inside a besieged sixteenth-century Japanese castle for his first jidaigeki feature.",
+      "byline": "By Jawni Han · Filmmaker Magazine",
+      "category": "photo-film",
+      "image": "https://substackcdn.com/image/fetch/$s_!WClH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57d64bd5-b55b-49c6-a424-d448c95b26cf_1786x1080.jpeg",
+      "caption": "The Samurai and the Prisoner (2026). Still courtesy of Janus Films.",
+      "url": "https://filmmaker.substack.com/p/dungeon-master-kiyoshi-kurosawa-on"
+    },
+    "categories": {
+      "design-arch": [
+        { "headline": "HYAN Renovates a 1970s Hayama House Instead of Tearing It Down", "source": "ArchDaily", "date": "Aug 13", "url": "https://www.archdaily.com/1183108/green-sandwich-house-hyan" },
+        { "headline": "Pentagram Packages the Essence of Heritage for Liberty's New Beauty Line", "source": "BP&amp;O", "date": "Aug 12", "url": "https://bpando.org/2026/08/12/packaging-the-essence-of-heritage/" },
+        { "headline": "The 7 Best Japanese Designs of August 2026", "source": "Yanko Design", "date": "Aug 13", "url": "https://www.yankodesign.com/2026/08/13/7-best-japanese-designs-of-august-2026/" },
+        { "headline": "Helen &amp; Hard Uses Uprooted Spruce Trees to Shape a Norwegian Cabin", "source": "Dezeen", "date": "Aug 15", "url": "https://www.dezeen.com/2026/08/15/cabin-sande-spruce-trees-norway-atlanic-ocean-helen-hard-architects/", "image": "https://static.dezeen.com/uploads/2026/07/cabin-sande-helen-hard-architects-norway-timber-hero_dezeen_2364_col_3.jpg" }
+      ],
+      "craft": [
+        { "headline": "\"Turn the Volume Up!\" Traces the History of Speaking Out for Change in America", "source": "Colossal", "date": "Aug 13", "url": "https://www.thisiscolossal.com/2026/08/turn-the-volume-up-nasher-museum-protest-art/", "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/turn-the-volume-up-4-960x739.jpg" },
+        { "headline": "Does a New Tate Exhibition Dim the Power of Ana Mendieta's Legacy?", "source": "Cultured Mag", "date": "Aug 12", "url": "https://www.culturedmag.com/article/2026/08/12/art-tate-ana-mendieta-exhibition-feminist/" },
+        { "headline": "In the Studio With Susan Bowers", "source": "Burnaway", "date": "Aug 12", "url": "https://burnaway.org/daily/in-the-studio-with-susan-bowers/" },
+        { "headline": "This Very Strange Drawing by Susan Hauptman Has Stuck With Me", "source": "Artnet News", "date": "Aug 14", "url": "https://news.artnet.com/art-world/susan-hauptman-george-adams-review-2797924" }
+      ],
+      "sound-vinyl": [
+        { "headline": "Essential Releases, August 14, 2026", "source": "Bandcamp Daily", "date": "Aug 14", "url": "https://daily.bandcamp.com/essential-releases/essential-releases-august-14-2026" },
+        { "headline": "Nina Winder-Lind Is Erupting", "source": "The Line of Best Fit", "date": "Aug 13", "url": "https://www.thelineofbestfit.com/albums/nina-winder-lind-is-erupting" },
+        { "headline": "James Ellis Ford: Lost in Another World", "source": "Clash Magazine", "date": "Aug 14", "url": "https://www.clashmusic.com/reviews/james-ellis-ford-lost-in-another-world/", "image": "https://www.clashmusic.com/wp-content/uploads/2026/08/James_Ellis_Ford_-_Lost_In_Another_World_-_Packshot_WIG572D.jpg" },
+        { "headline": "L'Rain Turns Alienation Into a Mirage on the Extraordinary \"Fata Morgana\"", "source": "AudioFuzz", "date": "Aug 14", "url": "https://www.audiofuzz.com/2026/08/14/lrain-turns-alienation-into-a-mirage-on-the-extraordinary-fata-morgana/" }
+      ],
+      "collecting": [
+        { "headline": "CIGA Design's Hunter Vintage Watch Adds Golden Warmth to a Futuristic Design", "source": "aBlogtoWatch", "date": "Aug 13", "url": "https://www.ablogtowatch.com/hands-on-the-ciga-design-hunter-vintage-watch-adds-golden-warmth-to-its-futuristic-design/" },
+        { "headline": "Pixel Skylines", "source": "Present &amp; Correct", "date": "Jul 8", "url": "https://www.presentandcorrect.com/blogs/blog/pixel-skylines", "image": "https://cdn.shopify.com/s/files/1/0952/3604/files/sky1_52658369-f819-4f5d-a60e-a11676d4ad05.png?v=1783496431" },
+        { "headline": "CeX May Be Reviving Its \"Retro-Only\" Store Concept, Rumour Suggests", "source": "Time Extension", "date": "Aug 14", "url": "https://www.timeextension.com/news/2026/08/cex-is-revisiting-its-retro-only-store-concept-and-returning-to-the-world-of-imports-according-to-new-rumour" },
+        { "headline": "5 Awesome Things on eBay This Week: Japanese Apes, Star Trek and the Hulk's Flying Fist", "source": "Plaid Stallions", "date": "Aug 6", "url": "https://plaidstallions.com/reboot/5-awesome-things-on-ebay-this-week-213/" }
+      ],
+      "archives": [
+        { "headline": "Talking Historical Stoves and Affordable Energy With Joyce Chaplin", "source": "Public Books", "date": "Aug 6", "url": "https://www.publicbooks.org/if-a-woman-commanded-fire-talking-historical-stoves-and-affordable-energy-with-joyce-chaplin/", "image": "https://www.publicbooks.org/wp-content/uploads/2026/08/Chaplin_IMG_6502crop-scaled-e1785790083675-1000x600.jpg" },
+        { "headline": "The Hessians Were Supposed to Quickly End the American Revolution. They Endured Years of Battles Instead", "source": "Smithsonian Magazine", "date": "Aug 13", "url": "https://www.smithsonianmag.com/history/the-hessians-were-supposed-to-quickly-end-the-american-revolution-instead-they-endured-years-of-battles-and-suffered-thousands-of-casualties-180989252/" },
+        { "headline": "How the Big Dig Changed Boston's Landscape", "source": "JSTOR Daily", "date": "Aug 12", "url": "https://daily.jstor.org/how-the-big-dig-changed-bostons-landscape/" },
+        { "headline": "A Thousand Years in the Making: The Bayeux Tapestry Loan", "source": "Museums Association", "date": "Jul 10", "url": "https://www.museumsassociation.org/museums-journal/features/2026/07/a-thousand-years-in-the-making-the-bayeux-tapestry-loan/" }
+      ],
+      "photo-film": [
+        { "headline": "SF Camerawork, a Photo Champion for Five Decades, Abruptly Announces Closure", "source": "Hyperallergic", "date": "Aug 12", "url": "https://hyperallergic.com/sf-camerawork-photo-champion-for-five-decades-abruptly-announces-closure/" },
+        { "headline": "100+ Iconic Photos Explore the Power of Presence in a Traveling Exhibition", "source": "My Modern Met", "date": "Aug 13", "url": "https://mymodernmet.com/presence-photography-collection-judy-glickman-lauder/" },
+        { "headline": "Between the Narrative and the Physical Reality of the Image: Rob Tregenza on Fast", "source": "The Film Stage", "date": "Aug 11", "url": "https://thefilmstage.com/between-the-narrative-and-the-physical-reality-of-the-image-rob-tregenza-on-fast/" },
+        { "headline": "Getty Exhibition Explores the Evolution of Mexican Photography", "source": "PetaPixel", "date": "Aug 15", "url": "https://petapixel.com/2026/08/15/getty-exhibition-explores-the-evolution-of-mexican-photography/", "image": "https://petapixel.com/assets/uploads/2026/08/gm_40651101-800x650.jpg" }
+      ]
+    }
+  },
+  {
     "dateLabel": "August 14, 2026",
     "hero": {
       "headline": "A Primordial Covenant of Relationship",
