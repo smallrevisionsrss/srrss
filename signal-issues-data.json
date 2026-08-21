@@ -1,5 +1,55 @@
 [
   {
+    "dateLabel": "August 21, 2026",
+    "hero": {
+      "headline": "The Fog of Hunger",
+      "dek": "From childhood, women are trained to restrict their appetite, and there's a huge, hidden, cognitive price to pay for it.",
+      "byline": "By Sarah Berg · Aeon",
+      "category": "archives",
+      "image": "https://images.aeonmedia.co/images/8faddae4-306f-4e06-81c2-183366800391/essay-v2-nyc34743.jpg?width=1200&quality=75&format=jpeg",
+      "caption": "Photograph by Constantine Manos / Magnum Photos",
+      "url": "https://aeon.co/essays/a-hungry-woman-is-easier-to-dismiss-than-a-well-fed-woman"
+    },
+    "categories": {
+      "design-arch": [
+        { "headline": "UUfie Reorganizes a Renovated Ontario Chalet Around a Steep, Wooded Site", "source": "Dezeen", "date": "Aug 21", "url": "https://www.dezeen.com/2026/08/21/uufie-renovates-ontario-chalet-belfountain/" },
+        { "headline": "Charlotte Rohde's New Typeface Has Heart-Dotted I's and a Plan to Overwrite Problematic Men", "source": "It's Nice That", "date": "Aug 19", "url": "https://www.itsnicethat.com/articles/charlotte-rohde-oficia-mono-typography-graphic-design-project-190826", "image": "https://admin.itsnicethat.com/images/AzrNQ5vOyZj2aRrFnHEyJuXUWtw=/280948/width-1440/oficiakampagne_regular3.jpg" },
+        { "headline": "A Former Pencil Factory in Brooklyn Becomes a Members-Only Hub for Content Creators", "source": "Surface Magazine", "date": "Feb 2026", "url": "https://www.surfacemag.com/articles/warkentin-associates-bench-architecture-the-lighthouse/" },
+        { "headline": "A Student Designs a Repairable Vehicle Built for Rural Scandinavia", "source": "Core77", "date": "Aug 21", "url": "https://www.core77.com/posts/145140/Transportation-Design-Student-Work-A-Repairable-Vehicle-for-Rural-Scandinavia" }
+      ],
+      "craft": [
+        { "headline": "Enrico David's Spectral Figures Are Hard to Forget", "source": "Frieze", "date": "Aug 21", "url": "https://www.frieze.com/article/enrico-david-works-on-paper-1995-2026-review" },
+        { "headline": "Anton Alvarez Opens Whole Other Worlds of Shaping Clay", "source": "Sculpture Magazine", "date": "Aug 21", "url": "https://sculpturemagazine.art/anton-alvarez/" },
+        { "headline": "The Home of Donald Judd's Most Ambitious Work Is About to Be Restored", "source": "Wallpaper*", "date": "Aug 19", "url": "https://www.wallpaper.com/art/donald-judd-artillery-sheds-restoration-marfa", "image": "https://cdn.mos.cms.futurecdn.net/iqmPix732iKDFiUMWsuJBB-1920-80.jpg" },
+        { "headline": "Astrid Kajsa Nylander on the Many Lives of Pink Ahead of Her Stockholm Show", "source": "Cultbytes", "date": "Aug 18", "url": "https://cultbytes.com/the-many-lives-of-pink-astrid-kajsa-nylander-on-her-upcoming-show-set-at-belenius-in-stockholm/" }
+      ],
+      "sound-vinyl": [
+        { "headline": "Westside Cowboy's Debut, It Goes On, Is One of the Finest Records of the Last 20 Years", "source": "Beats Per Minute", "date": "Aug 21", "url": "https://beatsperminute.com/album-review-westside-cowboy-it-goes-on/" },
+        { "headline": "California Deathgrind Trio Deathgrave Debut Their Third Album, Hell Is Evil", "source": "Decibel Magazine", "date": "Aug 20", "url": "https://www.decibelmagazine.com/2026/08/20/full-album-stream-deathgrave-hell-is-evil/" },
+        { "headline": "Kenny Beats, Now Kenneth Blume III, Opens Up About Building His Dream Studio", "source": "Tape Op", "date": "Issue 174", "url": "https://tapeop.com/interviews/174/kenneth-blume-iii-fka-kenny-beats" },
+        { "headline": "Weezer Don't Have to Fake It on The Gold Album", "source": "Consequence", "date": "Aug 19", "url": "https://consequence.net/2026/08/weezer-dont-have-to-fake-it-on-the-gold-album-review/", "image": "https://consequence.net/wp-content/uploads/2026/08/weezer-gold-album-photo-Brendan-Walter.jpg" }
+      ],
+      "collecting": [
+        { "headline": "The Practical Elegance of the Louis Vuitton Escale Twin Zone", "source": "Monochrome Watches", "date": "Aug 21", "url": "https://monochrome-watches.com/louis-vuitton-escale-twin-zone-pink-gold-dual-time-review-price/", "image": "https://monochrome-watches.com/app/uploads/2026/08/Louis-Vuitton-Escale-Twin-Zone-rose-gold-dual-time-review-13.jpg" },
+        { "headline": "How Moser's New Streamliner Pump Translates a Sneaker Icon Into Watchmaking Reality", "source": "Revolution", "date": "Aug 21", "url": "https://revolutionwatch.com/how-mosers-new-streamliner-pump-translates-a-sneaker-icon-into-watchmaking-reality/" },
+        { "headline": "The Evercade Wireless Controller Is the Perfect Interface for Its Next Era", "source": "Time Extension", "date": "Aug 21", "url": "https://www.timeextension.com/reviews/evercade-wireless-controller-the-perfect-interface-for-the-next-era-of-evercade" },
+        { "headline": "Hong Kong: Watch-World's Other Hub", "source": "Quill &amp; Pad", "date": "Aug 20", "url": "https://quillandpad.com/2026/08/20/hong-kong-watch-worlds-other-hub/" }
+      ],
+      "archives": [
+        { "headline": "How the Ancient Greeks Interpreted Their Dreams", "source": "Nautilus", "date": "Aug 20", "url": "https://nautil.us/how-the-ancient-greeks-interpreted-their-dreams-1284046" },
+        { "headline": "For Foreign Visitors to Mao's China, Hospitality Workers Were Unofficial Ambassadors", "source": "History Today", "date": "Aug 2026", "url": "https://www.historytoday.com/archive/feature/visiting-maos-china" },
+        { "headline": "A Ukrainian Filmmaker Reconstructs the Grotesque Spectacle of Stalin's First Show Trial", "source": "Engelsberg Ideas", "date": "Aug 19", "url": "https://engelsbergideas.com/notebook/the-first-moscow-show-trial/", "image": "https://engelsbergideas.com/wp-content/uploads/2026/08/trial.jpg" },
+        { "headline": "Khapped!", "source": "Jewish Review of Books", "date": "Summer 2026", "url": "https://jewishreviewofbooks.com/jewish-history/20016/khapped/" }
+      ],
+      "photo-film": [
+        { "headline": "The Things That Echo: What Four Films Taught Me About Becoming", "source": "Talkhouse Film", "date": "Aug 21", "url": "https://talkhouse.com/the-things-that-echo-what-four-films-taught-me-about-becoming" },
+        { "headline": "Photographer Captures Day-Old Goslings Leaping From Their Nest", "source": "PetaPixel", "date": "Aug 21", "url": "https://petapixel.com/2026/08/21/photographer-captures-day-old-goslings-leaping-from-their-nest/", "image": "https://petapixel.com/assets/uploads/2026/08/Goslings-Leap-From-Nest8.jpg" },
+        { "headline": "Discovering a Treasure Trove of Film Posters by David Lance Goines", "source": "MUBI Notebook", "date": "Aug 21", "url": "https://mubi.com/en/notebook/posts/movie-poster-of-the-week-the-film-posters-of-david-lance-goines" },
+        { "headline": "Shatara Michelle Ford's Sophomore Feature Is a Cathartic Work of Healing and Beauty", "source": "The Film Stage", "date": "Aug 20", "url": "https://thefilmstage.com/dreams-in-nightmares-review-shatara-michelle-fords-sophomore-feature-is-a-cathartic-work-of-healing-and-beauty/" }
+      ]
+    }
+  },
+  {
     "dateLabel": "August 20, 2026",
     "hero": {
       "headline": "A Bernini Painting Spent 37 Years Hidden in a Museum Storeroom",
