@@ -1,5 +1,181 @@
 [
  {
+  "dateLabel": "August 27, 2026",
+  "hero": {
+   "headline": "Yayoi Kusama, Who Turned Her Hallucinations Into Infinity, Dies at 97",
+   "dek": "She began painting as a child to cope with what she saw, wrote to Georgia O'Keeffe before moving to New York in 1958, and lived by choice in a Tokyo mental health facility from the mid-1970s while her mirrored rooms travelled the world.",
+   "byline": "By Valentina Di Liscia · Hyperallergic",
+   "category": "craft",
+   "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/08/GettyImages-187291323.jpg",
+   "caption": "Yayoi Kusama (1929–2026)",
+   "url": "https://hyperallergic.com/yayoi-kusama-artist-of-infinities-dies-at-97/"
+  },
+  "categories": {
+   "design-arch": [
+    {
+     "headline": "A Community Center for Rural Senegal, Built From Rammed Earth and Bamboo",
+     "source": "Yanko Design",
+     "date": "Aug 26",
+     "url": "https://www.yankodesign.com/2026/08/26/mud-bamboo-and-a-big-idea-for-rural-senegal/"
+    },
+    {
+     "headline": "A Reimagined Egyptian Dahabeah Brings Slow Travel Back to the Nile",
+     "source": "Design Milk",
+     "date": "Aug 26",
+     "url": "https://design-milk.com/kemetale-egyptian-dahabeah-nile/",
+     "image": "https://design-milk.com/images/2026/08/Kemetale-1.jpg"
+    },
+    {
+     "headline": "Mouthwash Studio's Bonnie Clyde Identity Is Historically Wrong and Rather Lovely Anyway",
+     "source": "BP&O",
+     "date": "Aug 27",
+     "url": "https://bpando.org/2026/08/27/mouthwash-studio-bonnie-clyde-eyewear-brand-identity/"
+    },
+    {
+     "headline": "A Japanese House That Perches Above Its Slope on a Single Cantilever",
+     "source": "Plain Magazine",
+     "date": "Aug 27",
+     "url": "https://plainmagazine.com/nanometer-architecture-house-off-ground-japan/"
+    }
+   ],
+   "craft": [
+    {
+     "headline": "Nosheen Iqbal Rebuilds Islamic Ornament in Wood, Bead, and Thread",
+     "source": "Colossal",
+     "date": "Aug 24",
+     "url": "https://www.thisiscolossal.com/2026/08/nosheen-iqbal-inherited-forms-wooden-patterns-thread-reliefs/"
+    },
+    {
+     "headline": "Hans Op de Beeck Drains the Color Out of Everyday Stillness",
+     "source": "Whitewall",
+     "date": "Aug 24",
+     "url": "https://whitewall.art/art/why-hans-op-de-beecks-new-brussels-exhibition-is-one-to-watch-this-fall/"
+    },
+    {
+     "headline": "“Art Is Art. Fashion Is Fashion”: A Lagerfeld Show Tests the Line",
+     "source": "Cultbytes",
+     "date": "Aug 26",
+     "url": "https://cultbytes.com/art-is-art-fashion-is-fashion/"
+    },
+    {
+     "headline": "Soe Yu Nwe's Ceramic Hybrids Carry Buddhist Myth and Its Constraints",
+     "source": "ArtAsiaPacific",
+     "date": "Aug 27",
+     "url": "https://www.artasiapacific.com/issue/new-currents-soe-yu-nwe/",
+     "image": "https://storage.ghost.io/c/16/43/16435400-f27e-4b41-b5f7-d0c24f5ce4de/content/images/2026/08/Soe-Yu-Nwe-2.jpg"
+    }
+   ],
+   "sound-vinyl": [
+    {
+     "headline": "Interpol Went Back to New York to Record, and the City Answered",
+     "source": "Spin",
+     "date": "Aug 27",
+     "url": "https://www.spinmagazine.com/2026/08/interpol-interview/"
+    },
+    {
+     "headline": "John Foxx and Harold Budd, an Unlikely Ambient Partnership",
+     "source": "Aquarium Drunkard",
+     "date": "Aug 24",
+     "url": "https://aquariumdrunkard.com/2026/08/24/john-foxx-harold-budd-translucence-drift-music/"
+    },
+    {
+     "headline": "Hatebreed's Supremacy at Twenty, Still Groove-Heavy and Unmoved",
+     "source": "Decibel Magazine",
+     "date": "Aug 24",
+     "url": "https://www.decibelmagazine.com/2026/08/24/retrospective-20-years-of-hatebreeds-supremacy/",
+     "image": "https://www.decibelmagazine.com/wp-content/uploads/2026/08/469556674_1124233255735114_9180719355808755240_n.jpg"
+    },
+    {
+     "headline": "The Durutti Column Return, Late and Graceful, With Renascent",
+     "source": "PopMatters",
+     "date": "Aug 25",
+     "url": "https://www.popmatters.com/the-durutti-column-renascent"
+    }
+   ],
+   "collecting": [
+    {
+     "headline": "How Microbrands Turned Into Serious Alternatives for Collectors",
+     "source": "Fratello Watches",
+     "date": "Aug 27",
+     "url": "https://www.fratellowatches.com/fratello-talks-how-microbrands-have-changed-the-game/",
+     "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/07/Laventure-Marine-Chronometer-19.jpg"
+    },
+    {
+     "headline": "The Worldtimer, and the Romance of Distance Before Instant Contact",
+     "source": "Quill & Pad",
+     "date": "Aug 25",
+     "url": "https://quillandpad.com/2026/08/25/a-world-in-platinum-the-andersen-geneve-communication-45-and-the-art-of-the-worldtimer/"
+    },
+    {
+     "headline": "The School Year, Traced Through a Century of Postcards and Ephemera",
+     "source": "Delcampe",
+     "date": "Aug 26",
+     "url": "https://blog.delcampe.net/en/back-to-school-all-about-collecting/"
+    },
+    {
+     "headline": "Mattel Shrank the Whole of Oz Into a Polly Pocket Case",
+     "source": "Toy Tales",
+     "date": "Aug 24",
+     "url": "https://toytales.ca/polly-pocket-the-wizard-of-oz-playset-from-mattel-2001/"
+    }
+   ],
+   "archives": [
+    {
+     "headline": "How Kudzu Was Supposed to Save the South",
+     "source": "JSTOR Daily",
+     "date": "Aug 26",
+     "url": "https://daily.jstor.org/how-kudzu-was-supposed-to-save-the-south/"
+    },
+    {
+     "headline": "Medieval Manuscripts Survived Because Someone Cut Them Up for Bookbinding",
+     "source": "Smithsonian Magazine",
+     "date": "Aug 26",
+     "url": "https://www.smithsonianmag.com/smart-news/these-medieval-manuscript-fragments-were-reused-as-parchment-inadvertently-preserving-them-for-centuries-180989398/"
+    },
+    {
+     "headline": "In Early Modern Osaka, Even the Commoners Ate Well",
+     "source": "Nautilus",
+     "date": "Aug 26",
+     "url": "https://nautil.us/the-kitchen-of-the-realm-even-the-commoners-ate-well-in-ancient-osaka-1284509/",
+     "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Dojima-Rice-Exchange-Osaka-by-Yoshimitsu-Sasaki.png?w=564"
+    },
+    {
+     "headline": "Julian the Apostate and the Complicated History of Tolerance",
+     "source": "Philosophy Now",
+     "date": "Aug 3",
+     "url": "https://philosophynow.org/issues/175/Julian_the_Apostate_331-363"
+    }
+   ],
+   "photo-film": [
+    {
+     "headline": "How Pakistani Cinema Learned to Film Desire Without the Kiss",
+     "source": "MUBI Notebook",
+     "date": "Aug 27",
+     "url": "https://mubi.com/en/notebook/posts/songs-for-a-kiss-the-evolving-romance-of-pakistani-cinema"
+    },
+    {
+     "headline": "Almodóvar: “Everyone That Surrounds a Writer Feeds Their Creation”",
+     "source": "Little White Lies",
+     "date": "Aug 26",
+     "url": "https://lwlies.com/in-conversation/pedro-almod%C3%B3var-bitter-christmas",
+     "image": "https://tco-london.transforms.svdcdn.com/production/tco/images/Almodovar-illustration.jpg"
+    },
+    {
+     "headline": "Kazuo Hara and Sachiko Kobayashi's Five Documentaries That Refuse to Resolve",
+     "source": "Criterion",
+     "date": "Aug 25",
+     "url": "https://www.criterion.com/current/posts/9260-five-radical-documentaries-by-kazuo-hara-and-sachiko-kobayashi-restlessness-refusing-resolution"
+    },
+    {
+     "headline": "Seven Photographers at Arles, Working Against the Dominant Story",
+     "source": "Aperture",
+     "date": "Aug 21",
+     "url": "https://aperture.org/editorial/in-france-an-exhibition-focuses-on-the-power-of-truth/"
+    }
+   ]
+  }
+ },
+ {
   "dateLabel": "August 26, 2026",
   "hero": {
    "headline": "“It's Not About Technique, But Feeling”: Chiharu Shiota on Three Decades of Thread",
