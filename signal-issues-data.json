@@ -1,5 +1,181 @@
 [
  {
+  "dateLabel": "August 28, 2026",
+  "hero": {
+   "headline": "It Took 1,800 People to Pull a 400-Ton Castle Keep Back Toward Home",
+   "dek": "Hirosaki Castle's keep was rolled 256 feet aside in 2015 so the stone walls beneath it could be rebuilt. Volunteers have now hauled it 7.5 feet back over two days, and the work will not be finished until 2033.",
+   "byline": "By Christian Thorsberg · Smithsonian Magazine",
+   "category": "archives",
+   "image": "https://th-thumbnailer.cdn-si-edu.com/AuikrH1d9X4i7EngBoHmkgG7nSM=/fit-in/1600x0/filters:focal(512x375:513x376)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d1/1d/d11d695b-6b16-4e97-9805-9e6bc1dc046d/hirosaki-castle_aomori_with_sakura_blossoms.jpg",
+   "caption": "The keep of Hirosaki Castle, Aomori Prefecture",
+   "url": "https://www.smithsonianmag.com/smart-news/1800-people-pull-a-400-ton-japanese-castle-keep-back-toward-its-original-location-after-a-decade-of-restoration-work-180989401/"
+  },
+  "categories": {
+   "design-arch": [
+    {
+     "headline": "The 1929 Plan That the 15-Minute City Has Been Rediscovering",
+     "source": "designboom",
+     "date": "Aug 27",
+     "url": "https://www.designboom.com/architecture/clarence-perry-neighborhood-unit-15-minute-city/"
+    },
+    {
+     "headline": "Two Hundred Years of Native American Graphic Design, Finally Collected",
+     "source": "Fast Company Co.Design",
+     "date": "Aug 27",
+     "url": "https://www.fastcompany.com/91595730/the-long-and-beautiful-story-of-native-american-graphic-design"
+    },
+    {
+     "headline": "Island Records and EMI's New London Office Is Built Like a Gallery",
+     "source": "Azure Magazine",
+     "date": "Aug 26",
+     "url": "https://www.azuremagazine.com/article/island-records-emi-london-interestingprojects/",
+     "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-InterestingProjects-Island-Records-EMI-London-01.jpg"
+    },
+    {
+     "headline": "“Good Curation Is Not About Filling a Space With Statement Objects”",
+     "source": "Icon Eye",
+     "date": "Aug 28",
+     "url": "https://www.iconeye.com/design/good-curation-space-statement-objects-pavel-klimczak"
+    }
+   ],
+   "craft": [
+    {
+     "headline": "Raul De Lara Fills the Hermès Windows With Furniture That Behaves Like People",
+     "source": "Galerie Magazine",
+     "date": "Aug 28",
+     "url": "https://galeriemagazine.com/raul-de-laras-hermes-windows-capture-the-secret-lives-of-new-yorks-homes/",
+     "image": "https://cdn.galeriemagazine.com/wp-content/uploads/2026/08/xfacade-copy-1174x698.jpg?strip=all&quality=92&webp=92&sharp=1&sharp=1&fit=1174%2C698"
+    },
+    {
+     "headline": "Antony Gormley on Treating the Body as Architecture",
+     "source": "Sculpture Magazine",
+     "date": "Aug 27",
+     "url": "https://sculpturemagazine.art/body-as-building-a-conversation-with-antony-gormley/"
+    },
+    {
+     "headline": "Why Artists Keep Turning to Tarot",
+     "source": "Artnet News",
+     "date": "Aug 27",
+     "url": "https://news.artnet.com/multimedia/why-artists-keep-turning-to-tarot-2792545"
+    },
+    {
+     "headline": "Ben Sledsens Builds His Paintings From Pattern and Saturated Color",
+     "source": "Colossal",
+     "date": "Aug 27",
+     "url": "https://www.thisiscolossal.com/2026/08/ben-sledsens-an-apple-for-the-road-paintings/"
+    }
+   ],
+   "sound-vinyl": [
+    {
+     "headline": "“A Cross Between All Cultures”: Mikey Dread on Sixty Years of Notting Hill Carnival",
+     "source": "Clash Magazine",
+     "date": "Aug 28",
+     "url": "https://www.clashmusic.com/features/a-cross-between-all-cultures-mikey-dread-on-notting-hill-carnival/"
+    },
+    {
+     "headline": "A Guided Tour Through Krallice's Thorniest Records",
+     "source": "The Quietus",
+     "date": "Aug 26",
+     "url": "https://thequietus.com/interviews/strange-world-of/krallice-best-music/"
+    },
+    {
+     "headline": "TELLUS, the Cassette Magazine of 1980s Downtown New York, Gets a Vinyl Anthology",
+     "source": "Stereogum",
+     "date": "Aug 27",
+     "url": "https://stereogum.com/2509585/80s-downtown-nyc-audio-cassette-magazine-tellus-getting-vinyl-anthology-feat-sonic-youth-liquid-liquid-live-skull-more/music/"
+    },
+    {
+     "headline": "The Duo Channeling Black Poets, Jazz Drummers, and The Glass Menagerie",
+     "source": "Passion of the Weiss",
+     "date": "Aug 28",
+     "url": "https://www.powmag.net/p/shemar-sasco-the-hermit-ep-interview",
+     "image": "https://substackcdn.com/image/fetch/$s_!04UN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09bfb394-ed32-4218-bf0e-2a062bb00c49_1200x1200.png"
+    }
+   ],
+   "collecting": [
+    {
+     "headline": "The Nonprofit Building Traveling Exhibits Out of Adventure Game History",
+     "source": "Video Game History Foundation",
+     "date": "Aug 26",
+     "url": "https://gamehistory.org/episode-162-roberta-vaughns-retro-adventures/"
+    },
+    {
+     "headline": "One Painting Started a Seoul Collection That Now Runs to Two Hundred Works",
+     "source": "Artsy News",
+     "date": "Aug 26",
+     "url": "https://www.artsy.net/article/artsy-editorial-one-painting-set-seoul-art-collector-lifelong-journey"
+    },
+    {
+     "headline": "Utah Collecting, From Red Beryl to Utahraptor Fossils",
+     "source": "WorthPoint",
+     "date": "Aug 28",
+     "url": "https://www.worthpoint.com/articles/collectibles/antiques-road-trip-usa-utah-antiques-art-and-collectibles-from-red-beryl-to-utahraptor-fossils"
+    },
+    {
+     "headline": "Rise 'N Fly, the 1980s Board Game Built to Fill a Gap in Black History",
+     "source": "The Strong National Museum of Play",
+     "date": "Aug 28",
+     "url": "https://www.museumofplay.org/blog/the-phenomenon-of-rise-n-fly-a-black-history-board-game/",
+     "image": "https://www.museumofplay.org/app/uploads/2026/08/1202285-scaled.jpg"
+    }
+   ],
+   "archives": [
+    {
+     "headline": "King Juba II, Reconstructed From Fifteen Surviving Objects",
+     "source": "Engelsberg Ideas",
+     "date": "Aug 28",
+     "url": "https://engelsbergideas.com/reviews/king-juba-in-fragments/"
+    },
+    {
+     "headline": "The Ancient Vietnamese Sea Wall That Surfaces Only at the Lowest Tides",
+     "source": "Atlas Obscura",
+     "date": "Aug 28",
+     "url": "https://www.atlasobscura.com/places/ancient-underwater-wall-of-nhon-hai",
+     "image": "https://img.atlasobscura.com/ma7SDFzYu14tGDE7LDBDo4O3FQ6Z2sI0-YFqIkx05mo/rs:fill:300:200:1/g:ce/c:1080:720:nowe:0:1190/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80MjEy/YmY0NS00MWU5LTRh/MjctYTI2NS02YWE5/MjgzYWZiYWIwYTc0/Mjk1ODM3MTRkYjc1/Y2ZfMTAwMDAxMDg2/Mi5qcGc.jpg"
+    },
+    {
+     "headline": "The 171 Gold-Tooling Tools That Outlived Three Bookbinders",
+     "source": "V&A Blog",
+     "date": "Aug 27",
+     "url": "https://www.vam.ac.uk/blog/museum-life/sarah-prideaux-1853-1933-bound-for-success"
+    },
+    {
+     "headline": "A 2,500-Year-Old Statue Turns Up Paving a Roman Road",
+     "source": "Nautilus",
+     "date": "Aug 27",
+     "url": "https://nautil.us/archaeologists-just-found-a-fascinating-ancient-statue-used-as-a-paving-stone-in-a-roman-road-1284531/"
+    }
+   ],
+   "photo-film": [
+    {
+     "headline": "James Baldwin Returns to the South, on Film, in 1982",
+     "source": "Criterion",
+     "date": "Aug 27",
+     "url": "https://www.criterion.com/current/posts/9265-james-baldwin-looks-back",
+     "image": "https://criterion-production.s3.amazonaws.com/pRgowhYvMA5XukFegFsE1Z71kZYdcy.jpg"
+    },
+    {
+     "headline": "The First Aerial Photograph Was Taken From a Balloon in 1858",
+     "source": "Fstoppers",
+     "date": "Aug 26",
+     "url": "https://fstoppers.com/aerial/first-aerial-photograph-was-taken-balloon-1858-903762"
+    },
+    {
+     "headline": "James Ashcroft on Rare Books, Fashion History, and Fatherhood",
+     "source": "Talkhouse Film",
+     "date": "Aug 28",
+     "url": "https://talkhouse.com/three-great-things-james-ashcroft/"
+    },
+    {
+     "headline": "One Photograph Was Not Enough, So She Added Poems and Testimony",
+     "source": "Amateur Photographer",
+     "date": "Aug 28",
+     "url": "https://amateurphotographer.com/latest/photo-news/can-one-photograph-ever-tell-the-whole-story-this-documentary-photographer-works-with-the-subject-to-tell-the-whole-story/"
+    }
+   ]
+  }
+ },
+ {
   "dateLabel": "August 27, 2026",
   "hero": {
    "headline": "Yayoi Kusama, Who Turned Her Hallucinations Into Infinity, Dies at 97",
