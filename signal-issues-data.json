@@ -1,5 +1,181 @@
 [
  {
+  "dateLabel": "August 31, 2026",
+  "hero": {
+   "headline": "OMA Went From 59 People to Nearly 280. Two New Managing Partners Now Run It.",
+   "dek": "Marianne Anthonissen and David Gianotten took joint charge in July, alongside two other new partners. Gianotten arrived in 2009 when the office had 59 staff; it now works out of Rotterdam, New York, Asia, the Middle East and Australia, and the plan is to hold the partnership at ten.",
+   "byline": "By Ellie Stathaki · Wallpaper*",
+   "category": "design-arch",
+   "image": "https://cdn.mos.cms.futurecdn.net/KUs5zNhYyJkscwpqGtTu-2560-80.jpg",
+   "caption": "OMA, Rotterdam",
+   "url": "https://www.wallpaper.com/architecture/oma-evolution-netherlands"
+  },
+  "categories": {
+   "design-arch": [
+    {
+     "headline": "A 1970s Trieste Megastructure Whose Courtyard Outsizes Every Square in the City",
+     "source": "ArchDaily",
+     "date": "Aug 30",
+     "url": "https://www.archdaily.com/1183316/alcatraz-on-the-hill-the-rise-and-afterlife-of-triestes-rozzol-melara"
+    },
+    {
+     "headline": "A Milan Studio Argues That Narrative Beats Immersive",
+     "source": "Cool Hunting",
+     "date": "Aug 31",
+     "url": "https://coolhunting.com/design/dotdotdot-narrative-is-better-than-immersive/",
+     "image": "https://coolhunting.com/wp-content/uploads/2026/08/2_Geely_ANIMA-MUNDI-by-Dotdotdot_Ph.Lorenzo-Palmieri-scaled.jpg"
+    },
+    {
+     "headline": "Tecate's Redesign Puts the Ingot Frame and the Eagle Back",
+     "source": "The Dieline",
+     "date": "Aug 31",
+     "url": "https://thedieline.com/with-latest-redesign-tecate-wants-to-be-the-working-stiffs-beer-of-choice/"
+    },
+    {
+     "headline": "Five Decades of the Designer Behind Dark Side of the Moon",
+     "source": "PRINT Magazine",
+     "date": "Aug 31",
+     "url": "https://www.printmag.com/daily-heller/the-daily-heller-george-hardie/"
+    }
+   ],
+   "craft": [
+    {
+     "headline": "Robert Indiana Wanted His Maine House to Become a Museum. It Is Listed at $1.4 Million.",
+     "source": "Artlyst",
+     "date": "Aug 30",
+     "url": "https://artlyst.com/robert-indiana-maine-home-on-the-market-despite-artists-final-wishes/",
+     "image": "https://artlyst.com/wp-content/uploads/2026/08/Robert-Indiana-Love-Tate-Photo-©-Artlyst.jpg"
+    },
+    {
+     "headline": "A Self-Taught Painter Gives PS1 Controllers the Old Master Treatment",
+     "source": "Creative Boom",
+     "date": "Aug 27",
+     "url": "https://www.creativeboom.com/inspiration/matthew-blackburn-gives-ps1-controllers-and-froot-loops-the-old-master-treatment/"
+    },
+    {
+     "headline": "Mediterranean History, Read Through Geological and Mythological Time",
+     "source": "Mousse Magazine",
+     "date": "Aug 28",
+     "url": "https://www.moussemagazine.it/magazine/elisa-giardina-papa-ica-london-2026"
+    },
+    {
+     "headline": "Forty-Six Artists From Twenty-Two Countries, Organized Around Listening",
+     "source": "My Modern Met (Art)",
+     "date": "Aug 28",
+     "url": "https://mymodernmet.com/busan-biennale-2026-dissident-chorus/"
+    }
+   ],
+   "sound-vinyl": [
+    {
+     "headline": "Alarm Will Sound at Twenty-Five, With a Shaggs Song Reworked",
+     "source": "Spin",
+     "date": "Aug 31",
+     "url": "https://www.spinmagazine.com/2026/08/outside-the-lines-gavin-chuck-lukas-ligeti-georgia-anne-muldrow/"
+    },
+    {
+     "headline": "An All-Women Festival Bill Raised Twenty Million Dollars",
+     "source": "Consequence",
+     "date": "Aug 30",
+     "url": "https://consequence.net/2026/08/olivia-rodrigo-daisy-chain-fields-review/"
+    },
+    {
+     "headline": "A Brazilian Builder's Dual DX7-Style FM Sound Player",
+     "source": "Synth Anatomy",
+     "date": "Aug 31",
+     "url": "https://synthanatomy.com/2026/08/emw-dx5000-a-desktop-dual-dx-7-style-fm-synthesizer-sound-player.html"
+    },
+    {
+     "headline": "Graceland at Forty, and the Boycott It Broke to Get Made",
+     "source": "Rock and Roll Globe",
+     "date": "Aug 27",
+     "url": "https://rockandrollglobe.com/pop/gumboots-paul-simons-graceland-turns-40/",
+     "image": "https://rockandrollglobe.com/wp-content/uploads/2026/08/Paul-Simon-Graceland-40-rnrg-splash-page-.jpg"
+    }
+   ],
+   "collecting": [
+    {
+     "headline": "A Tool That Lets Analogue Pocket Owners Dump Their Own Cartridges",
+     "source": "Retro Dodo",
+     "date": "Aug 28",
+     "url": "https://retrododo.com/a-new-tool-for-extracting-roms-from-game-boy-cartridges-has-been-showcased-for-analogue-pocket/",
+     "image": "https://storage.ghost.io/c/58/fd/58fdc82a-ad84-44e2-ad58-166d1b419bc4/content/images/size/w1200/2026/08/fpga-analogue-pocket.jpg"
+    },
+    {
+     "headline": "Star Fox 64 and How Rail Shooting Grew Up",
+     "source": "Hardcore Gaming 101",
+     "date": "Aug 30",
+     "url": "https://www.hardcoregaming101.net/star-fox-64/"
+    },
+    {
+     "headline": "Someone Is Rebuilding 1997's Grand Theft Auto for 68k Amiga Hardware",
+     "source": "Indie Retro News",
+     "date": "Aug 29",
+     "url": "https://www.indieretronews.com/2026/08/amigta1-native-amigaos-68k-port-of.html"
+    },
+    {
+     "headline": "A Table Clock That Arrives as 222 Parts and Ten Hours of Work",
+     "source": "Revolution",
+     "date": "Aug 28",
+     "url": "https://revolutionwatch.com/build-your-own-alien-with-maison-alcee-and-mbf/"
+    }
+   ],
+   "archives": [
+    {
+     "headline": "Singapore Chased Food Security, and Traded Something Away for It",
+     "source": "Aeon",
+     "date": "Aug 31",
+     "url": "https://aeon.co/essays/did-singapore-go-wrong-in-its-quest-for-food-security"
+    },
+    {
+     "headline": "Twenty Years of Social Media, and What It Did to Remembering",
+     "source": "The Walrus",
+     "date": "Aug 29",
+     "url": "https://thewalrus.ca/what-twenty-years-of-social-media-has-done-to-our-memories/"
+    },
+    {
+     "headline": "American Interventionism Was Already Set Before 2001",
+     "source": "Reason Magazine",
+     "date": "Aug 29",
+     "url": "https://reason.com/2026/08/29/9-11-turbocharged-american-interventionism/"
+    },
+    {
+     "headline": "Attention as the Thing That Builds Reality, and Can Unmake It",
+     "source": "The Marginalian",
+     "date": "Aug 31",
+     "url": "https://www.themarginalian.org/2026/08/31/iain-mcgilchrist-the-matter-with-things/",
+     "image": "https://www.themarginalian.org/wp-content/uploads/2023/05/margaretcook_leavesofgrass_attention.jpg?fit=1200%2C630&ssl=1"
+    }
+   ],
+   "photo-film": [
+    {
+     "headline": "A Veteran Bookseller Starts an Imprint for Photography's Overlooked Chapters",
+     "source": "The Art Newspaper",
+     "date": "Aug 31",
+     "url": "https://www.theartnewspaper.com/2026/08/31/why-i-launched-a-new-photobook-imprintveteran-bookseller-and-publisher-reveals-next-career-move"
+    },
+    {
+     "headline": "The First Human Figure in a Photograph Turned Up There by Accident",
+     "source": "Fstoppers",
+     "date": "Aug 30",
+     "url": "https://fstoppers.com/originals/story-earliest-known-surviving-photo-person-903787"
+    },
+    {
+     "headline": "Modern Film, 3D-Printed Spools, and a Kodak Box Camera From 1898",
+     "source": "35mmc",
+     "date": "Aug 25",
+     "url": "https://www.35mmc.com/25/08/2026/kodak-no-2-bulls-eye-model-d-amazing-results-with-an-1898-camera/",
+     "image": "https://www.35mmc.com/wp-content/uploads/2026/07/53137384011_86b58f9449_o.jpg"
+    },
+    {
+     "headline": "A Thousand Works in One Hotel, Anchored by Anton Corbijn Portraits",
+     "source": "Whitewall",
+     "date": "Aug 27",
+     "url": "https://whitewall.art/lifestyle/inside-rosewood-amsterdam-a-contemporary-expression-of-dutch-art-and-design/"
+    }
+   ]
+  }
+ },
+ {
   "dateLabel": "August 30, 2026",
   "hero": {
    "headline": "Seven Years of Caring for Both Her Parents, Photographed",
