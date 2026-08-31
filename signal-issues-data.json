@@ -1,5 +1,357 @@
 [
  {
+  "dateLabel": "August 30, 2026",
+  "hero": {
+   "headline": "Seven Years of Caring for Both Her Parents, Photographed",
+   "dek": "Lynne Breitfeller started the work in 2018, when her father began cancer treatment and her mother went into heart failure the following year. Both entered memory care in 2023; her mother has since died, and her father remains in assisted living.",
+   "byline": "By Aline Smithson · Lenscratch",
+   "category": "photo-film",
+   "image": "https://lenscratch.com/wp-content/uploads/2026/08/19_Breitfeller_Kiss..jpg",
+   "caption": "From Today is Yesterday and Tomorrow",
+   "url": "https://lenscratch.com/2026/08/lynne-breitfeller-today-is-yesterday-and-tomorrow/"
+  },
+  "categories": {
+   "design-arch": [
+    {
+     "headline": "Stepped Planted Roofs Hold an Indonesian Family House Together",
+     "source": "Dezeen",
+     "date": "Aug 30",
+     "url": "https://www.dezeen.com/2026/08/30/split-mass-residence-k-thengono-design-studio-indonesia/"
+    },
+    {
+     "headline": "A Visitor Centre in Arctic Norway Built as a Monument to Whales",
+     "source": "Design Indaba",
+     "date": "Aug 27",
+     "url": "https://www.designindaba.com/articles/creative-work/whale"
+    },
+    {
+     "headline": "An 1800s Villa on Sikinos, Reworked Without Losing Its Shell",
+     "source": "Remodelista",
+     "date": "Aug 28",
+     "url": "https://www.remodelista.com/posts/refined-rustic-greek-villa-update-on-sikinos-by-kapsimalis-architects/"
+    },
+    {
+     "headline": "Ken Ohyama Cuts Ordinary Japanese Buildings Out of Their Streets",
+     "source": "Spoon & Tamago",
+     "date": "Aug 30",
+     "url": "https://spoon-tamago.com/kawaii-buildings-ken-ohyama-photobook/",
+     "image": "https://spoon-tamago.com/wp-content/uploads/2026/08/ken-ohyama-2026-top.jpg"
+    }
+   ],
+   "craft": [
+    {
+     "headline": "Three Hundred Works From the British Artists Who Organized Against Fascism",
+     "source": "Artlyst",
+     "date": "Aug 30",
+     "url": "https://artlyst.com/comrades-in-art-artists-against-fascism-towner-eastbourne/"
+    },
+    {
+     "headline": "Aurèlia Muñoz Spent Five Decades Making Sculpture From Knots and Paper",
+     "source": "Momus",
+     "date": "Aug 27",
+     "url": "https://momus.ca/2026/08/27/toward-lightness-aurelia-munoz-at-the-museo-nacional-centro-de-arte-reina-sofia/",
+     "image": "https://momus.ca/wp-content/uploads/2026/08/prensa-aurelia-munoz_10-1-768x1024.jpg?ver=1.0.219"
+    },
+    {
+     "headline": "An Ethiopian Painter Treats Colour as a Record of Shared Ancestry",
+     "source": "Africanah.org",
+     "date": "Aug 28",
+     "url": "https://africanah.org/girmachew-getnet-circle-humans/"
+    },
+    {
+     "headline": "Joe Vaux on Patronage and What Galleries Owe the Artists They Show",
+     "source": "Beautiful Bizarre",
+     "date": "Aug 28",
+     "url": "https://beautifulbizarre.net/interview-with-artist-joe-vaux/"
+    }
+   ],
+   "sound-vinyl": [
+    {
+     "headline": "Interpol's Drummer, Interviewed in 2003 and Republished Now",
+     "source": "No Ripcord",
+     "date": "Aug 27",
+     "url": "https://www.noripcord.com/interpol-interview/"
+    },
+    {
+     "headline": "Sixty Years Since Hendrix First Plugged Into a Marshall",
+     "source": "MusicTech",
+     "date": "Aug 25",
+     "url": "https://musictech.com/news/gear/marshall-jimi-hendrix-60-anniversary-collection/"
+    },
+    {
+     "headline": "A Children's Sci-Fi Theme Put Brian May and Eddie Van Halen in a Room",
+     "source": "Louder",
+     "date": "Aug 30",
+     "url": "https://www.loudersound.com/bands-artists/interviews/brian-may-eddie-van-halen-star-fleet",
+     "image": "https://cdn.mos.cms.futurecdn.net/y3pfJuTHQ5DgoMradNufwj-1280-80.jpg"
+    },
+    {
+     "headline": "Denver's Modular Synth Builders Finally Got Their Own Expo",
+     "source": "Magnetic Magazine",
+     "date": "Aug 30",
+     "url": "https://magneticmag.com/2026/08/emixx-west-2026-denver-modular-synth-expo/"
+    }
+   ],
+   "collecting": [
+    {
+     "headline": "He Builds Miniature CRT-Style Televisions by Hand, for a Living",
+     "source": "Retro Dodo",
+     "date": "Aug 29",
+     "url": "https://retrododo.com/meet-the-man-building-custom-crt-tvs-for-a-living/"
+    },
+    {
+     "headline": "The Latest Toaplan Arcade Reissue Collection, Reviewed",
+     "source": "Nintendo Life",
+     "date": "Aug 29",
+     "url": "https://www.nintendolife.com/reviews/nintendo-switch/toaplan-arcade-garage-hishou-same-same-same"
+    },
+    {
+     "headline": "The Garden Gnome Descends From Roman Household Spirits",
+     "source": "Wallpaper*",
+     "date": "Aug 30",
+     "url": "https://www.wallpaper.com/architecture/architect-carlo-ratti-on-garden-gnome",
+     "image": "https://cdn.mos.cms.futurecdn.net/RAtzYUshn2M3te3SAhhWtd-1600-80.jpg"
+    },
+    {
+     "headline": "Joker, Apache Chief and The Atom Join the Super Friends Retro Line",
+     "source": "ToyHabits",
+     "date": "Aug 29",
+     "url": "https://toyhabits.com/super-friends-wave-6-mcfarlane-dc-retro-figure-reveal/"
+    }
+   ],
+   "archives": [
+    {
+     "headline": "The Odyssey as a Manual for Recovering From Collapse",
+     "source": "Palladium Magazine",
+     "date": "Aug 27",
+     "url": "https://www.palladiummag.com/2026/08/27/battling-all-the-way-home/",
+     "image": "https://pdmedia.b-cdn.net/2026/08/Draken_Harald_Harfagre_Cropped.jpg"
+    },
+    {
+     "headline": "Chiropractic Was Tested Scientifically Once, and Then Everyone Forgot",
+     "source": "Skeptic Magazine",
+     "date": "Aug 27",
+     "url": "https://www.skeptic.com/article/an-insiders-look-at-what-happened-when-chiropractic-was-evaluated-scientifically-and-why-no-one-remembers/"
+    },
+    {
+     "headline": "Gloria Steinem on Dolly Parton, From the Archive of January 1987",
+     "source": "Ms. Magazine",
+     "date": "Aug 27",
+     "url": "https://msmagazine.com/2026/08/27/dolly-parton-gloria-steinem-feminist/"
+    },
+    {
+     "headline": "Cretaceous Chalk, Under a Garden",
+     "source": "The Humanist",
+     "date": "Aug 28",
+     "url": "https://thehumanist.com/commentary/dinosaurs-chalk-cliffs-and-me-my-life-as-a-garden"
+    }
+   ],
+   "photo-film": [
+    {
+     "headline": "A Documentary Inside a Puerto Rican Biker Club in Manhattan",
+     "source": "Elephant Magazine",
+     "date": "Aug 27",
+     "url": "https://elephant.art/taylor-hoskings-west-side-familia/"
+    },
+    {
+     "headline": "How Victorian Spirit Photographers Faked the Dead",
+     "source": "DailyArt Magazine",
+     "date": "Aug 28",
+     "url": "https://www.dailyartmagazine.com/victorian-spirit-photography/",
+     "image": "https://www.dailyartmagazine.com/wp-content/uploads/2022/10/spirit_photogrpahy_mumler.jpg"
+    },
+    {
+     "headline": "A Man for All Seasons and the Thomas More Who Actually Lived",
+     "source": "First Things",
+     "date": "Aug 26",
+     "url": "https://firstthings.com/the-best-film-ever/"
+    },
+    {
+     "headline": "What the Day's Changing Light Does to Colour",
+     "source": "500px ISO Blog",
+     "date": "Aug 27",
+     "url": "https://iso.500px.com/how-light-changes-color-in-photography/"
+    }
+   ]
+  }
+ },
+ {
+  "dateLabel": "August 29, 2026",
+  "hero": {
+   "headline": "Nine in Ten of His Vintage Pieces Come Out of Florida Retirement Communities",
+   "dek": "Chaim Romano runs Dolphin & Flamingo from Delray Beach, buying laminate, wicker, rattan and lacquered tables out of estates in Boca Raton, Boynton Beach and Coral Springs. His largest market is New York, and Los Angeles is third.",
+   "byline": "By Jinnie Lee · Dwell",
+   "category": "collecting",
+   "image": "https://images.dwell.com/photos/6063391372700811264/7498059467651878912/large.jpg",
+   "caption": "Floridian vintage, sourced from South Florida estates",
+   "url": "https://www.dwell.com/article/dolphin-and-flamingo-chaim-romano-vintage-furniture-selling-floridian-furniture-7525e99a-0b87c698"
+  },
+  "categories": {
+   "design-arch": [
+    {
+     "headline": "A 1920s Devon House Reopened Into a Single Line of Rooms",
+     "source": "Leibal",
+     "date": "Aug 28",
+     "url": "https://leibal.com/interiors/house-by-the-sea/",
+     "image": "https://leibal.com/wp-content/uploads/2026/08/leibal-house-by-the-sea-channel-projects-15.jpg"
+    },
+    {
+     "headline": "Cuba Handed Housing Construction to People Who Had Never Built Anything",
+     "source": "ArchDaily",
+     "date": "Aug 29",
+     "url": "https://www.archdaily.com/1183812/radically-collective-the-legacy-of-cubas-microbrigadas-housing-program"
+    },
+    {
+     "headline": "A Brazilian Practice Folds Japanese Principles Into Tropical Building",
+     "source": "Surface Magazine",
+     "date": "Aug 28",
+     "url": "https://www.surfacemag.com/articles/at-jacobsen-studio-japanese-philosophy-meets-brazils-tropical-landscape/"
+    },
+    {
+     "headline": "A Vancouver Bar's Wordmark Was Hand-Painted by Guests, One Letter at a Time",
+     "source": "PRINT Magazine",
+     "date": "Aug 26",
+     "url": "https://www.printmag.com/branding-identity-design/bar-supernova-onbox-brand-identity/"
+    }
+   ],
+   "craft": [
+    {
+     "headline": "The Sculptor Behind Kryptos on Building Public Work Out of Science",
+     "source": "Sculpture Magazine",
+     "date": "Aug 24",
+     "url": "https://sculpturemagazine.art/conceptual-burden-a-conversation-with-jim-sanborn/"
+    },
+    {
+     "headline": "A Printmaker in New Mexico, in the Stone Studio She Built Herself",
+     "source": "Hyperallergic",
+     "date": "Aug 28",
+     "url": "https://hyperallergic.com/a-view-from-the-easel-145/"
+    },
+    {
+     "headline": "Twenty-One Paintings Made With Soot From a Bombed Kharkiv Building",
+     "source": "The Art Newspaper",
+     "date": "Aug 27",
+     "url": "https://www.theartnewspaper.com/2026/08/27/artist-piers-secunda-creates-paintings-from-ashes-of-ukrainian-buildings-bombed-by-russia",
+     "image": "https://cdn.sanity.io/images/cxgd3urn/production/d0f79b7c836a49d290d8925629a453657b187e3e-1532x1772.jpg?rect=0,683,1532,919&w=1200&h=720&q=85&fit=crop&auto=format"
+    },
+    {
+     "headline": "Seoul's New Pompidou Opens With 112 Cubist Works and a Korean Counterpoint",
+     "source": "My Modern Met (Art)",
+     "date": "Aug 29",
+     "url": "https://mymodernmet.com/centre-pompidou-hanwha-cubism-seoul/"
+    }
+   ],
+   "sound-vinyl": [
+    {
+     "headline": "Bob Dylan Built Modern Times Out of Borrowed Folk and Blues",
+     "source": "Paste Magazine",
+     "date": "Aug 29",
+     "url": "https://www.pastemagazine.com/music/bob-dylan/time-capsule-bob-dylan-modern-times"
+    },
+    {
+     "headline": "Dolly Parton, Who Gave Away 300 Million Books, Has Died at 80",
+     "source": "Rock and Roll Globe",
+     "date": "Aug 26",
+     "url": "https://rockandrollglobe.com/country-and-or-western/remembering-dolly-parton/",
+     "image": "https://rockandrollglobe.com/wp-content/uploads/2026/08/Dolly-Parton-RIP-rnrg-splash-page-.jpg"
+    },
+    {
+     "headline": "Russian Circles Made Their Heaviest Record by Listening to Hardcore",
+     "source": "Metal Injection",
+     "date": "Aug 27",
+     "url": "https://metalinjection.net/interviews/interview-how-hardcore-and-death-metal-inspired-russian-circles-heaviest-record-nine"
+    },
+    {
+     "headline": "Janie Bradford Hobbs, Who Co-Wrote “Money (That's What I Want),” Has Died",
+     "source": "SoulBounce",
+     "date": "Aug 27",
+     "url": "https://soulbounce.com/2026/08/janie-bradford-hobbs-1939-2026/"
+    }
+   ],
+   "collecting": [
+    {
+     "headline": "A Publisher Rescues an Obsolete PC Remake of a Commodore 64 Shooter",
+     "source": "Time Extension",
+     "date": "Aug 26",
+     "url": "https://www.timeextension.com/features/interview-we-have-to-lead-by-example-how-thalamus-is-doing-its-bit-for-game-preservation-with-armalyte-the-remake"
+    },
+    {
+     "headline": "Hanging Century-Old Banquet Menus as Lobby Art",
+     "source": "The Menu Press",
+     "date": "Aug 28",
+     "url": "https://themenupress.com/hotel-lobby-vintage-menu-decor/",
+     "image": "https://themenupress.com/wp-content/uploads/2026/06/fh008-grand-hotel-l-d-1900-468683-final.jpg"
+    },
+    {
+     "headline": "Gungage, Konami's Forgotten PlayStation Run-and-Gun",
+     "source": "Hardcore Gaming 101",
+     "date": "Aug 27",
+     "url": "https://www.hardcoregaming101.net/gungage/"
+    },
+    {
+     "headline": "Six Watches, Six Crafts: Featherwork, Micro-Origami, Wood Marquetry",
+     "source": "Revolution",
+     "date": "Aug 28",
+     "url": "https://revolutionwatch.com/vacheron-constantin-miniaturises-six-crafts-for-the-animal-kingdom/"
+    }
+   ],
+   "archives": [
+    {
+     "headline": "Seven Parchment Scraps Turn Out to Be a Lost Roman Law Book",
+     "source": "Discover Magazine",
+     "date": "Aug 27",
+     "url": "https://www.discovermagazine.com/1-600-year-old-scraps-turn-out-to-be-a-lost-roman-law-book-49606"
+    },
+    {
+     "headline": "How Free Time Became Something to Harvest",
+     "source": "The Honest Broker",
+     "date": "Aug 25",
+     "url": "https://www.honest-broker.com/p/how-our-leisure-time-got-monetized"
+    },
+    {
+     "headline": "Inherited Photographs and the Queer Archives They Came Out Of",
+     "source": "Electric Literature",
+     "date": "Aug 27",
+     "url": "https://electricliterature.com/weve-inherited-a-history-of-solidarity-and-grief/"
+    },
+    {
+     "headline": "She Kept a Diary for Seven Years to Find Out What She Actually Wanted",
+     "source": "The Marginalian",
+     "date": "Aug 29",
+     "url": "https://www.themarginalian.org/2026/08/29/a-life-of-ones-own-joanna-field-marion-milner/",
+     "image": "https://www.themarginalian.org/wp-content/uploads/2015/02/thewellofbeing_weill0.jpg?fit=600%2C315&ssl=1"
+    }
+   ],
+   "photo-film": [
+    {
+     "headline": "The 2000s British Vigilante Films That Rehearsed Today's Collapse Story",
+     "source": "Little White Lies",
+     "date": "Aug 25",
+     "url": "https://lwlies.com/long-read/the-asbowave-and-the-cultural-politics-of-broken-britain"
+    },
+    {
+     "headline": "Yves Saint Laurent Dressed Truffaut's Mississippi Mermaid",
+     "source": "Metrograph",
+     "date": "Aug 27",
+     "url": "https://metrograph.com/mississippi-mermaid-essay-kelli-weston/"
+    },
+    {
+     "headline": "Shooting the World Cup in His Own Hometown",
+     "source": "35mmc",
+     "date": "Aug 28",
+     "url": "https://www.35mmc.com/28/08/2026/a-behind-the-scenes-look-at-shooting-the-world-cup/",
+     "image": "https://www.35mmc.com/wp-content/uploads/2026/08/norway-netherlands-4.jpg"
+    },
+    {
+     "headline": "Sophia Silver Made Her First Feature Through an Unexpected Pregnancy",
+     "source": "Talkhouse Film",
+     "date": "Aug 26",
+     "url": "https://talkhouse.com/life-wont-look-anything-like-you-thought-it-would/"
+    }
+   ]
+  }
+ },
+ {
   "dateLabel": "August 28, 2026",
   "hero": {
    "headline": "It Took 1,800 People to Pull a 400-Ton Castle Keep Back Toward Home",
