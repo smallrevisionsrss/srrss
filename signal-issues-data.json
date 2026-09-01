@@ -1,5 +1,181 @@
 [
  {
+  "dateLabel": "September 1, 2026",
+  "hero": {
+   "headline": "David Fair, Who Spent Fifty Years Proving Music Needed No Rules, Has Died at 74",
+   "dek": "He and his brother Jad started Half Japanese in Maryland in 1974 and put out more than twenty albums of deliberately untutored art rock. Jad confirmed to Rolling Stone that he died on August 29 after an illness.",
+   "byline": "By Chris Piner · American Songwriter",
+   "category": "sound-vinyl",
+   "image": "https://americansongwriter.com/wp-content/uploads/sites/7/2026/09/HJ.jpg?w=2000",
+   "caption": "Half Japanese",
+   "url": "https://americansongwriter.com/david-fair-founding-member-of-half-japanese-passes-away-at-74/"
+  },
+  "categories": {
+   "design-arch": [
+    {
+     "headline": "Thirty-Six 3D-Printed Student Flats, With 84 Percent Less Carbon",
+     "source": "Core77",
+     "date": "Aug 31",
+     "url": "https://www.core77.com/posts/145218/In-Denmark-3D-Printed-Student-Housing"
+    },
+    {
+     "headline": "A Public Housing Agency in the Balearics Takes the Obel Award",
+     "source": "Dezeen",
+     "date": "Sep 1",
+     "url": "https://www.dezeen.com/2026/09/01/obel-award-2026-balearic-islands-social-housing/"
+    },
+    {
+     "headline": "Forty Years In, a Designer on Smithsonian Posters and the AI Panic",
+     "source": "Design Observer",
+     "date": "Aug 31",
+     "url": "https://designobserver.com/becoming-a-better-observer-has-defined-john-balls-40-year-design-career/",
+     "image": "https://designobserver.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-10.13.46-AM.png"
+    },
+    {
+     "headline": "A House Buried in Its Own Slope, Facing the Cathedral Ranges",
+     "source": "The Design Files",
+     "date": "Sep 1",
+     "url": "https://thedesignfiles.net/2026/09/architecture-catherdral-jak-architecture"
+    }
+   ],
+   "craft": [
+    {
+     "headline": "The Met Drops the John Galliano Show It Had Planned for 2027",
+     "source": "Artsy News",
+     "date": "Aug 31",
+     "url": "https://www.artsy.net/article/artsy-editorial-metropolitan-museum-art-cancels-planned-john-galliano-costume-institute-exhibition"
+    },
+    {
+     "headline": "Eighty-One Designers From Twenty-Seven Countries, in a Doha Heritage District",
+     "source": "Canvas",
+     "date": "Sep 1",
+     "url": "https://canvasonline.com/qatar-museums-reveals-details-of-design-doha-2026/"
+    },
+    {
+     "headline": "Ryoji Ikeda Takes the Nam June Paik Prize for Work Built Out of Data",
+     "source": "ArtAsiaPacific",
+     "date": "Sep 1",
+     "url": "https://www.artasiapacific.com/news/ryoji-ikeda-wins-2026-nam-june-paik-prize/"
+    },
+    {
+     "headline": "Contrapposto Was Always a Choice, Never a Default",
+     "source": "DailyArt Magazine",
+     "date": "Sep 1",
+     "url": "https://www.dailyartmagazine.com/contrapposto-101/",
+     "image": "https://www.dailyartmagazine.com/wp-content/uploads/2020/08/1024px-David_by_Michelangelo_Fir_JBU005_denoised-e1642772951121.jpeg"
+    }
+   ],
+   "sound-vinyl": [
+    {
+     "headline": "Orbital's 1994 Glastonbury Set Finally Gets an Official Release",
+     "source": "musicOMH",
+     "date": "Sep 1",
+     "url": "https://www.musicomh.com/features/spotlights/happy-mondays-orbital-mcalmont-butler-suede-charanjit-singh-reissues-roundup",
+     "image": "https://www.musicomh.com/wp-content/uploads/2026/09/combine-1024x683.webp"
+    },
+    {
+     "headline": "Five Cassette Labels, From a Pittsburgh Percussionist to a French Nonprofit",
+     "source": "Bandcamp Daily",
+     "date": "Aug 31",
+     "url": "https://daily.bandcamp.com/tape-label-report/the-tape-label-report-august-2026"
+    },
+    {
+     "headline": "A Buchla Modular Against a Seventy-Piece Orchestra, Recorded at Skywalker",
+     "source": "Tape Op Magazine",
+     "date": "Aug 31",
+     "url": "https://tapeop.com/blog/2026/08/31/new-music-from-floating-points-and-turnstile"
+    },
+    {
+     "headline": "He Builds His Own Drone Machines and Wants Risk Back in Live Electronics",
+     "source": "Synthtopia",
+     "date": "Aug 30",
+     "url": "https://www.synthtopia.com/content/2026/08/30/author-punisher-wants-to-change-the-way-electronic-musicians-make-music/"
+    }
+   ],
+   "collecting": [
+    {
+     "headline": "Nobuo Uematsu, the Self-Taught Composer Who Scored Final Fantasy",
+     "source": "Time Extension",
+     "date": "Aug 29",
+     "url": "https://www.timeextension.com/features/he-is-truly-one-of-a-kind-a-celebration-of-nobuo-uematsu-the-maestro-of-video-game-music"
+    },
+    {
+     "headline": "Ideal's 1970 Drawing Robot Was Sold as the World's Most Unusual Artist",
+     "source": "Toy Tales",
+     "date": "Aug 31",
+     "url": "https://toytales.ca/mr-rembrandt-from-ideal-1970/"
+    },
+    {
+     "headline": "A Cylindrical Hairspring From Marine Chronometers, Shrunk Over Three Years",
+     "source": "Monochrome Watches",
+     "date": "Sep 1",
+     "url": "https://monochrome-watches.com/ferdinand-berthoud-chronometre-fb-3spc-4-1-black-ceramised-titanium-case-review-price/"
+    },
+    {
+     "headline": "An Appraiser on Estates, Downsizing, and Why Brown Furniture Will Not Move",
+     "source": "WorthPoint",
+     "date": "Aug 31",
+     "url": "https://www.worthpoint.com/articles/collectibles/in-your-drawers-an-isa-certified-appraiser-on-estates-and-downsizing",
+     "image": "https://s14171.pcdn.co/wp-content/uploads/2026/08/IMG_0860-scaled-e1787591812394.jpeg.optimal.jpeg"
+    }
+   ],
+   "archives": [
+    {
+     "headline": "Hampshire College Has Closed After Fifty-Six Years",
+     "source": "The Baffler",
+     "date": "Aug 31",
+     "url": "https://thebaffler.com/latest/class-dismissed-gais"
+    },
+    {
+     "headline": "The Bund Was Founded the Same Year as the First Zionist Congress",
+     "source": "JSTOR Daily",
+     "date": "Aug 31",
+     "url": "https://daily.jstor.org/the-jewish-labor-bunds-anti-zionist-legacy/",
+     "image": "https://daily.jstor.org/wp-content/uploads/2026/08/the_jewish_labor_bunds_anti_zionist_legacy_1050x700.jpg"
+    },
+    {
+     "headline": "Freezing the Brain, or Uploading It",
+     "source": "Eurozine",
+     "date": "Aug 31",
+     "url": "https://www.eurozine.com/afterlife-freeze-and-upload/"
+    },
+    {
+     "headline": "A Debut Collection Reimagines Joan of Arc Across Her Final Years",
+     "source": "Cleveland Review of Books",
+     "date": "Sep 1",
+     "url": "https://clereviewofbooks.com/on-jake-roses-joan/"
+    }
+   ],
+   "photo-film": [
+    {
+     "headline": "A Peruvian Photographer's Long Argument With Masculinity",
+     "source": "Boooooom",
+     "date": "Aug 31",
+     "url": "https://www.booooooom.com/2026/08/31/an-inherent-tear-by-photographer-raul-guillermo/",
+     "image": "https://cdn.booooooom.com/wp-content/uploads/2026/08/Raul2.jpg"
+    },
+    {
+     "headline": "Fifty-Three Hand-Coloured Felice Beato Photographs, Found in a Family Home",
+     "source": "PetaPixel",
+     "date": "Aug 29",
+     "url": "https://petapixel.com/2026/08/29/photographer-discovers-forgotten-19th-century-photos-of-japan-and-reimagines-them-today/"
+    },
+    {
+     "headline": "The Last Time Anyone Photographed Cormac McCarthy",
+     "source": "LitHub",
+     "date": "Sep 1",
+     "url": "https://lithub.com/capturing-a-literary-icon-beowulf-sheehan-on-photographing-cormac-mccarthy/"
+    },
+    {
+     "headline": "Vincent Gouriou Wins the Roger Pic Prize for Rural Home-Care Workers",
+     "source": "Fisheye Magazine",
+     "date": "Aug 28",
+     "url": "https://fisheyemagazine.fr/article/vincent-gouriou-remporte-le-prix-roger-pic-2026/"
+    }
+   ]
+  }
+ },
+ {
   "dateLabel": "August 31, 2026",
   "hero": {
    "headline": "OMA Went From 59 People to Nearly 280. Two New Managing Partners Now Run It.",
