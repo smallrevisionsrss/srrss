@@ -1,5 +1,181 @@
 [
  {
+  "dateLabel": "September 3, 2026",
+  "hero": {
+   "headline": "Fifteen Richard Yates Letters, From a Boy of Thirteen to a Dying Man",
+   "dek": "The earliest was written in January 1939, when Yates was thirteen and telling a friend about the band they were forming. The last go to his youngest daughter, Gina, and in between are the separation, the alimony cheques, the drinking and the Hollywood work that never came off.",
+   "byline": "By Nathan Dunne · The Paris Review Daily",
+   "category": "archives",
+   "image": "https://www.theparisreview.org/blog/wp-content/uploads/2026/08/yates-doorway.jpg",
+   "caption": "Richard Yates",
+   "url": "https://www.theparisreview.org/blog/2026/09/02/laugh-i-thought-id-die-richard-yatess-unpublished-letters/"
+  },
+  "categories": {
+   "design-arch": [
+    {
+     "headline": "A 1938 Sydney Apartment, Put Back Into One Piece",
+     "source": "Yellowtrace",
+     "date": "Sep 3",
+     "url": "https://www.yellowtrace.com.au/billy-maynard-architects-potts-point-apartment-on-the-loop/"
+    },
+    {
+     "headline": "Rick Tegelaar Starts With the Material, Not the Sketch",
+     "source": "Design Milk",
+     "date": "Sep 3",
+     "url": "https://design-milk.com/rick-tegelaar-designer-meshmatics-tabby/"
+    },
+    {
+     "headline": "A Bernal Heights House Built Around a Sunken Courtyard",
+     "source": "Yatzer",
+     "date": "Sep 3",
+     "url": "https://www.yatzer.com/hosono-house-san-francisco-ryan-leidner-architecture",
+     "image": "https://media.yatzer.com/12-Hosono-House-Ryan-Leidner-photo-Joe-Fletcher-yatzer-1400x1867.jpg"
+    },
+    {
+     "headline": "Light Wells Cut Into a Victorian That Had Gone Dark",
+     "source": "The Design Files",
+     "date": "Sep 2",
+     "url": "https://thedesignfiles.net/2026/09/architecture-sunwell-house-kuzman-architecture"
+    }
+   ],
+   "craft": [
+    {
+     "headline": "George Washington Carver Ground His Own Pigments From Alabama Clay",
+     "source": "Hyperallergic",
+     "date": "Sep 2",
+     "url": "https://hyperallergic.com/the-missing-colors-of-black-american-pigment-making/",
+     "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/gwc-yucca-1.jpg"
+    },
+    {
+     "headline": "Seventy-Five Thousand Paper Kites, Hung in One Room",
+     "source": "Colossal",
+     "date": "Sep 3",
+     "url": "https://www.thisiscolossal.com/2026/09/jacob-hashimoto-giant-arc-sfmoma-installation-exhibition/"
+    },
+    {
+     "headline": "Five Hundred Artisans on an Island in the Venetian Lagoon",
+     "source": "Whitewall",
+     "date": "Sep 2",
+     "url": "https://whitewall.art/art/when-craft-becomes-light-es-devlins-homo-faber-in-venice/"
+    },
+    {
+     "headline": "Marigold Santos Turns the Aswang Into a Figure of Self-Determination",
+     "source": "Hi-Fructose",
+     "date": "Sep 1",
+     "url": "https://hifructose.com/2026/09/01/celestial-stance-the-art-of-marigold-santos/"
+    }
+   ],
+   "sound-vinyl": [
+    {
+     "headline": "Erykah Badu and The Alchemist, Sixteen Years After the Last Record",
+     "source": "Crack Magazine",
+     "date": "Sep 3",
+     "url": "https://crackmagazine.net/article/profiles/erykah-badu-the-alchemist-cover-story-interview/"
+    },
+    {
+     "headline": "Cassandra Wilson, Who Rebuilt the Jazz Standard, Has Died at 70",
+     "source": "Stereogum",
+     "date": "Sep 2",
+     "url": "https://stereogum.com/2510183/cassandra-wilson-dead-at-70/news",
+     "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/09/GettyImages-85000084.jpg"
+    },
+    {
+     "headline": "Brian Wilson Produced It in 1972, and It Is Still Hard to Hear",
+     "source": "Aquarium Drunkard",
+     "date": "Sep 2",
+     "url": "https://aquariumdrunkard.com/2026/09/02/american-spring-s-t-1972/"
+    },
+    {
+     "headline": "Orcas, the Taos Hum, and a Month Without Power",
+     "source": "Bandcamp Daily",
+     "date": "Sep 2",
+     "url": "https://daily.bandcamp.com/best-field-recordings/the-best-field-recordings-on-bandcamp-august-2026"
+    }
+   ],
+   "collecting": [
+    {
+     "headline": "The Corgi Batmobile With Red Wheels Was a Factory Error",
+     "source": "Toy Tales",
+     "date": "Sep 2",
+     "url": "https://toytales.ca/batmobile-red-wheels-60th-anniversary-edition-from-corgi/"
+    },
+    {
+     "headline": "A Corinthian Capital, Palestinian Tatreez, and a Chief's Chair",
+     "source": "Dwell",
+     "date": "Sep 3",
+     "url": "https://www.dwell.com/article/the-dwell-24-riffing-on-history-2026-ff735fef",
+     "image": "https://images.dwell.com/photos/6063391372700811264/7496209826566987776/large.jpg"
+    },
+    {
+     "headline": "VHILS Carves Into Doors and Billboards Pulled From Demolition",
+     "source": "Hypebeast",
+     "date": "Sep 2",
+     "url": "https://hypebeast.com/2026/9/vhils-unearths-what-lies-beneath-in-latent"
+    },
+    {
+     "headline": "Who Gets to Rewrite the History of a Games Studio",
+     "source": "Insert Credit",
+     "date": "Aug 31",
+     "url": "https://insertcredit.com/show/456/"
+    }
+   ],
+   "archives": [
+    {
+     "headline": "Greek Bards Could Hold Thirty Thousand Lines in Memory",
+     "source": "Engelsberg Ideas",
+     "date": "Sep 2",
+     "url": "https://engelsbergideas.com/notebook/the-lost-art-of-memory/"
+    },
+    {
+     "headline": "Henry VIII's Fortress Was Hiding in a Victorian Wall",
+     "source": "Smithsonian Magazine",
+     "date": "Sep 1",
+     "url": "https://www.smithsonianmag.com/smart-news/stones-from-one-of-henry-viiis-fortresses-spent-more-than-a-century-hidden-in-plain-sight-new-research-suggests-the-victorians-repurposed-them-as-building-materials-180989427/"
+    },
+    {
+     "headline": "Bloomers, Wide-Mesh Stockings, and the Girdle Dior Required",
+     "source": "JSTOR Daily",
+     "date": "Sep 2",
+     "url": "https://daily.jstor.org/a-brief-history-of-womens-underwear/",
+     "image": "https://daily.jstor.org/wp-content/uploads/2026/09/a_brief_history_of_womens_underwear_1050x700.jpg"
+    },
+    {
+     "headline": "Falling for Lord Peter Wimsey at Seventy-Three",
+     "source": "The American Scholar",
+     "date": "Sep 2",
+     "url": "https://theamericanscholar.org/adding-wimsey-to-my-life/"
+    }
+   ],
+   "photo-film": [
+    {
+     "headline": "Sugimoto Has Been Shooting the Same Series for Fifty-One Years",
+     "source": "Aperture",
+     "date": "Sep 1",
+     "url": "https://aperture.org/editorial/hiroshi-sugimoto-is-playing-the-long-game/"
+    },
+    {
+     "headline": "Sarah Maldoror Made Forty-Six Films, and Almost None Are Restored",
+     "source": "Little White Lies",
+     "date": "Sep 3",
+     "url": "https://lwlies.com/whats-on/sarah-maldoror-bfi"
+    },
+    {
+     "headline": "Nineteen Restorations at Venice, From Lubitsch to Cassavetes",
+     "source": "Criterion",
+     "date": "Aug 31",
+     "url": "https://www.criterion.com/current/posts/9269-venice-classics-2026"
+    },
+    {
+     "headline": "Anja Breien's Wives Trilogy Took Twenty-One Years",
+     "source": "Metrograph",
+     "date": "Sep 1",
+     "url": "https://metrograph.com/anja-breien-unruly-wives/",
+     "image": "https://metrograph.com/wp-content/uploads/2026/08/nl0363_hustruer_005-1277x900.jpg"
+    }
+   ]
+  }
+ },
+ {
   "dateLabel": "September 2, 2026",
   "hero": {
    "headline": "A Nineteenth-Century Ceiling Is Still Sitting Underneath Chagall's at the Paris Opera",
