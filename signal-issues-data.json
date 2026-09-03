@@ -1,5 +1,181 @@
 [
  {
+  "dateLabel": "September 2, 2026",
+  "hero": {
+   "headline": "A Nineteenth-Century Ceiling Is Still Sitting Underneath Chagall's at the Paris Opera",
+   "dek": "Jules-Eugène Lenepveu painted the dome of the Palais Garnier between 1869 and 1871. André Malraux had Chagall cover it with twenty-four canvases in 1964, and Lenepveu's descendant has now written to Macron proposing the two ceilings alternate every ten years.",
+   "byline": "By Vittoria Benzine · Artnet News",
+   "category": "craft",
+   "image": "https://p-news-upload.storage.googleapis.com/2026/09/opera-garnier-chagall-ceiling-scaled.jpg",
+   "caption": "Chagall's ceiling at the Palais Garnier",
+   "url": "https://news.artnet.com/art-world/chagall-garnier-opera-paris-lenepveu-2805723"
+  },
+  "categories": {
+   "design-arch": [
+    {
+     "headline": "Connectors That Turn Ordinary Wooden Dowels Into Furniture",
+     "source": "Core77",
+     "date": "Sep 1",
+     "url": "https://www.core77.com/posts/145231/Chois-3D-Printed-Modular-Furniture-Components-You-Supply-the-Dowels",
+     "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1848108_lead_400_145231_.jpg"
+    },
+    {
+     "headline": "Thirteen Rooms That Are Part Gallery, Part Shop, Part Studio",
+     "source": "Remodelista",
+     "date": "Sep 2",
+     "url": "https://www.remodelista.com/posts/hybrid-gallery-concept-store-spaces-reminaging-gallery-trend-alert/"
+    },
+    {
+     "headline": "Eighteen Interiors, and an Argument for the Complete Room",
+     "source": "Yatzer",
+     "date": "Sep 1",
+     "url": "https://www.yatzer.com/pierre-yovanovitch-eighteen-interiors-rizzoli"
+    },
+    {
+     "headline": "What a City Built With Care Would Actually Look Like",
+     "source": "Indesign Live",
+     "date": "Sep 1",
+     "url": "https://www.indesignlive.com/articles/living-cities-forum-2026"
+    }
+   ],
+   "craft": [
+    {
+     "headline": "Stone Dials, From Renaissance Pietra Dura to a Mineral Found in 1962",
+     "source": "Quill & Pad",
+     "date": "Sep 1",
+     "url": "https://quillandpad.com/2026/09/01/a-good-way-to-make-a-watch-last-forever-well-almost/"
+    },
+    {
+     "headline": "Rye Straw, Split by Hand and Held to a Tenth of a Millimetre",
+     "source": "Monochrome Watches",
+     "date": "Sep 1",
+     "url": "https://monochrome-watches.com/new-louis-erard-marqueterie-de-paille-straw-marquetry-dial-review-price/",
+     "image": "https://monochrome-watches.com/app/uploads/2026/08/Louis-Erard-Marqueterie-de-Paille-Attainable-take-on-the-Straw-Marquetry-Dial-review-7.jpg"
+    },
+    {
+     "headline": "Six Dials Made by Artisans Who Had Never Worked on a Watch",
+     "source": "Canvas",
+     "date": "Aug 31",
+     "url": "https://canvasonline.com/craft-in-miniature-vacheron-constantins-metiers-dart-tribute-to-the-animal-kingdom/"
+    },
+    {
+     "headline": "Cooking Out of an Exhibition, for Los Angeles Elders",
+     "source": "LACMA Unframed",
+     "date": "Aug 31",
+     "url": "https://unframed.lacma.org/2026/08/31/cooking-lacma-taiwanese-radish-omelette-garlic-sauteed-bok-choy"
+    }
+   ],
+   "sound-vinyl": [
+    {
+     "headline": "Yes Wrote Roundabout on the Drive From Aberdeen to Glasgow",
+     "source": "Louder",
+     "date": "Sep 2",
+     "url": "https://www.loudersound.com/music/tracks-singles/yes-roundabout"
+    },
+    {
+     "headline": "David Sylvian's Gone to Earth at Forty, and the Post-Rock It Predicted",
+     "source": "The Quietus",
+     "date": "Sep 1",
+     "url": "https://thequietus.com/opinion-and-essays/anniversary/no-longer-lost-david-sylvians-gone-to-earth-at-40/"
+    },
+    {
+     "headline": "Music From Big Pink, Cut From the Original Analog Tapes",
+     "source": "Stereophile",
+     "date": "Sep 1",
+     "url": "https://www.stereophile.com/content/revinylization-78-music-big-pink-americana-vinyl-reissue"
+    },
+    {
+     "headline": "Twenty-Seven Brazilian Covers of American Soul, Funk and Disco",
+     "source": "Aquarium Drunkard",
+     "date": "Sep 1",
+     "url": "https://aquariumdrunkard.com/2026/09/01/melo-do-embaixador-brazilian-soul-funk-disco-covers-1968-2015/",
+     "image": "https://aquariumdrunkard.com/_newness/wp-content/uploads/2026/08/brazil-funk.jpg"
+    }
+   ],
+   "collecting": [
+    {
+     "headline": "A Buck Rogers Shelf, and the Hawk Figure Mego Never Made",
+     "source": "Plaid Stallions",
+     "date": "Sep 1",
+     "url": "https://plaidstallions.com/reboot/toy-ventures-my-buck-rogers-collection/"
+    },
+    {
+     "headline": "Sonic the Hedgehog, Rebuilt to Run on a Stock Amiga 1200",
+     "source": "Indie Retro News",
+     "date": "Aug 31",
+     "url": "https://www.indieretronews.com/2026/08/aonic-hot-news-as-sonic-hedgehog-gets.html"
+    },
+    {
+     "headline": "McFarlane Closes Its Super Powers Revival With a Sixth Wave",
+     "source": "ToyHabits",
+     "date": "Sep 1",
+     "url": "https://toyhabits.com/mcfarlane-super-powers-last-wave-revealed/",
+     "image": "https://toyhabits.com/wp-content/uploads/2026/09/McFarlane-Super-Powers-Last-Wave-Revealed.jpg"
+    },
+    {
+     "headline": "Playing Until You Get It Right, and What Perfectionism Costs",
+     "source": "Nintendo Life",
+     "date": "Sep 2",
+     "url": "https://www.nintendolife.com/features/playing-until-we-get-it-right-how-perfectionism-appears-in-gaming"
+    }
+   ],
+   "archives": [
+    {
+     "headline": "Wendell Berry's Nine Rules for Judging a New Technology",
+     "source": "The Honest Broker",
+     "date": "Sep 1",
+     "url": "https://www.honest-broker.com/p/wendell-berrys-nine-rules"
+    },
+    {
+     "headline": "Bashō's Fifteen-Hundred-Mile Walk Was Partly Invented",
+     "source": "The Baffler",
+     "date": "Sep 2",
+     "url": "https://thebaffler.com/latest/long-lifes-journey-rubsam"
+    },
+    {
+     "headline": "The Dresden Vonnegut Wrote, and the One in the Record",
+     "source": "LitHub",
+     "date": "Aug 31",
+     "url": "https://lithub.com/on-the-fact-and-fiction-of-kurt-vonneguts-dresden"
+    },
+    {
+     "headline": "Play Is Doing Its Work Even When Nobody Keeps Score",
+     "source": "Aeon",
+     "date": "Sep 1",
+     "url": "https://aeon.co/essays/play-is-doing-its-work-even-if-were-not-keeping-score",
+     "image": "https://images.aeonmedia.co/images/e2cbb509-e695-4191-8ab0-d8a48f630ec2/essay-gettyimages-2257653140.jpg?width=1200&quality=75&format=jpeg"
+    }
+   ],
+   "photo-film": [
+    {
+     "headline": "A Five-Dollar Antique-Store Print Turned Out to Be an Early Jack Mitchell",
+     "source": "PetaPixel",
+     "date": "Aug 31",
+     "url": "https://petapixel.com/2026/08/31/i-found-a-famous-photographers-early-print-for-just-5-in-an-antique-store/"
+    },
+    {
+     "headline": "Paintings Built From Life, Found Photographs and Machine Fragments",
+     "source": "Boooooom",
+     "date": "Sep 1",
+     "url": "https://www.booooooom.com/2026/09/01/autophagia-by-artist-rhys-edwards/",
+     "image": "https://cdn.booooooom.com/wp-content/uploads/2026/09/Composition-with-Aquilegia-1400x1796-1.jpg"
+    },
+    {
+     "headline": "Stefania Zanetti Photographs Food as a Way of Photographing the Body",
+     "source": "Icon Eye",
+     "date": "Aug 31",
+     "url": "https://www.iconeye.com/design/approach-intimate-stefania-zanetti-photography-food-body"
+    },
+    {
+     "headline": "Italian Voices of Today, in Six Episodes",
+     "source": "MUBI Notebook",
+     "date": "Aug 29",
+     "url": "https://mubi.com/en/notebook/posts/mubi-podcast-italian-voices-of-today-season-6"
+    }
+   ]
+  }
+ },
+ {
   "dateLabel": "September 1, 2026",
   "hero": {
    "headline": "David Fair, Who Spent Fifty Years Proving Music Needed No Rules, Has Died at 74",
