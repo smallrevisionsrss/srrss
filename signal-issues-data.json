@@ -1,5 +1,181 @@
 [
  {
+  "dateLabel": "September 4, 2026",
+  "hero": {
+   "headline": "Mona Built a Library With No Dewey Decimal and a Shakespeare First Folio",
+   "dek": "Phrontisterion sits underground beneath Anselm Kiefer's Elektra, designed by Nonda Katsalidis with Mona's librarian Mary Lijnzaad. Shelves light up according to what a reader is chasing, and the Wunderkammer holds a hand-signed Darwin manuscript, an Enigma machine and Bowie's handwritten lyrics to Starman.",
+   "byline": "By Emma-Kate Wilson · Indesign Live",
+   "category": "collecting",
+   "image": "https://cdn.indesignlive.com/wp-content/uploads/v2/2026/09/phrontisterion_55342391106_o-copy.jpg",
+   "caption": "Phrontisterion, Mona, Hobart",
+   "url": "https://www.indesignlive.com/projects/phrontisterion-mona"
+  },
+  "categories": {
+   "design-arch": [
+    {
+     "headline": "Resin Went From Eames Shells to a Material That Shows Its Mistakes",
+     "source": "The Spaces",
+     "date": "Sep 4",
+     "url": "https://thespaces.com/imperfect-perfection-the-rise-of-resin/"
+    },
+    {
+     "headline": "A Water Tower Painted as a Tomato Can, From Mid-Century Produce Labels",
+     "source": "The Dieline",
+     "date": "Sep 3",
+     "url": "https://thedieline.com/jamie-stark-reimagines-vintage-produce-labels-and-cans-as-murals-for-pacific-coast-produce/"
+    },
+    {
+     "headline": "A Quebec Arts Venue in Red, Gold and Black Supergraphics",
+     "source": "Azure Magazine",
+     "date": "Sep 3",
+     "url": "https://www.azuremagazine.com/article/le-grand-espace-quebec-atelier-paul-laurendeau-neuf-architectes/"
+    },
+    {
+     "headline": "The Townhouse Larry Gagosian Once Owned, Recalibrated",
+     "source": "est living",
+     "date": "Sep 2",
+     "url": "https://estliving.com/art-house-nicolas-schuybroek-architects/",
+     "image": "https://estliving.com/wp-content/uploads/2026/08/est-living-art-house-nicolas-schuybroek-12-750x1000.webp"
+    }
+   ],
+   "craft": [
+    {
+     "headline": "A Gallery Turned Into a Gym, With Classical Heads on the Weight Machines",
+     "source": "Flash Art",
+     "date": "Sep 3",
+     "url": "https://flash---art.com/article/augustas-serapinas-physical-culture-nottingham-contemporary/"
+    },
+    {
+     "headline": "Nairy Baghramian Works Without Sketches and Refuses the Plinth",
+     "source": "Sculpture Magazine",
+     "date": "Sep 3",
+     "url": "https://sculpturemagazine.art/productive-tension-a-conversation-with-nairy-baghramian/"
+    },
+    {
+     "headline": "Two Hundred and Fifty Works by Seventy-Three Saudi Artists, From the 1960s On",
+     "source": "ArtAsiaPacific",
+     "date": "Sep 2",
+     "url": "https://www.artasiapacific.com/people/roots-and-reach-dina-amin-on-building-saudi-arabias-visual-arts-ecosystem/",
+     "image": "https://storage.ghost.io/c/16/43/16435400-f27e-4b41-b5f7-d0c24f5ce4de/content/images/size/w1200/2026/08/Dina-Amin-Portrait-1.jpg"
+    },
+    {
+     "headline": "A Durham Light Infantry Museum Reopens as a Gallery About Light",
+     "source": "Aesthetica Magazine",
+     "date": "Sep 2",
+     "url": "https://aestheticamagazine.com/a-brand-new-durham-gallery-opens-its-doors/"
+    }
+   ],
+   "sound-vinyl": [
+    {
+     "headline": "Mastodon's First Record Without Brent Hinds",
+     "source": "No Ripcord",
+     "date": "Sep 4",
+     "url": "https://www.noripcord.com/mastodon-marrow-deep/",
+     "image": "https://storage.ghost.io/c/b2/8f/b28f85ec-6124-4e05-b504-447d41b1bf8f/content/images/2026/08/Mastodon.jpg"
+    },
+    {
+     "headline": "Klara Lewis Builds Records Out of Processed Field Recordings",
+     "source": "The Quietus",
+     "date": "Sep 3",
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/the-in-between-opening-by-klara-lewis/"
+    },
+    {
+     "headline": "Yoni Wolf Split His Ninth Album in Two and Released the Optimistic Half Early",
+     "source": "Paste Magazine",
+     "date": "Sep 3",
+     "url": "https://www.pastemagazine.com/music/why/why-yoni-wolf-interview-september-2026"
+    },
+    {
+     "headline": "How to Tell Whether a Song Was Made by a Machine",
+     "source": "Consequence",
+     "date": "Sep 2",
+     "url": "https://consequence.net/2026/09/how-to-identify-ai-music/"
+    }
+   ],
+   "collecting": [
+    {
+     "headline": "Fifty Chairs, Pitched at Collectors Who Have Never Bid Before",
+     "source": "Hypebeast",
+     "date": "Sep 4",
+     "url": "https://hypebeast.com/2026/9/christies-basic-space-auction-news",
+     "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F03%2Fchristies-basic-space-auction-news-tw.jpg?w=1080&cbr=1&q=90&fit=max"
+    },
+    {
+     "headline": "Bought in 1927, Seized in 1940, Restituted in 2023, Selling in October",
+     "source": "Artnet News",
+     "date": "Sep 1",
+     "url": "https://news.artnet.com/market/kandinsky-colorful-life-restitution-auction-christies-2805522"
+    },
+    {
+     "headline": "Seventy-Five Years of Snoopy, Read as a Record of Designer Taste",
+     "source": "Design Milk",
+     "date": "Sep 2",
+     "url": "https://design-milk.com/snoopy-in-style-nyc-fashion-exhibition/"
+    },
+    {
+     "headline": "Maritime Collecting, From Liner Postcards to Salvaged Instruments",
+     "source": "Delcampe",
+     "date": "Sep 3",
+     "url": "https://blog.delcampe.net/en/maritime-collecting-a-breath-of-adventure/"
+    }
+   ],
+   "archives": [
+    {
+     "headline": "A Yale Student Built a Submarine to Attack the Royal Navy in 1776",
+     "source": "Smithsonian Magazine",
+     "date": "Sep 3",
+     "url": "https://www.smithsonianmag.com/history/to-defeat-the-royal-navy-during-the-american-revolution-a-rebel-inventor-designed-a-secret-weapon-a-bomb-carrying-submarine-180989400/"
+    },
+    {
+     "headline": "Four Hundred Purebred Dogs, Judged Against a Standard Written in 1859",
+     "source": "The Paris Review Daily",
+     "date": "Sep 3",
+     "url": "https://www.theparisreview.org/blog/2026/09/03/the-conformation-show-and-the-pursuit-of-the-ideal-dog/",
+     "image": "https://www.theparisreview.org/blog/wp-content/uploads/2026/09/3-scaled-e1788383335696.jpg"
+    },
+    {
+     "headline": "Kaliningrad Holds Ninety Percent of the World's Amber and Little Else",
+     "source": "Engelsberg Ideas",
+     "date": "Sep 2",
+     "url": "https://engelsbergideas.com/essays/kaliningrad-the-slow-retreat-from-russias-burden/"
+    },
+    {
+     "headline": "Jon Ronson on Doing His Best Thinking in the Field",
+     "source": "Longreads",
+     "date": "Sep 3",
+     "url": "https://longreads.com/2026/09/03/longreads-questionnaire-jon-ronson/"
+    }
+   ],
+   "photo-film": [
+    {
+     "headline": "The World Press Photo of the Year Was Shot at ISO 8000 in a Federal Building",
+     "source": "Amateur Photographer",
+     "date": "Sep 4",
+     "url": "https://amateurphotographer.com/latest/photo-news/how-this-photo-showing-ice-officers-separating-a-family-came-to-define-the-worlds-best-photojournalism-contest/"
+    },
+    {
+     "headline": "Shintaro Sato Photographs Tokyo Through Flatness, Compression and Light",
+     "source": "IMA ONLINE",
+     "date": "Sep 4",
+     "url": "https://imaonline.jp/news/exhibition/20260904/"
+    },
+    {
+     "headline": "Danny Boyle Films the Murdoch Takeover of The Sun",
+     "source": "Criterion",
+     "date": "Sep 3",
+     "url": "https://www.criterion.com/current/posts/9271-danny-boyle-s-ink",
+     "image": "https://s3.amazonaws.com/criterion-production/editorial_content_posts/hero/9271-/kNao3KqNABlLkrVlpsUMFTCtVi3H3a_original.jpg"
+    },
+    {
+     "headline": "Monument Valley, Leone's Cutting, and the Shot Framed Below the Hip",
+     "source": "No Film School",
+     "date": "Sep 3",
+     "url": "https://nofilmschool.com/how-westerns-invented-modern-visuals"
+    }
+   ]
+  }
+ },
+ {
   "dateLabel": "September 3, 2026",
   "hero": {
    "headline": "Fifteen Richard Yates Letters, From a Boy of Thirteen to a Dying Man",
