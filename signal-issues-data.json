@@ -1,5 +1,181 @@
 [
  {
+  "dateLabel": "September 5, 2026",
+  "hero": {
+   "headline": "Two Hundred Years of Photography, Counted From a Seventy-Two-Hour Exposure",
+   "dek": "Fisheye and France's Ministry of Culture have put out a 224-page special edition opening a thirteen-month bicentennial programme. Historian Dominique de Font-Réaulx writes on Niépce's 1827 view from Le Gras, and thirty original AFP press prints from 1945 to 1995 go up on Paris Metro platforms until January.",
+   "byline": "By Fisheye Magazine",
+   "category": "photo-film",
+   "image": "https://fisheyeimmersive.com/wp-content/uploads/2026/09/fehs-200-ans-couv-785x1024.jpg",
+   "caption": "Fisheye, 200 ans de photographie",
+   "url": "https://fisheyemagazine.fr/article/bicentenaire-photographie-hors-serie-fisheye/"
+  },
+  "categories": {
+   "design-arch": [
+    {
+     "headline": "Sprawl Makes Walking Structurally Impossible, and That Is a Planning Choice",
+     "source": "ArchDaily",
+     "date": "Sep 5",
+     "url": "https://www.archdaily.com/1183859/the-city-as-a-system-of-health-breaking-feedback-loops-in-planning"
+    },
+    {
+     "headline": "One Front Door, Two Half-Flights, Three Households",
+     "source": "Yanko Design",
+     "date": "Sep 5",
+     "url": "https://www.yankodesign.com/2026/09/05/how-a-4200-sq-ft-home-finally-solved-multigenerational-living/",
+     "image": "https://www.yankodesign.com/images/design_news/2026/09/how-a-4200-sq-ft-home-finally-solved-multigenerational-living/crescendo-01.jpg"
+    },
+    {
+     "headline": "The Client Asked for a Pink Kitchen and a Yellow Sofa",
+     "source": "Azure Magazine",
+     "date": "Sep 4",
+     "url": "https://www.azuremagazine.com/article/casa-tahiti-margine-studio-rome/"
+    },
+    {
+     "headline": "Apartments Built at 1.9, 3.1 and 4.5 Square Metres, Sized to What a 25-Year-Old Can Afford",
+     "source": "Design Indaba",
+     "date": "Sep 4",
+     "url": "https://www.designindaba.com/articles/creative-work/visualisation-reality"
+    }
+   ],
+   "craft": [
+    {
+     "headline": "The Bayeux Tapestry Will Hang Flat for the First Time in Nearly a Thousand Years",
+     "source": "The Art Newspaper",
+     "date": "Sep 4",
+     "url": "https://www.theartnewspaper.com/2026/09/04/ten-surprising-facts-about-the-bayeux-tapestry"
+    },
+    {
+     "headline": "She Paints on Rubble Salvaged From a Demolished London Estate",
+     "source": "Hi-Fructose",
+     "date": "Sep 4",
+     "url": "https://hifructose.com/2026/09/04/harriet-mena-hill-brings-crumbling-concrete-back-to-life/"
+    },
+    {
+     "headline": "Georgia O'Keeffe's Buildings, Shown Without the Flowers",
+     "source": "Galerie Magazine",
+     "date": "Sep 3",
+     "url": "https://galeriemagazine.com/georgia-okeeffe-architecture-at-the-dia-looks-beyond-the-flowers/"
+    },
+    {
+     "headline": "Sixteen Nordic Artists, Mostly Working From Discarded Garments",
+     "source": "Hyperallergic",
+     "date": "Sep 4",
+     "url": "https://hyperallergic.com/nordic-textile-takeover-the-cold-stitch/",
+     "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/09/EllenDynebrinkmaybe_front_flash_2026_Hyperallergic.jpg"
+    }
+   ],
+   "sound-vinyl": [
+    {
+     "headline": "Jay-Z Played the Deep Cuts, Including One Unheard in Twenty Years",
+     "source": "The Line of Best Fit",
+     "date": "Sep 5",
+     "url": "https://www.thelineofbestfit.com/features/live/jay-z-tottenham-hotspur-stadium-review-return-london-treasure-hunt-through-history"
+    },
+    {
+     "headline": "Rick Rubin Cut Forty-Four Songs Down to Fourteen for Toxicity",
+     "source": "Metal Injection",
+     "date": "Sep 4",
+     "url": "https://metalinjection.net/anniversary/system-of-a-down-toxicity-25th-anniversary-retrospective"
+    },
+    {
+     "headline": "The Cure Found Comfort in Camp on The Head on the Door",
+     "source": "Paste Magazine",
+     "date": "Sep 5",
+     "url": "https://www.pastemagazine.com/music/the-cure/time-capsule-the-cure-the-head-on-the-door",
+     "image": "https://www.pastemagazine.com/wp-content/uploads/2026/09/05/1B9E102A-66A7-48C9-A67A-47B129F5F579-scaled.jpeg"
+    },
+    {
+     "headline": "A Norfolk Rave With a Geodesic Dome and a Pub Built From Scratch",
+     "source": "Crack Magazine",
+     "date": "Sep 4",
+     "url": "https://crackmagazine.net/article/long-reads/field-maneuvers-2026-review/"
+    }
+   ],
+   "collecting": [
+    {
+     "headline": "Nintendo UK's Phone Line Went From 150 Calls a Day to Two Thousand",
+     "source": "Time Extension",
+     "date": "Sep 5",
+     "url": "https://www.timeextension.com/features/ant-and-dec-annoyed-the-absolute-st-out-of-me-the-complete-history-of-the-nintendo-uk-hotline"
+    },
+    {
+     "headline": "Plywood Darkens Unevenly, and It Cannot Be Patched",
+     "source": "Dwell",
+     "date": "Sep 4",
+     "url": "https://www.dwell.com/article/plywood-interior-aging-286a4a47"
+    },
+    {
+     "headline": "Graphite From Japan, Lacquer in Ten Coats, Assembled in Stockton",
+     "source": "Colossal",
+     "date": "Sep 4",
+     "url": "https://www.thisiscolossal.com/2026/09/how-blackwing-pencils-are-made-video/",
+     "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/blackwing-1.gif"
+    },
+    {
+     "headline": "Eight Bronze Tiers and Eighty-Eight Oak Layers for a Whisky Distilled in 1931",
+     "source": "My Modern Met (Art)",
+     "date": "Sep 4",
+     "url": "https://mymodernmet.com/the-balvenie-distillery-daniel-arsham/"
+    }
+   ],
+   "archives": [
+    {
+     "headline": "Victor Turner Named the People Who Live Between Categories",
+     "source": "The Marginalian",
+     "date": "Sep 4",
+     "url": "https://www.themarginalian.org/2026/09/04/turner-liminality-communitas/",
+     "image": "https://www.themarginalian.org/wp-content/uploads/2026/01/CirrocumulusSea_MariaPopova_cr.jpg?fit=1200%2C630&ssl=1"
+    },
+    {
+     "headline": "The Brain Counts Events, Not Seconds",
+     "source": "Noema Magazine",
+     "date": "Sep 3",
+     "url": "https://www.noemamag.com/your-perception-of-time-is-in-fact-warped"
+    },
+    {
+     "headline": "A Hundred Tons of Marble Staging Washington as a Ruin",
+     "source": "Atlas Obscura",
+     "date": "Sep 3",
+     "url": "https://www.atlasobscura.com/articles/posts/the-giant-eyes-watching-alexandria-s-waterfront"
+    },
+    {
+     "headline": "Renoir Painted Them as Children. Vichy Sent One to Auschwitz.",
+     "source": "Christian Science Monitor",
+     "date": "Sep 2",
+     "url": "https://www.csmonitor.com/Arts-Culture/Books/2026/0902/renoir-girls-catherine-ostler-vichy-france-antisemitism"
+    }
+   ],
+   "photo-film": [
+    {
+     "headline": "Portraits of Yoko Ono and Amy Winehouse, All Shot by Women",
+     "source": "Amateur Photographer",
+     "date": "Sep 4",
+     "url": "https://amateurphotographer.com/latest/photo-news/stardust-hundred-heroines-celebrity-photography-exhibition/"
+    },
+    {
+     "headline": "In 1904 a Photograph Travelled From Munich to Nuremberg by Wire",
+     "source": "Fstoppers",
+     "date": "Sep 3",
+     "url": "https://fstoppers.com/originals/first-photo-ever-transmitted-wire-and-machine-sent-it-903814"
+    },
+    {
+     "headline": "Robert Pattinson Plays Chris Hansen, and the Show's Real Cost Surfaces",
+     "source": "Little White Lies",
+     "date": "Sep 5",
+     "url": "https://lwlies.com/venice-film-festival/primetime-first-look-review"
+    },
+    {
+     "headline": "Miami Vice at Twenty, Undercover as a Crime Film",
+     "source": "Bright Wall/Dark Room",
+     "date": "Sep 3",
+     "url": "https://www.brightwalldarkroom.com/2026/09/03/death-of-the-cool/",
+     "image": "https://www.brightwalldarkroom.com/wp-content/uploads/2026/09/BWDR_miami_vice_final_05-scaled.jpg"
+    }
+   ]
+  }
+ },
+ {
   "dateLabel": "September 4, 2026",
   "hero": {
    "headline": "Mona Built a Library With No Dewey Decimal and a Shakespeare First Folio",
@@ -507,7 +683,7 @@
     },
     {
      "headline": "Paintings Built From Life, Found Photographs and Machine Fragments",
-     "source": "Boooooom",
+     "source": "Booooooom",
      "date": "Sep 1",
      "url": "https://www.booooooom.com/2026/09/01/autophagia-by-artist-rhys-edwards/",
      "image": "https://cdn.booooooom.com/wp-content/uploads/2026/09/Composition-with-Aquilegia-1400x1796-1.jpg"
@@ -677,7 +853,7 @@
    "photo-film": [
     {
      "headline": "A Peruvian Photographer's Long Argument With Masculinity",
-     "source": "Boooooom",
+     "source": "Booooooom",
      "date": "Aug 31",
      "url": "https://www.booooooom.com/2026/08/31/an-inherent-tear-by-photographer-raul-guillermo/",
      "image": "https://cdn.booooooom.com/wp-content/uploads/2026/08/Raul2.jpg"
@@ -1625,7 +1801,7 @@
    "craft": [
     {
      "headline": "Illustrator Spotlight: Ibrahim Rayintakath",
-     "source": "Boooooom",
+     "source": "Booooooom",
      "date": "Aug 24",
      "url": "https://www.booooooom.com/2026/08/24/illustrator-spotlight-ibrahim-rayintakath/"
     },
@@ -2280,7 +2456,7 @@
     },
     {
      "headline": "David Slegers's Driven From the Garden",
-     "source": "Boooooom",
+     "source": "Booooooom",
      "date": "Aug 21",
      "url": "https://www.booooooom.com/2026/08/21/driven-from-the-garden-by-photographer-david-slegers/"
     }
