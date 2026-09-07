@@ -1,5 +1,175 @@
 [
  {
+  "dateLabel": "September 6, 2026",
+  "hero": {
+   "headline": "Vitra Planted Eight Thousand Saplings Where the Orchards Used to Be",
+   "dek": "Bas Smets built a Water Garden on the Weil am Rhein campus using a modified Miyawaki method, with three hectares of flower meadow and a rainwater-fed pond on ground cleared for industry in 1950. Hella Jongerius contributed three ceramic shark fountains, fired at 1,280 degrees.",
+   "byline": "By Jessica Christin-Hametner · Icon Eye",
+   "category": "design-arch",
+   "image": "https://www.iconeye.com/wp-content/uploads/2026/09/Vitra-Watergarden-scaled-e1788506655804.jpg",
+   "caption": "The Water Garden, Vitra Campus",
+   "url": "https://www.iconeye.com/architecture/vitra-campus-watergarden-bas-smets-hella-jongerius"
+  },
+  "categories": {
+   "design-arch": [
+    {
+     "headline": "A Toronto Tower Designed by Women, With an Appliance Library and Stroller Parking",
+     "source": "Monocle",
+     "date": "Sep 6",
+     "url": "https://monocle.com/design/the-reina-toronto-women-designed-architecture/",
+     "image": "https://monocle.com/wp-content/uploads/2026/09/19007_N36_CROP.jpg"
+    },
+    {
+     "headline": "Six Stone Volumes Set Like River Boulders, and Rooms You Can Shut Off",
+     "source": "Dezeen",
+     "date": "Sep 5",
+     "url": "https://www.dezeen.com/2026/09/05/tollymore-mcgonigle-mcgrath/"
+    },
+    {
+     "headline": "Thirty-Six Apartments Printed in Denmark, and a Bike Shed With No Cement",
+     "source": "Yanko Design",
+     "date": "Sep 4",
+     "url": "https://www.yankodesign.com/2026/09/04/36-apartments-six-clusters-one-printer-denmark-just-built-europes-largest-3d-printed-village/"
+    },
+    {
+     "headline": "The New York Public Library's Merch Is Generic, and That Is a Choice",
+     "source": "Highsnobiety",
+     "date": "Sep 4",
+     "url": "https://www.highsnobiety.com/p/noahs-notes-nypl-merch-common-projects/"
+    }
+   ],
+   "craft": [
+    {
+     "headline": "She Builds Dolls From Mannequins, Then Paints Them as an Invented Family",
+     "source": "Ocula",
+     "date": "Sep 6",
+     "url": "https://ocula.com/magazine/conversations/liorah-tchiprout-london-family-exhibition/"
+    },
+    {
+     "headline": "The Curator Who Gave Kusama Her First Major American Show, in 1998",
+     "source": "LACMA Unframed",
+     "date": "Sep 4",
+     "url": "https://unframed.lacma.org/2026/09/04/remembering-yayoi-kusama"
+    },
+    {
+     "headline": "Washes, Drips and Chalk Lines, Traced Back to Giotto and Piero",
+     "source": "Apollo Magazine",
+     "date": "Sep 4",
+     "url": "https://apollo-magazine.com/ella-walker-painting-courtauld-gallery-commission-2026/",
+     "image": "https://apollo-magazine.com/wp-content/uploads/2026/09/LEAD-WALK-2026002-The-Studio-crop-HR-1.jpg"
+    },
+    {
+     "headline": "Fifty-One Textile Artists in a Portuguese Mill Town, on Fragility and Repair",
+     "source": "Selvedge",
+     "date": "Sep 4",
+     "url": "https://www.selvedge.org/blogs/selvedge/by-a-thread-inside-contextile-2026"
+    }
+   ],
+   "sound-vinyl": [
+    {
+     "headline": "Ninety-Two Unreleased Tracks From the Album Townshend Calls His Most Personal",
+     "source": "Rock and Roll Globe",
+     "date": "Sep 6",
+     "url": "https://rockandrollglobe.com/rock/the-who-by-numbers-gets-big-reissue/"
+    },
+    {
+     "headline": "Kevin Rowland Put Midnight Runners Back in the Name",
+     "source": "Clash Magazine",
+     "date": "Sep 4",
+     "url": "https://www.clashmusic.com/features/youre-not-hiding-anything-kevin-rowland-on-the-return-of-dexys-midnight-runners/"
+    },
+    {
+     "headline": "Five Songs Tracing Nate Amos From Home Recording to a Matador Debut",
+     "source": "The Line of Best Fit",
+     "date": "Sep 4",
+     "url": "https://www.thelineofbestfit.com/features/interviews/this-is-loreleis-personal-best"
+    },
+    {
+     "headline": "Twenty Years On, Yellow House Reads as Grizzly Bear's Real Debut",
+     "source": "Stereogum",
+     "date": "Sep 4",
+     "url": "https://stereogum.com/2509416/yellow-house-turns-20/reviews/the-anniversary",
+     "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/08/Yellow-House.jpg"
+    }
+   ],
+   "collecting": [
+    {
+     "headline": "Jubensha Puts Roleplay Where Western Murder Games Put Deduction",
+     "source": "The Strong Museum of Play",
+     "date": "Sep 4",
+     "url": "https://www.museumofplay.org/blog/the-rise-of-scripted-murder-games-from-china/"
+    },
+    {
+     "headline": "You Take Apart a 6498 Movement, Put It Back Together, and Keep the Watch",
+     "source": "aBlogtoWatch",
+     "date": "Sep 4",
+     "url": "https://www.ablogtowatch.com/inside-hampdens-first-hand-workshop-where-you-assemble-the-watch-you-take-home/"
+    },
+    {
+     "headline": "Nebraska's History, Read Through the Objects It Left Behind",
+     "source": "Antique Trader",
+     "date": "Sep 4",
+     "url": "https://www.antiquetrader.com/america-at-250-nebraska-the-cornhusker-state"
+    },
+    {
+     "headline": "Sixty Dive Watch Cases Made in the 1950s and Never Used",
+     "source": "Worn & Wound",
+     "date": "Sep 4",
+     "url": "https://wornandwound.com/awco-and-squale-return-with-60-more-nos-blancpain-cased-divers/",
+     "image": "https://wornandwound.com/library/uploads/2026/08/AWCOxS_6.jpg"
+    }
+   ],
+   "archives": [
+    {
+     "headline": "The Great Pyramid Radar Paper Has Been Retracted",
+     "source": "Ancient Origins",
+     "date": "Sep 6",
+     "url": "https://www.ancient-origins.net/news-history-archaeology/great-pyramid-retraction-00103154"
+    },
+    {
+     "headline": "Woolf's Uncollected Letters Hold Tea Invitations and Sharp Class Judgments",
+     "source": "Los Angeles Review of Books",
+     "date": "Sep 5",
+     "url": "https://lareviewofbooks.org/article/virginia-woolf-uncollected-letters-paul-delaney-modernism-correspondence/",
+     "image": "https://cdn.lareviewofbooks.org/unsafe/fit-in/749x0/filters:format(jpeg):quality(75)/https%3A%2F%2Fassets.lareviewofbooks.org%2Fuploads%2FThe%20Uncollected%20Letters%20of%20Virginia%20Woolf.jpg"
+    },
+    {
+     "headline": "Four Million Roman Coins, Mapped Along the Army's Supply Routes",
+     "source": "Nautilus",
+     "date": "Sep 4",
+     "url": "https://nautil.us/ancient-coins-reveal-a-wealth-of-information-about-the-roman-republic-1284847"
+    },
+    {
+     "headline": "Sheep Pox DNA Pulled From the Parchment of Medieval Manuscripts",
+     "source": "Archaeology Magazine",
+     "date": "Sep 4",
+     "url": "https://archaeology.org/news/2026/09/04/sheep-pox-virus-tracked-with-medieval-parchment/"
+    }
+   ],
+   "photo-film": [
+    {
+     "headline": "Feiyi Wen Scans, Reprints and Rephotographs Until the Image Layers",
+     "source": "IMA ONLINE",
+     "date": "Sep 6",
+     "url": "https://imaonline.jp/news/exhibition/20260906/"
+    },
+    {
+     "headline": "Five Directors Who Kept the Western From Dying",
+     "source": "No Film School",
+     "date": "Sep 4",
+     "url": "https://nofilmschool.com/directors-who-rewrote-the-western"
+    },
+    {
+     "headline": "He Photographed the Concert and Wishes He Had Just Listened",
+     "source": "35mmc",
+     "date": "Sep 4",
+     "url": "https://www.35mmc.com/04/09/2026/guilty-as-charged-one-shot-story/",
+     "image": "https://www.35mmc.com/wp-content/uploads/2026/07/Bonaviri.jpg"
+    }
+   ]
+  }
+ },
+ {
   "dateLabel": "September 5, 2026",
   "hero": {
    "headline": "Two Hundred Years of Photography, Counted From a Seventy-Two-Hour Exposure",
