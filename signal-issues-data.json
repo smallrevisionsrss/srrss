@@ -1,5 +1,181 @@
 [
  {
+  "dateLabel": "September 7, 2026",
+  "hero": {
+   "headline": "Two Photographers Stripped a Former Bank Back to Its Concrete",
+   "dek": "Laura Muthesius and Nora Eisermann spent two years taking a former bank building in Germany back to its original concrete floors and walls, keeping what was already there rather than covering it over. It is now let as a holiday apartment.",
+   "byline": "By Remodelista",
+   "category": "design-arch",
+   "image": "https://www.remodelista.com/wp-content/uploads/2025/08/st-oak-apartment-14-our-food-stories.jpg",
+   "caption": "St. Oak, Germany",
+   "url": "https://www.remodelista.com/posts/our-food-stories-st-oak-apartment-germany/"
+  },
+  "categories": {
+   "design-arch": [
+    {
+     "headline": "Five Marble Fireplaces, Brazilian Modernism and a Peacock-Blue Library",
+     "source": "1stDibs Introspective",
+     "date": "Sep 6",
+     "url": "https://www.1stdibs.com/introspective-magazine/de-rossee-sa/"
+    },
+    {
+     "headline": "A Brazilian House Planned Around the Gaps Between Existing Trees",
+     "source": "ArchEyes",
+     "date": "Sep 5",
+     "url": "https://archeyes.com/casa-adentro-by-tetro-courtyard-house-in-lagoa-santa-brazil/"
+    },
+    {
+     "headline": "Thirty Emerging Studios, Including One Building From Rice Waste",
+     "source": "Wallpaper*",
+     "date": "Sep 4",
+     "url": "https://www.wallpaper.com/architecture/architects-directory/wallpaper-architects-directory-2026",
+     "image": "https://cdn.mos.cms.futurecdn.net/Buvfx5WWvt2fYbbjYsW6S7-2560-80.jpg"
+    },
+    {
+     "headline": "A Catalan House Extended by Adding Separate Pieces Instead of One Wing",
+     "source": "HomeAdore",
+     "date": "Sep 4",
+     "url": "https://homeadore.com/2026/09/04/fonolleres-house-in-girona-by-anna-eugeni-bach/"
+    }
+   ],
+   "craft": [
+    {
+     "headline": "A Hundred and Twenty Works by Japanese Women Artists, Since 1945",
+     "source": "Aesthetica Magazine",
+     "date": "Sep 6",
+     "url": "https://aestheticamagazine.com/mudam-brings-japanese-women-artists-to-the-fore/",
+     "image": "https://aestheticamagazine.com/wp-content/uploads/2026/09/153_Hideko-Fukushima-960x540.jpeg"
+    },
+    {
+     "headline": "Fuseli Painted Sleep Paralysis in 1781, After Being Turned Down",
+     "source": "DailyArt Magazine",
+     "date": "Sep 6",
+     "url": "https://www.dailyartmagazine.com/nightmare-henry-fuseli/"
+    },
+    {
+     "headline": "Eighty-Seven Works Made From Eggshell, Hair and Butterfly Wings",
+     "source": "My Modern Met (Art)",
+     "date": "Sep 5",
+     "url": "https://mymodernmet.com/gabriel-de-la-mora-la-petite-mort/"
+    },
+    {
+     "headline": "Eight Artists in Bangkok on the Line Between Human and Ghost",
+     "source": "Frieze",
+     "date": "Sep 5",
+     "url": "https://www.frieze.com/article/spirits-melt-to-flesh-2026-review"
+    }
+   ],
+   "sound-vinyl": [
+    {
+     "headline": "Tania Cassette's Debut Runs on Humiliation, Anger and Dependency",
+     "source": "Post-Punk.com",
+     "date": "Sep 4",
+     "url": "https://post-punk.com/i-could-die-like-this-tonight-tania-cassette-surrenders-to-fatal-romance-in-spellbinding-solo-debut-lp-the-death-of-me/"
+    },
+    {
+     "headline": "Seventeen Vault Tracks From B'Day, One Carrying Selena's Vocals",
+     "source": "SoulBounce",
+     "date": "Sep 4",
+     "url": "https://soulbounce.com/2026/09/beyonce-bday-20th-anniversary-deluxe-edition/",
+     "image": "https://soulbounce.com/wp-content/uploads/2026/09/Beyonce-BDAY-20th-Anniversary-Cover-Hero.jpg"
+    },
+    {
+     "headline": "A 1980 Speech Synthesiser, Rebuilt as a Singing Instrument",
+     "source": "Synthtopia",
+     "date": "Sep 3",
+     "url": "https://www.synthtopia.com/content/2026/09/03/klattsch-turns-1980s-speech-synthesis-into-a-singing-instrument/"
+    },
+    {
+     "headline": "Interpol Became a Quintet and Made Their Most Accessible Record",
+     "source": "Beats Per Minute",
+     "date": "Sep 2",
+     "url": "https://beatsperminute.com/album-review-interpol-this-mirror-weighs-a-ton/"
+    }
+   ],
+   "collecting": [
+    {
+     "headline": "Katsuya Terada's Castlevania Cover, Read Against the NES Originals",
+     "source": "Nintendo Life",
+     "date": "Sep 6",
+     "url": "https://www.nintendolife.com/features/poll-box-art-brawl-duel-castlevania-belmonts-curse-switch"
+    },
+    {
+     "headline": "German Noah's Arks Still Sell, to Collectors Who Want Pre-Factory Toys",
+     "source": "Antiques Trade Gazette",
+     "date": "Sep 5",
+     "url": "https://www.antiquestradegazette.com/print-edition/2026/september/2758/auction-reports/the-traditional-toys-in-demand-today-among-connoisseur-collectors/"
+    },
+    {
+     "headline": "Why the Seiko 5 Keeps Getting Picked as the Travel Watch",
+     "source": "Fratello Watches",
+     "date": "Sep 5",
+     "url": "https://www.fratellowatches.com/why-a-seiko-5-is-the-perfect-holiday-watch/"
+    },
+    {
+     "headline": "A Tourbillon and a Micro-Rotor, Inside Ten Millimetres",
+     "source": "Time+Tide Watches",
+     "date": "Sep 5",
+     "url": "https://timeandtidewatches.com/girard-perregaux-laureato-fifty-micro-rotor-39mm-introducing/",
+     "image": "https://timeandtidewatches.com/wp-content/uploads/2026/09/featured-image-girard-perregaux-laureato-micro-rotor-39mm.jpg"
+    }
+   ],
+   "archives": [
+    {
+     "headline": "Florida Scott-Maxwell on the Life That Passed Through Her",
+     "source": "The Marginalian",
+     "date": "Sep 5",
+     "url": "https://www.themarginalian.org/2026/09/05/florida-scott-maxwell-mother/",
+     "image": "https://www.themarginalian.org/wp-content/uploads/2021/11/Lily_by_MariaPopova0.jpg?fit=1200%2C630&ssl=1"
+    },
+    {
+     "headline": "Pozzolan Concrete, Exact Gradients, and Aqueducts That Ran for Two Millennia",
+     "source": "Live Science",
+     "date": "Sep 5",
+     "url": "https://www.livescience.com/archaeology/romans/how-did-the-romans-build-their-towering-aqueducts"
+    },
+    {
+     "headline": "The Bayeux Tapestry Crossed the Channel in a Suspension Crate",
+     "source": "Christian Science Monitor",
+     "date": "Sep 4",
+     "url": "https://www.csmonitor.com/World/Europe/2026/0904/bayeux-tapestry-england-france-british-museum"
+    },
+    {
+     "headline": "He Invented Forty-Five Connecticut Laws, and the Name Stuck",
+     "source": "Futility Closet",
+     "date": "Sep 4",
+     "url": "https://www.futilitycloset.com/2026/09/04/a-blow-to-tourism/"
+    }
+   ],
+   "photo-film": [
+    {
+     "headline": "Kurosawa Remade His Own 1998 Film, and Little Changed",
+     "source": "Slant Magazine",
+     "date": "Sep 7",
+     "url": "https://www.slantmagazine.com/film/serpents-path-review-kurosawa-kiyoshi/"
+    },
+    {
+     "headline": "Kore-eda Adapts a Manga and Lands Among His Best",
+     "source": "The Film Stage",
+     "date": "Sep 7",
+     "url": "https://thefilmstage.com/venice-review-hirokazu-koreeda-delivers-one-of-his-best-films-with-look-back/",
+     "image": "https://thefilmstage.com/wp-content/uploads/2026/09/hirokazu-koreeda-look-back.jpg"
+    },
+    {
+     "headline": "Rebeca Huntt Turns the Camera Away From Herself for Rapinoe",
+     "source": "POV Magazine",
+     "date": "Sep 7",
+     "url": "https://povmagazine.com/rebeca-huntt-gets-out-of-her-own-head-with-tiff-doc-rapinoe/"
+    },
+    {
+     "headline": "Rudy Ray Moore's 1977 Mashup of Blaxploitation, Horror and Kung Fu",
+     "source": "Screen Slate",
+     "date": "Sep 7",
+     "url": "https://www.screenslate.com/articles/petey-wheatstraw"
+    }
+   ]
+  }
+ },
+ {
   "dateLabel": "September 6, 2026",
   "hero": {
    "headline": "Vitra Planted Eight Thousand Saplings Where the Orchards Used to Be",
