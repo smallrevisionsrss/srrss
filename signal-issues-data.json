@@ -127,23 +127,23 @@
      "url": "https://theamericanscholar.org/the-revolutionary-scholar/"
     },
     {
+     "headline": "The Man Who Founded Amnesty, and Left It Six Years Later",
+     "source": "British Library Blog",
+     "date": "Sep 7",
+     "url": "https://www.bl.uk/stories/blogs/posts/peter-benenson-defender-of-the-forgotten-prisoners"
+    },
+    {
      "headline": "A Bristol Inn, an Entity Called Malchi, and Two Years of It",
      "source": "Strange Company",
      "date": "Sep 7",
-     "url": "https://strangeco.blogspot.com/2026/09/strange-days-at-lamb-inn.html"
+     "url": "https://strangeco.blogspot.com/2026/09/strange-days-at-lamb-inn.html",
+     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_CGxg4U1USLwslUbkbXOfgcRpaodSo10lmsTNB-wypxKNLjY0RqeXEuVVNTlERXr9ekBBAC4UZ47Wk_8rYRSnUSgJBIPWjKnYohZhhl269OfK8lw2fHGDXTJ_I3uXPPEhY8o4DgIYj9LsAxGf42z5MGElcFy-eUXOG4aQlocpUczYAjlO2NeV83Lo/w1200-h630-p-k-no-nu/lamb%20inn.jpg"
     },
     {
      "headline": "A Faceless Black Cone Was Aphrodite Before the Greeks Got Her",
      "source": "Atlas Obscura",
      "date": "Sep 7",
-     "url": "https://www.atlasobscura.com/articles/posts/walking-into-a-myth-on-aphrodites-island",
-     "image": "https://img.atlasobscura.com/OyRoqprJgUqWPQof0lgbw9QXyT-5sCwaZBztp-HecMw/rs:fill:1200:630/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cnNhL2NyZWF0b3Jf/YXJ0aWNsZXMvMjAy/Ni8wOS0wNy84ZjBj/ZjU3YS0zMmQ4LTRh/NzQtOTZmNi1lZjdh/MDhlYjU4NjBfcGV4/ZWxzLWFuYXN0YXNpYS1oYXJpdG9ub3Yt/ODk4NDgwLTMxMzc3/Nzg3LmpwZw.jpg"
-    },
-    {
-     "headline": "The Man Who Founded Amnesty, and Left It Six Years Later",
-     "source": "British Library Blog",
-     "date": "Sep 7",
-     "url": "https://www.bl.uk/stories/blogs/posts/peter-benenson-defender-of-the-forgotten-prisoners"
+     "url": "https://www.atlasobscura.com/articles/posts/walking-into-a-myth-on-aphrodites-island"
     }
    ],
    "photo-film": [
@@ -151,7 +151,8 @@
      "headline": "Nathan Fielder Made an Elizabeth Holmes Documentary That Will Not Sit Still",
      "source": "RogerEbert.com",
      "date": "Sep 8",
-     "url": "https://www.rogerebert.com/reviews/you-can-see-everything-nathan-fielder-elizabeth-holmes-a24-film-review-2026"
+     "url": "https://www.rogerebert.com/reviews/you-can-see-everything-nathan-fielder-elizabeth-holmes-a24-film-review-2026",
+     "image": "https://www.rogerebert.com/wp-content/uploads/2026/09/youcanseeeverythingre.jpg"
     },
     {
      "headline": "Henry Wessel Shot California Through a Car Window for Decades",
@@ -169,8 +170,7 @@
      "headline": "Baldessari Put Text Over Photographs to Break Their Meaning",
      "source": "Blind Magazine",
      "date": "Sep 5",
-     "url": "https://www.blind-magazine.com/news/john-baldessari-language-and-image/",
-     "image": "https://www.blind-magazine.com/wp-content/uploads/2026/09/baldessari-1.jpg"
+     "url": "https://www.blind-magazine.com/news/john-baldessari-language-and-image/"
     }
    ]
   }
