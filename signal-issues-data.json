@@ -1,5 +1,181 @@
 [
  {
+  "dateLabel": "September 8, 2026",
+  "hero": {
+   "headline": "He Calculated the First Fast Portrait Lens in 1840 and Was Paid Once",
+   "dek": "Joseph Petzval, a mathematician in Vienna, designed the lens on paper rather than by trial and error. It gathered roughly twenty times more light than anything before it, which is what made portrait daguerreotypes possible at all. He never patented it, and Voigtlander manufactured it for decades.",
+   "byline": "By Fstoppers",
+   "category": "photo-film",
+   "image": "https://cdn.fstoppers.com/styles/medium/s3/lead/2026/08/petzval-first-fast-portrait-lens-voigtlander-objective-1840.jpg?itok=q2YANFLs",
+   "caption": "Voigtlander objective, 1840",
+   "url": "https://fstoppers.com/originals/joseph-petzval-calculated-first-fast-portrait-lens-1840-and-watched-someone-else-903838"
+  },
+  "categories": {
+   "design-arch": [
+    {
+     "headline": "A Seventy-Thousand-Metre Library With a Roof Shaped Like Book Pages",
+     "source": "Dezeen",
+     "date": "Sep 8",
+     "url": "https://www.dezeen.com/2026/09/08/xian-public-library-cultural-centre-china/"
+    },
+    {
+     "headline": "A Timber Campus Outside Paris, With an Orangerie and a Cross-Shaped Incubator",
+     "source": "ArchDaily",
+     "date": "Sep 8",
+     "url": "https://www.archdaily.com/1184644/ixcampus-baumschlager-eberle-architekten"
+    },
+    {
+     "headline": "A Museum's Overstuffed Walrus Becomes Its Mascot",
+     "source": "BP&O",
+     "date": "Sep 3",
+     "url": "https://bpando.org/2026/09/03/i-am-the-walrus-anatomys-charming-new-identity-for-the-horniman-museum/"
+    },
+    {
+     "headline": "Ledgestone Tracks and Seeded Pavers, in Place of a Concrete Driveway",
+     "source": "Gardenista",
+     "date": "Sep 4",
+     "url": "https://www.gardenista.com/posts/ask-expert-naturalistic-permeable-driveways-andrea-hurd-mariposa-gardening-design/",
+     "image": "https://www.gardenista.com/wp-content/uploads/2023/12/mariposa-gardening-design-permeable-driveway-crop.jpg"
+    }
+   ],
+   "craft": [
+    {
+     "headline": "Seven Hundred and Thirty-Seven Animals Hidden in the Bayeux Borders",
+     "source": "Artlyst",
+     "date": "Sep 8",
+     "url": "https://artlyst.com/the-bayeux-tapestry-a-hidden-world-of-animals-and-plants-sara-faith/"
+    },
+    {
+     "headline": "Six Digital Avatars, Installed in Hospital Beds in a Closed Berlin Clinic",
+     "source": "Whitewall",
+     "date": "Sep 7",
+     "url": "https://whitewall.art/art/luyang-reimagines-the-body-for-berlin-art-week-2026/",
+     "image": "https://whitewall.art/wp-content/uploads/2026/09/DOKU_the_Self_F_JaB_H265.mov.00_12_13_09.Still028.jpg"
+    },
+    {
+     "headline": "An Inverted Latex Umbrella That Doubles as a Birdbath",
+     "source": "ArtAsiaPacific",
+     "date": "Sep 7",
+     "url": "https://www.artasiapacific.com/shows/laila-majid-and-inaam-zafars-body-quotidian-at-the-sharjah-art-foundation/"
+    },
+    {
+     "headline": "A Calais Mural That Paints Named Residents Into a Fort",
+     "source": "StreetArtNews",
+     "date": "Sep 5",
+     "url": "https://streetartnews.net/2026/09/tempo-nok-paints-fort-nieulay-stories-for-calais-street-art-festival-2026.html"
+    }
+   ],
+   "sound-vinyl": [
+    {
+     "headline": "The No-Neck Blues Band Refused the Studio, Then Went Quiet for Seventeen Years",
+     "source": "Bandcamp Daily",
+     "date": "Sep 8",
+     "url": "https://daily.bandcamp.com/features/no-neck-blues-band-feature",
+     "image": "https://f4.bcbits.com/img/0047132237_171.jpg"
+    },
+    {
+     "headline": "One Hundred and Twenty Songs in Six Years, From a Railroad Brakeman",
+     "source": "American Songwriter",
+     "date": "Sep 8",
+     "url": "https://americansongwriter.com/born-129-years-ago-today-in-mississippi-the-father-of-country-music-whose-legacy-influenced-everyone-from-lynyrd-skynyrd-to-bob-dylan/"
+    },
+    {
+     "headline": "A 1974 Van Halen Recording, Made in David Lee Roth's Father's House",
+     "source": "Louder",
+     "date": "Sep 8",
+     "url": "https://www.loudersound.com/music/tracks-singles/alex-van-halen-book-glitter"
+    },
+    {
+     "headline": "Andy Williams Played on Nine Albums and Wrestled as The Butcher",
+     "source": "Consequence",
+     "date": "Sep 6",
+     "url": "https://consequence.net/2026/09/andy-williams-every-time-i-die-guitarist-wrestler-dead/"
+    }
+   ],
+   "collecting": [
+    {
+     "headline": "The Smallest Mechanical Planetarium, Now With Its Movement Exposed",
+     "source": "Monochrome Watches",
+     "date": "Sep 8",
+     "url": "https://monochrome-watches.com/christiaan-van-der-klaauw-planetarium-skeleton-platinum-review-price/"
+    },
+    {
+     "headline": "The Spanish Coin That Was Legal US Tender Until 1857",
+     "source": "Delcampe",
+     "date": "Sep 7",
+     "url": "https://blog.delcampe.net/en/pieces-of-eight/",
+     "image": "https://blog.delcampe.net/wp-content/uploads/2026/07/monnaies-mea.png"
+    },
+    {
+     "headline": "Import Games Teach More Japanese Than You Would Expect",
+     "source": "Time Extension",
+     "date": "Sep 6",
+     "url": "https://www.timeextension.com/features/import-games-japanese-language-learning"
+    },
+    {
+     "headline": "Temples Sold Their Buddhas Cheap in 1868, and the West Bought Them",
+     "source": "TheCollector",
+     "date": "Sep 5",
+     "url": "https://www.thecollector.com/meiji-restoration-japan-sacred-treasures-global-diaspora/"
+    }
+   ],
+   "archives": [
+    {
+     "headline": "Phi Beta Kappa at Two Hundred and Fifty, and What It Was Founded For",
+     "source": "The American Scholar",
+     "date": "Sep 8",
+     "url": "https://theamericanscholar.org/the-revolutionary-scholar/"
+    },
+    {
+     "headline": "A Bristol Inn, an Entity Called Malchi, and Two Years of It",
+     "source": "Strange Company",
+     "date": "Sep 7",
+     "url": "https://strangeco.blogspot.com/2026/09/strange-days-at-lamb-inn.html"
+    },
+    {
+     "headline": "A Faceless Black Cone Was Aphrodite Before the Greeks Got Her",
+     "source": "Atlas Obscura",
+     "date": "Sep 7",
+     "url": "https://www.atlasobscura.com/articles/posts/walking-into-a-myth-on-aphrodites-island",
+     "image": "https://img.atlasobscura.com/OyRoqprJgUqWPQof0lgbw9QXyT-5sCwaZBztp-HecMw/rs:fill:1200:630/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cnNhL2NyZWF0b3Jf/YXJ0aWNsZXMvMjAy/Ni8wOS0wNy84ZjBj/ZjU3YS0zMmQ4LTRh/NzQtOTZmNi1lZjdh/MDhlYjU4NjBfcGV4/ZWxzLWFuYXN0YXNpYS1oYXJpdG9ub3Yt/ODk4NDgwLTMxMzc3/Nzg3LmpwZw.jpg"
+    },
+    {
+     "headline": "The Man Who Founded Amnesty, and Left It Six Years Later",
+     "source": "British Library Blog",
+     "date": "Sep 7",
+     "url": "https://www.bl.uk/stories/blogs/posts/peter-benenson-defender-of-the-forgotten-prisoners"
+    }
+   ],
+   "photo-film": [
+    {
+     "headline": "Nathan Fielder Made an Elizabeth Holmes Documentary That Will Not Sit Still",
+     "source": "RogerEbert.com",
+     "date": "Sep 8",
+     "url": "https://www.rogerebert.com/reviews/you-can-see-everything-nathan-fielder-elizabeth-holmes-a24-film-review-2026"
+    },
+    {
+     "headline": "Henry Wessel Shot California Through a Car Window for Decades",
+     "source": "PetaPixel",
+     "date": "Sep 6",
+     "url": "https://petapixel.com/2026/09/06/photographer-captured-everyday-california-life-in-1980s-from-behind-the-wheel/"
+    },
+    {
+     "headline": "Sunset on an Extinct Volcano, Shot on a 1998 Point-and-Shoot",
+     "source": "35mmc",
+     "date": "Sep 6",
+     "url": "https://www.35mmc.com/06/09/2026/5-frames-of-night-photography-at-mount-tabor-with-a-pentax-iqzoom-espio-120mi/"
+    },
+    {
+     "headline": "Baldessari Put Text Over Photographs to Break Their Meaning",
+     "source": "Blind Magazine",
+     "date": "Sep 5",
+     "url": "https://www.blind-magazine.com/news/john-baldessari-language-and-image/",
+     "image": "https://www.blind-magazine.com/wp-content/uploads/2026/09/baldessari-1.jpg"
+    }
+   ]
+  }
+ },
+ {
   "dateLabel": "September 7, 2026",
   "hero": {
    "headline": "Two Photographers Stripped a Former Bank Back to Its Concrete",
