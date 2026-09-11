@@ -1,5 +1,181 @@
 [
  {
+  "dateLabel": "September 11, 2026",
+  "hero": {
+   "headline": "One Light for Every Person Killed, Flown as the Towers at Full Scale",
+   "dek": "Creative director Addison Mehr built the piece with the Dutch studio Drift, architects Shigeru Ban and Dean Maltz, producer Sky Elements and drone artist Yan Paul Dubbelman, taking direction from FDNY responders, families and survivors. The 2,977 drones launched from Governors Island on the evening of 9 September, forming a spiralling helix before resolving into the outlines of the towers at full architectural scale, over a score drawing on John Adams, Philip Glass and Max Richter.",
+   "byline": "By Ryan Waddoups · Galerie Magazine",
+   "category": "design-arch",
+   "image": "https://galeriemagazine.com/wp-content/uploads/2026/09/DSC01117.jpg",
+   "caption": "2,977 drones over New York Harbor",
+   "url": "https://galeriemagazine.com/drones-recreate-twin-towers-over-new-york-harbor-for-9-11-anniversary/"
+  },
+  "categories": {
+   "design-arch": [
+    {
+     "headline": "Tom Sachs Rebuilt Chanel's Paris Flagship From Plywood and Cardboard",
+     "source": "W Magazine",
+     "date": "Sep 10",
+     "url": "https://www.wmagazine.com/wyouth/tom-sachs-chanel-31-rue-cambon-new-york-installation"
+    },
+    {
+     "headline": "The Ratchet Binder Had a Safety Flaw, So He Redesigned It",
+     "source": "Core77",
+     "date": "Sep 10",
+     "url": "https://www.core77.com/posts/145316/The-Bulldog-Binder-Improving-the-Design-of-the-Ratchet-Binder",
+     "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1849249_lead_400_145316_.jpeg"
+    },
+    {
+     "headline": "Four Hundred Square Feet, Built Around the Shutters That Were Already There",
+     "source": "Apartment Therapy",
+     "date": "Sep 10",
+     "url": "https://www.apartmenttherapy.com/timeless-400-square-foot-brooklyn-brownstone-37559814"
+    },
+    {
+     "headline": "Europe's Largest 3D-Printed Housing, Planned Around the Trees",
+     "source": "Design Indaba",
+     "date": "Sep 10",
+     "url": "https://www.designindaba.com/articles/creative-work/skovsporet"
+    }
+   ],
+   "craft": [
+    {
+     "headline": "A Seven-Hundred-Year-Old Guild Puts an AI Installation in Its Fair",
+     "source": "Cultured",
+     "date": "Sep 10",
+     "url": "https://www.culturedmag.com/article/2026/09/10/fashion-goldsmiths-fair-2026-fine-jewelry/",
+     "image": "https://culturedmag.nyc3.digitaloceanspaces.com/uploads/2026/09/10101116/Earrings-by-Wenyin-Jiang-brooch-by-Catherine-Hartley.-Photography-by-Petr-Krejci.-Goldsmiths-Fair-scaled-e1789049505299.jpg"
+    },
+    {
+     "headline": "The Counterpublic Triennial Argues With the Idea of Public Space",
+     "source": "Hyperallergic",
+     "date": "Sep 9",
+     "url": "https://hyperallergic.com/the-counterpublic-triennials-new-kind-of-public-space/"
+    },
+    {
+     "headline": "Hayun Surl on Working From the Inside of the Form Outward",
+     "source": "Glasstire",
+     "date": "Sep 9",
+     "url": "https://glasstire.com/2026/09/09/inner-and-outer-forms-a-conversation-with-hayun-surl-on-ceramics/"
+    },
+    {
+     "headline": "Nine Thousand Hours Into Embroidering the Bayeux Tapestry by Hand",
+     "source": "Artlyst",
+     "date": "Sep 9",
+     "url": "https://artlyst.com/meet-mia-hansson-the-woman-recreating-the-bayeux-tapestry-by-hand/"
+    }
+   ],
+   "sound-vinyl": [
+    {
+     "headline": "She Recorded Rose Garden Over Her Husband's Objections",
+     "source": "American Songwriter",
+     "date": "Sep 10",
+     "url": "https://americansongwriter.com/56-years-ago-today-lynn-anderson-recorded-the-signature-hit-her-husband-didnt-want-her-to-sing/"
+    },
+    {
+     "headline": "New Adventures in Hi-Fi at Thirty, and Where It Got Them",
+     "source": "Rock and Roll Globe",
+     "date": "Sep 10",
+     "url": "https://rockandrollglobe.com/rock/where-it-got-them-r-e-m-s-new-adventures-in-hi-fi-turns-30/"
+    },
+    {
+     "headline": "Bonobo's New Record, Studiedly Moody and Urgently Intense",
+     "source": "musicOMH",
+     "date": "Sep 10",
+     "url": "https://www.musicomh.com/reviews/albums/bonobo-distance-in-static"
+    },
+    {
+     "headline": "Haruomi Hosono Made Another Record at Seventy-Nine",
+     "source": "The Quietus",
+     "date": "Sep 10",
+     "url": "https://thequietus.com/quietus-reviews/album-of-the-week/haruomi-hosono-yours-sincerely-review/",
+     "image": "https://thequietus.com/app/uploads/2026/09/Sincerely-Press-Photo-Credit_-Masahiro-Handa-1024x576.jpg"
+    }
+   ],
+   "collecting": [
+    {
+     "headline": "Shankly's This Is Anfield Sign Went for Seven Times Its Estimate",
+     "source": "ITV News",
+     "date": "Sep 9",
+     "url": "https://www.itv.com/news/granada/2026-09-09/liverpools-original-this-is-anfield-sign-sells-for-115000"
+    },
+    {
+     "headline": "Sixteen Hundred Photographs of E3 2009, Donated to an Archive",
+     "source": "Video Game History Foundation",
+     "date": "Sep 10",
+     "url": "https://gamehistory.org/library-highlight-exploring-e3-2009-through-1600-photos/",
+     "image": "https://gamehistory.org/wp-content/uploads/2026/09/E32009_header.jpg"
+    },
+    {
+     "headline": "The Zelda Anniversary Hardware Sold Out and Went Straight to eBay",
+     "source": "Nintendo Life",
+     "date": "Sep 9",
+     "url": "https://www.nintendolife.com/news/2026/09/zeldas-limited-edition-switch-2-and-other-40th-anniversary-items-are-already-selling-out-unsurprisingly"
+    },
+    {
+     "headline": "Fifty Books and Letters From Beatrix Potter's Great-Nephew",
+     "source": "Antiques Trade Gazette",
+     "date": "Sep 11",
+     "url": "https://www.antiquestradegazette.com/news/2026/beatrix-potter-family-collection-comes-to-auction-in-cumberland/"
+    }
+   ],
+   "archives": [
+    {
+     "headline": "What Hempstead Looked Like Before the Cars Came",
+     "source": "JSTOR Daily",
+     "date": "Sep 9",
+     "url": "https://daily.jstor.org/what-came-before-the-american-suburb/",
+     "image": "https://daily.jstor.org/wp-content/uploads/2026/09/what_came_before_the_american_suburb_1050x700.jpg"
+    },
+    {
+     "headline": "What the Chronicles Actually Say About the 1381 Revolt",
+     "source": "Smithsonian Magazine",
+     "date": "Sep 9",
+     "url": "https://www.smithsonianmag.com/history/the-real-story-behind-the-uprising-and-the-1381-peasants-revolt-when-thousands-marched-on-london-to-demand-a-fairer-society-180989464/"
+    },
+    {
+     "headline": "A Date That Does Not Add Up in Nabokov's Pnin",
+     "source": "Futility Closet",
+     "date": "Sep 10",
+     "url": "https://www.futilitycloset.com/2026/09/10/speak-memory/"
+    },
+    {
+     "headline": "Ctesibius Built a Water Clock That Held the Record for 1,800 Years",
+     "source": "Open Culture",
+     "date": "Sep 9",
+     "url": "https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html"
+    }
+   ],
+   "photo-film": [
+    {
+     "headline": "The Day Photojournalism Went Digital, and the Photographer Who Died in It",
+     "source": "ISPR",
+     "date": "Sep 10",
+     "url": "https://ispr.info/2026/09/11/9-11-spawned-the-digital-media-era/"
+    },
+    {
+     "headline": "Mungiu on Parental Authority and the State, With Sebastian Stan",
+     "source": "ScreenAnarchy",
+     "date": "Sep 11",
+     "url": "https://screenanarchy.com/2026/09/toronto-2026-review-fjord-palme-dor-winner-finds-many-arthouse-audience-buttons-to-push.html"
+    },
+    {
+     "headline": "Venice Let the Politics In, Carefully",
+     "source": "PopMatters",
+     "date": "Sep 10",
+     "url": "https://www.popmatters.com/venice-film-festival-2026-political",
+     "image": "https://www.popmatters.com/wp-content/uploads/2026/09/Venice-Film-Festival-2026-fi.webp"
+    },
+    {
+     "headline": "Five and a Half Hours on Borges, Built as a Detective Story",
+     "source": "Micropsia",
+     "date": "Sep 9",
+     "url": "https://www.micropsiacine.com/2026/09/biografia-de-jorge-luis-borges-venice-review-mariano-llinas-turns-a-biography-into-an-epic-detective-story/"
+    }
+   ]
+  }
+ },
+ {
   "dateLabel": "September 10, 2026",
   "hero": {
    "headline": "The House Rogers Built for His Parents Now Belongs to the National Trust",
