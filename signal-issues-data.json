@@ -1,5 +1,181 @@
 [
  {
+  "dateLabel": "September 12, 2026",
+  "hero": {
+   "headline": "An Avatar of Yuja Wang, a Basement Bunker, and Eleven Out of a Hundred",
+   "dek": "Pierre-Alain Giraud's installation puts the audience in headsets in a basement bunker under the Royal Festival Hall, free to walk around a pre-recorded avatar of Yuja Wang as she plays Ravel, Stravinsky, Bach and six other works. Warnings appear if you get too close to the piano. Eleanor Knight found the pianist herself curiously incidental to the whole apparatus, objected to the imagery and the heavy-handed setup, and scored it eleven out of a hundred. Her conclusion was that the pictures are better with your eyes closed.",
+   "byline": "By Eleanor Knight · Bachtrack",
+   "category": "sound-vinyl",
+   "image": "https://cdn.bachtrack.com/files/506216-view-of-the-playing-with-fire-installation--3d-ske.jpg",
+   "caption": "Playing with Fire, Royal Festival Hall",
+   "url": "https://bachtrack.com/review-yuja-wang-playing-with-fire-royal-festival-hall-september-2026"
+  },
+  "categories": {
+   "design-arch": [
+    {
+     "headline": "A 1944 Master Plan, and the Seventy Years of Demolition That Followed",
+     "source": "Common Edge",
+     "date": "Sep 9",
+     "url": "https://commonedge.org/undoing-the-devastation-of-urban-renewal-in-new-haven/",
+     "image": "https://commonedge.org/wp-content/uploads/2026/09/new-haven-colusium-implosion-1000x430.jpg"
+    },
+    {
+     "headline": "A Vienna Apartment Reworked Around Secession Curves and Bespoke Joinery",
+     "source": "Interior Design",
+     "date": "Sep 10",
+     "url": "https://interiordesign.net/projects/art-nouveau-and-the-vienna-secession-reinterpreted/"
+    },
+    {
+     "headline": "Honda Built a Tailgate That Opened Two Ways and Called It Waku-Waku",
+     "source": "The Autopian",
+     "date": "Sep 10",
+     "url": "https://www.theautopian.com/honda-once-made-one-of-the-most-incredible-tailgates-ever-and-called-it-waku-waku/"
+    },
+    {
+     "headline": "Persian Lettering, Cast Into Manhole Covers Across Four Cities",
+     "source": "Eye Magazine",
+     "date": "Aug 20",
+     "url": "https://eyemagazine.com/blog/post/farsi-cast-in-iron"
+    }
+   ],
+   "craft": [
+    {
+     "headline": "Christopher Wool and Richard Shiff, Talking in the Studio",
+     "source": "The Brooklyn Rail",
+     "date": "Aug 21",
+     "url": "https://brooklynrail.org/2026/09/art/christopher-wool-with-richard-shiff/"
+    },
+    {
+     "headline": "Shipyard Photographs, Read Against a Century of Worker Pictures",
+     "source": "c4 journal",
+     "date": "Sep 11",
+     "url": "https://c4journal.com/reave-dennison-under-60-tons/"
+    },
+    {
+     "headline": "How One Swiss Shop Became a Measure of Taste",
+     "source": "Highsnobiety",
+     "date": "Sep 7",
+     "url": "https://www.highsnobiety.com/p/opia-store-interview/",
+     "image": "https://www.highsnobiety.com/static-assets/dato/1788770699-image00012.jpg"
+    },
+    {
+     "headline": "Li Xianglong Works Between Fever Dreams and Internet Memes",
+     "source": "sabukaru",
+     "date": "Sep 3",
+     "url": "https://sabukaru.online/articles/li-xianglong"
+    }
+   ],
+   "sound-vinyl": [
+    {
+     "headline": "Camille Norment Would Rather Not Explain Her Work",
+     "source": "I Care If You Listen",
+     "date": "Sep 8",
+     "url": "https://icareifyoulisten.com/2026/09/camille-norment-doesnt-want-to-talk-about-meaning"
+    },
+    {
+     "headline": "Friedhofer's 1943 Score for a B-Picture, Read Cue by Cue",
+     "source": "Movie Music UK",
+     "date": "Sep 7",
+     "url": "https://moviemusicuk.us/2026/09/07/chetniks-the-fighting-guerrillas-hugo-friedhofer/",
+     "image": "https://moviemusicuk.us/wp-content/uploads/2026/08/chetniks.jpg"
+    },
+    {
+     "headline": "More Eaze Tracked It Live to Get Away From Dense and Digital",
+     "source": "The Quietus",
+     "date": "Sep 10",
+     "url": "https://thequietus.com/interviews/more-eaze-interview/"
+    },
+    {
+     "headline": "Inside the Last Magnetic Tape Factory in Europe",
+     "source": "Sound On Sound",
+     "date": "Sep 1",
+     "url": "https://www.soundonsound.com/techniques/rtm-21st-century-tape-revival"
+    }
+   ],
+   "collecting": [
+    {
+     "headline": "Fifty Years and Forty Thousand Items on Women in the Wilderness",
+     "source": "Rare Book Monthly",
+     "date": "Sep 1",
+     "url": "https://www.rarebookhub.com/articles/4116"
+    },
+    {
+     "headline": "A Complete 1799 Set of Rowlandson's Cries of London, Spotted in a Window",
+     "source": "Spitalfields Life",
+     "date": "Sep 12",
+     "url": "https://spitalfieldslife.com/2026/09/12/thomas-rowlandsons-cries-of-london/"
+    },
+    {
+     "headline": "The Grocery-Checkout Pamphlets Nobody Else Is Cataloguing",
+     "source": "Journal of Antiques & Collectibles",
+     "date": "Aug 27",
+     "url": "https://journalofantiques.com/digital-publications/joac-magazine/features/joe-bonomo-accentuating-the-positive/"
+    },
+    {
+     "headline": "Four Thousand Pounds of Petoskey Stones, Hauled Home One at a Time",
+     "source": "Beachcombing Magazine",
+     "date": "Sep 11",
+     "url": "https://www.beachcombingmagazine.com/blogs/news/an-eye-for-the-prehistoric",
+     "image": "https://www.beachcombingmagazine.com/cdn/shop/articles/fossil-collector-luke-fowler-f_5930d6c4-b285-49d4-abfa-31c384d8784a_grande.jpg"
+    }
+   ],
+   "archives": [
+    {
+     "headline": "One Speech in Midsummer Night's Dream, Tracked Through Four Centuries",
+     "source": "Folger Shakespeare Library",
+     "date": "Sep 8",
+     "url": "https://www.folger.edu/blogs/shakespeare-and-beyond/titanias-warning-to-america/",
+     "image": "https://images.folger.edu/uploads/2026/09/TitaniaLithograph_sm.jpg"
+    },
+    {
+     "headline": "Sophistication as Anti-Sincerity, From Notes on Camp to Newport",
+     "source": "Princeton University Press",
+     "date": "Sep 9",
+     "url": "https://press.princeton.edu/ideas/sontag-dylan-and-the-oxymoron-american-sophistication"
+    },
+    {
+     "headline": "Stapledon Wrote Two Billion Years of History After Driving Ambulances",
+     "source": "The MIT Press Reader",
+     "date": "Aug 24",
+     "url": "https://thereader.mitpress.mit.edu/the-man-who-saw-humanity-from-two-billion-years-away/"
+    },
+    {
+     "headline": "His Biographer Checks the de Gaulle Film Against the Record",
+     "source": "Engelsberg Ideas",
+     "date": "Sep 4",
+     "url": "https://engelsbergideas.com/essays/the-battle-to-bring-general-de-gaulle-to-the-screen/"
+    }
+   ],
+   "photo-film": [
+    {
+     "headline": "Crossroads, Film by Film, and an Argument About AI Imagery",
+     "source": "In Review Online",
+     "date": "Sep 8",
+     "url": "https://inreviewonline.com/2026/09/08/we-are-here-2026-crossroads-festival/"
+    },
+    {
+     "headline": "Albert Serra on Destabilising a Shoot and Cutting 540 Hours",
+     "source": "Metrograph Journal",
+     "date": "Sep 8",
+     "url": "https://metrograph.com/albert-serra/"
+    },
+    {
+     "headline": "Joe Dante's The Burbs, and What the Cul-de-Sac Was Hiding",
+     "source": "Bright Wall/Dark Room",
+     "date": "Sep 10",
+     "url": "https://www.brightwalldarkroom.com/2026/09/10/the-burbs-i-hate-cul-de-sacs/",
+     "image": "https://www.brightwalldarkroom.com/wp-content/uploads/2026/09/the-burbs.jpeg"
+    },
+    {
+     "headline": "Working Through Barbara Hammer's Archive, and Her Own Face",
+     "source": "Reverse Shot",
+     "date": "Sep 2",
+     "url": "https://reverseshot.org/interviews/entry/3487/barbara_forever"
+    }
+   ]
+  }
+ },
+ {
   "dateLabel": "September 11, 2026",
   "hero": {
    "headline": "One Light for Every Person Killed, Flown as the Towers at Full Scale",
@@ -3792,7 +3968,7 @@
     },
     {
      "headline": "Hong Kong: Watch-World's Other Hub",
-     "source": "Quill &amp; Pad",
+     "source": "Quill & Pad",
      "date": "Aug 20",
      "url": "https://quillandpad.com/2026/08/20/hong-kong-watch-worlds-other-hub/"
     }
@@ -3967,7 +4143,7 @@
     },
     {
      "headline": "A Collector's Cache of Vintage 1932 Eclipse Viewers",
-     "source": "Present &amp; Correct",
+     "source": "Present & Correct",
      "date": "Aug 10",
      "url": "https://www.presentandcorrect.com/blogs/blog/eclipse-viewers-1932",
      "image": "https://cdn.shopify.com/s/files/1/0952/3604/files/DSC_6885.jpg?v=1786528923"
@@ -3976,7 +4152,7 @@
    "archives": [
     {
      "headline": "The Delicate Work of Conserving an 18th-Century French Snuffbox",
-     "source": "V&amp;A Blog",
+     "source": "V&A Blog",
      "date": "Jul 9",
      "url": "https://www.vam.ac.uk/blog/museum-life/conserving-an-intriguing-bonbonniere-in-the-rosalinde-and-arthur-gilbert-collection"
     },
@@ -4227,7 +4403,7 @@
     },
     {
      "headline": "A Tennessee Resort's New Branding Chooses Quiet Elegance Over Shouting",
-     "source": "BP&amp;O",
+     "source": "BP&O",
      "date": "Aug 18",
      "url": "https://bpando.org/2026/08/18/perky-bros-southern-hospitality-tennessee-resort-southall/"
     },
@@ -4260,7 +4436,7 @@
     },
     {
      "headline": "An Artist Recreated Hokusai's Great Wave Using 750,000 Dahlias",
-     "source": "Spoon &amp; Tamago",
+     "source": "Spoon & Tamago",
      "date": "Aug 15",
      "url": "https://spoon-tamago.com/hiro-sugiyama-hokusai-great-wave-brussels/"
     },
@@ -4341,7 +4517,7 @@
     },
     {
      "headline": "Cataloging a Century of British Photography History",
-     "source": "V&amp;A Blog",
+     "source": "V&A Blog",
      "date": "May 11",
      "url": "https://www.vam.ac.uk/blog/museum-life/royal-photographic-society-work-in-progress-the-archivists-perspective"
     },
@@ -4401,8 +4577,8 @@
      "url": "https://www.archdaily.com/1183428/serpentine-pavillion-lanza-atelier"
     },
     {
-     "headline": "Porto Rocha's New Identity for Almeida &amp; Dale Keeps the Art in the Spotlight",
-     "source": "BP&amp;O",
+     "headline": "Porto Rocha's New Identity for Almeida & Dale Keeps the Art in the Spotlight",
+     "source": "BP&O",
      "date": "Aug 13",
      "url": "https://bpando.org/2026/08/13/new-brand-identity-design-for-brazilian-art-gallery-almeida-dale-by-porto-rocha-bpo/"
     },
@@ -4504,7 +4680,7 @@
    "collecting": [
     {
      "headline": "A New Collection of Vintage Japanese Lottery Tickets",
-     "source": "Present &amp; Correct",
+     "source": "Present & Correct",
      "date": "Aug 11",
      "url": "https://www.presentandcorrect.com/blogs/blog/luck-book"
     },
@@ -4531,7 +4707,7 @@
    "archives": [
     {
      "headline": "The Rediscovered Dust Jackets of Kenneth Romney Towndrow",
-     "source": "V&amp;A Blog",
+     "source": "V&A Blog",
      "date": "Aug 11",
      "url": "https://www.vam.ac.uk/blog/museum-life/kenneth-romney-towndrows-divine-dust-jackets"
     },
@@ -4672,7 +4848,7 @@
     },
     {
      "headline": "Ten Tourbillon Watches That Turn Timekeeping Into a Visual Performance",
-     "source": "Quill &amp; Pad",
+     "source": "Quill & Pad",
      "date": "Mar 2",
      "url": "https://quillandpad.com/2026/03/02/best-tourbillon-watches/"
     }
@@ -4754,7 +4930,7 @@
     },
     {
      "headline": "Pentagram Packages the Essence of Heritage for Liberty's New Beauty Line",
-     "source": "BP&amp;O",
+     "source": "BP&O",
      "date": "Aug 12",
      "url": "https://bpando.org/2026/08/12/packaging-the-essence-of-heritage/"
     },
@@ -4765,7 +4941,7 @@
      "url": "https://www.yankodesign.com/2026/08/13/7-best-japanese-designs-of-august-2026/"
     },
     {
-     "headline": "Helen &amp; Hard Uses Uprooted Spruce Trees to Shape a Norwegian Cabin",
+     "headline": "Helen & Hard Uses Uprooted Spruce Trees to Shape a Norwegian Cabin",
      "source": "Dezeen",
      "date": "Aug 15",
      "url": "https://www.dezeen.com/2026/08/15/cabin-sande-spruce-trees-norway-atlanic-ocean-helen-hard-architects/",
@@ -4835,7 +5011,7 @@
     },
     {
      "headline": "Pixel Skylines",
-     "source": "Present &amp; Correct",
+     "source": "Present & Correct",
      "date": "Jul 8",
      "url": "https://www.presentandcorrect.com/blogs/blog/pixel-skylines",
      "image": "https://cdn.shopify.com/s/files/1/0952/3604/files/sky1_52658369-f819-4f5d-a60e-a11676d4ad05.png?v=1783496431"
@@ -4937,7 +5113,7 @@
     },
     {
      "headline": "FamilyMart's New Hipster 'FAMIMA' Reimagines What a Conbini Can Be",
-     "source": "Spoon &amp; Tamago",
+     "source": "Spoon & Tamago",
      "date": "Jul 11",
      "url": "https://spoon-tamago.com/familymart-new-famima-flagship/"
     },
@@ -5031,7 +5207,7 @@
    ],
    "collecting": [
     {
-     "headline": "A. Lange &amp; Söhne's Wilhelm Schmidt and His Personal Relationship with Time and Watches",
+     "headline": "A. Lange & Söhne's Wilhelm Schmidt and His Personal Relationship with Time and Watches",
      "source": "Monochrome Watches",
      "date": "Aug 14",
      "url": "https://monochrome-watches.com/a-lange-sohnes-wilhelm-schmidt-and-his-personal-relationship-with-time-and-watches/",
@@ -5628,7 +5804,7 @@
    "design-arch": [
     {
      "headline": "Sou Fujimoto's Meiji Park Brings a Three-Dimensional Landscape to Hakata Station",
-     "source": "Spoon &amp; Tamago",
+     "source": "Spoon & Tamago",
      "date": "Aug 7",
      "url": "https://spoon-tamago.com/sou-fujimoto-meiji-park-fukuoka/",
      "image": "https://spoon-tamago.com/wp-content/uploads/2026/08/meiji-park-fukuoka-by-sou-fujimoto-4.jpeg"
@@ -5641,7 +5817,7 @@
     },
     {
      "headline": "Pentagram Nails Controlled Chaos in Its Identity for Manhattan \"Shophouse\" Style Thai Restaurant LenLen",
-     "source": "BP&amp;O",
+     "source": "BP&O",
      "date": "Aug 4",
      "url": "https://bpando.org/2026/08/04/pentagram-manhattan-thai-restaurant-lenlen/"
     },
@@ -5742,7 +5918,7 @@
     },
     {
      "headline": "London Centre for Book Arts",
-     "source": "Present &amp; Correct",
+     "source": "Present & Correct",
      "date": "Jul 8",
      "url": "https://www.presentandcorrect.com/blogs/blog/london-centre-for-book-arts"
     },
@@ -5768,8 +5944,8 @@
      "url": "https://publicdomainreview.org/essay/animal-vegetable-lamb/"
     },
     {
-     "headline": "Sounds &amp; Stories: A V&amp;A East Event Exploring and Celebrating Black British Music",
-     "source": "V&amp;A Blog",
+     "headline": "Sounds & Stories: A V&A East Event Exploring and Celebrating Black British Music",
+     "source": "V&A Blog",
      "date": "Aug 4",
      "url": "https://www.vam.ac.uk/blog/east/sounds-stories-a-va-east-event-exploring-and-celebrating-black-british-music",
      "image": "https://www.vam.ac.uk/blog/wp-content/uploads/TMIB-trip.jpg"
@@ -5999,7 +6175,7 @@
     },
     {
      "headline": "Issey Miyake's New Manhattan Store Folds a Frank Gehry Relic Into a Beaux-Arts Landmark",
-     "source": "Spoon &amp; Tamago",
+     "source": "Spoon & Tamago",
      "date": "May 9",
      "url": "https://spoon-tamago.com/issey-miyake-new-nyc-flagship-blends-fashion-and-architecture/"
     }
@@ -6169,7 +6345,7 @@
     },
     {
      "headline": "All Purpose Ditches Wine Clichés in Its Lurid New Identity for Natural Wine Importer Ancestrel",
-     "source": "BP&amp;O",
+     "source": "BP&O",
      "date": "Aug 6",
      "url": "https://bpando.org/2026/08/06/all-purpose-natural-wine-ancestrel-identity-brand-design/"
     },
@@ -6264,7 +6440,7 @@
    "collecting": [
     {
      "headline": "A Small Collection of Deadstock Drafting Templates",
-     "source": "Present &amp; Correct",
+     "source": "Present & Correct",
      "date": "May 19",
      "url": "https://www.presentandcorrect.com/blogs/blog/a-small-collection-of-deadstock-drafting-templates"
     },
@@ -6290,8 +6466,8 @@
    ],
    "archives": [
     {
-     "headline": "Look What Zaiba Jabbar Found at V&amp;A East Storehouse",
-     "source": "V&amp;A Blog",
+     "headline": "Look What Zaiba Jabbar Found at V&A East Storehouse",
+     "source": "V&A Blog",
      "date": "Aug 1",
      "url": "https://www.vam.ac.uk/blog/east/look-what-zaiba-jabbar-found-at-va-east-storehouse",
      "image": "https://www.vam.ac.uk/blog/wp-content/uploads/Picture1-8.png"
@@ -6344,7 +6520,7 @@
     },
     {
      "headline": "Coca-Cola's new identity by JKR proves that sometimes the smartest rebrand is barely a rebrand at all",
-     "source": "BP&amp;O",
+     "source": "BP&O",
      "date": "Jul 30",
      "url": "https://bpando.org/2026/07/30/coca-cola-identity-refresh-jkr/"
     },
@@ -6372,7 +6548,7 @@
     },
     {
      "headline": "Japan's First Shrine Dedicated to Plushies Opens for Stuffed Animal Devotees",
-     "source": "Spoon &amp; Tamago",
+     "source": "Spoon & Tamago",
      "date": "Jun 23",
      "url": "https://spoon-tamago.com/japan-first-plushie-shrine/"
     },
@@ -6399,7 +6575,7 @@
     },
     {
      "headline": "\"It Ain't Like It Used to Be. But It'll Do\": How Sam Peckinpah's 'The Wild Bunch' Became Both a Eulogy for a Mythic Past and a Template for a New Kind of Action",
-     "source": "Cinephilia &amp; Beyond",
+     "source": "Cinephilia & Beyond",
      "date": "Jun 19",
      "url": "https://cinephiliabeyond.org/the-wild-bunch/"
     },
@@ -6479,13 +6655,13 @@
     },
     {
      "headline": "Connecting with Historic Silver through Modern Making",
-     "source": "V&amp;A Blog",
+     "source": "V&A Blog",
      "date": "Aug 4",
      "url": "https://www.vam.ac.uk/blog/museum-life/connecting-with-historic-silver-through-modern-making",
      "image": "https://www.vam.ac.uk/blog/wp-content/uploads/image-105.png"
     },
     {
-     "headline": "Seen Together: Ludwig &amp; Mayer Type Specimen and Poster Design for Chlorodont",
+     "headline": "Seen Together: Ludwig & Mayer Type Specimen and Poster Design for Chlorodont",
      "source": "Letterform Archive",
      "date": "Jun 22",
      "url": "https://letterformarchive.org/news/seen-together-chlorodont/"
@@ -6514,7 +6690,7 @@
     },
     {
      "headline": "Kiyo Takeda: The Architect Making Tokyo Green Again",
-     "source": "Spoon &amp; Tamago",
+     "source": "Spoon & Tamago",
      "date": "Jul 26",
      "url": "https://spoon-tamago.com/kiyo-takeda-the-architect-making-tokyo-green-again/",
      "image": "https://spoon-tamago.com/wp-content/uploads/2026/07/kiyo-takada-top.jpg"
@@ -6568,7 +6744,7 @@
     },
     {
      "headline": "'The Parallax View' at 52: Pakula's Unsettling Examination of Post-Compliant America",
-     "source": "Cinephilia &amp; Beyond",
+     "source": "Cinephilia & Beyond",
      "date": "Jun 19",
      "url": "https://cinephiliabeyond.org/parallax-view-pakulas-unsettling-examination-post-compliant-america/"
     },
@@ -6656,7 +6832,7 @@
     },
     {
      "headline": "Beyond the Music: Inside PJ Harvey's Archive",
-     "source": "V&amp;A Blog",
+     "source": "V&A Blog",
      "date": "Jun 29",
      "url": "https://www.vam.ac.uk/blog/projects/beyond-the-music-inside-pj-harveys-archive"
     },
@@ -6816,7 +6992,7 @@
      "url": "https://www.bitmapbooks.com/blogs/news/julian-jaz-rignall-the-magazines-of-a-lifetime"
     },
     {
-     "headline": "Rare Finds &amp; Hidden Grails: Inside Ponti Collection",
+     "headline": "Rare Finds & Hidden Grails: Inside Ponti Collection",
      "source": "Revolution",
      "date": "Aug 4",
      "url": "https://revolutionwatch.com/rare-finds-hidden-grails-inside-ponti-collection/"
