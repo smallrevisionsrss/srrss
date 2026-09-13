@@ -1,5 +1,175 @@
 [
  {
+  "dateLabel": "September 13, 2026",
+  "hero": {
+   "headline": "Catalogued as Another Paper for Two Hundred and Fifty Years",
+   "dek": "A volunteer working through eighteenth-century Admiralty records at Kew opened a file listed only as another paper and found one of eleven known Exeter broadsides of the Declaration of Independence, printed by Robert Luist Fowle between the sixteenth and nineteenth of July 1776. Michael Scurr made the identification in May. The sheet had been carried aboard the American privateer Dalton, seized off Portugal by HM Raisonable on Christmas Eve that year, and filed with the prize papers ever since. It is the only Exeter broadside known outside the United States.",
+   "byline": "By Kele Johnson · Antique Trader",
+   "category": "collecting",
+   "image": "https://www.antiquetrader.com/uploads/2026/09/Exeter-broadside.jpg",
+   "caption": "Exeter broadside, printed July 1776",
+   "url": "https://www.antiquetrader.com/the-declaration-rediscovered"
+  },
+  "categories": {
+   "design-arch": [
+    {
+     "headline": "Chybik and Kristof on the Arena They Built in Jihlava",
+     "source": "Disegno",
+     "date": "Sep 9",
+     "url": "https://disegnojournal.com/newsfeed/chybik-kristof-jihlava-municipal-arena"
+    },
+    {
+     "headline": "A Derelict Bunker in Ubud, Remade by Fifteen Named Makers",
+     "source": "Yellowtrace",
+     "date": "Sep 10",
+     "url": "https://www.yellowtrace.com.au/ysg-studio-moon-gang-ubud-suites-bali-hotel/",
+     "image": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/08/26163952/Yellowtrace-YSG-Studio-Hotel-Moon-Gang-Ubud-Suites.jpg"
+    },
+    {
+     "headline": "A Clamp-Based Tape Dispenser, and the Flaw Nobody Fixed",
+     "source": "Core77",
+     "date": "Sep 11",
+     "url": "https://www.core77.com/posts/145325/A-Great-Design-in-Need-of-Basic-Improvement-This-Clamp-Based-Tape-Dispenser"
+    },
+    {
+     "headline": "Julia Kahl on What Should Never Be Printed",
+     "source": "type.today",
+     "date": "Sep 10",
+     "url": "https://type.today/en/journal/julia-kahl-slanted"
+    }
+   ],
+   "craft": [
+    {
+     "headline": "How to Mix, Burnish and Fire Terra Sigillata",
+     "source": "Ceramic Arts Network",
+     "date": "Sep 11",
+     "url": "https://ceramicartsnetwork.org/daily/article/Terra-Sigillata-101-How-to-Make-Apply-and-Troubleshoot-Terra-Sig"
+    },
+    {
+     "headline": "Em Davenport's Paintings, Read as Atavistic Feminism",
+     "source": "Two Coats of Paint",
+     "date": "Sep 11",
+     "url": "https://twocoatsofpaint.com/2026/09/em-davenports-atavistic-feminism.html"
+    },
+    {
+     "headline": "Three Levels for Judging a Photograph",
+     "source": "The Eye of Photography",
+     "date": "Sep 11",
+     "url": "https://loeildelaphotographie.com/en/its-correct-its-good-its-beautiful/"
+    },
+    {
+     "headline": "What People Actually Wore at Rat Party",
+     "source": "Dazed",
+     "date": "Sep 11",
+     "url": "https://www.dazeddigital.com/fashion/article/70939/1/photos-of-fashion-club-rats-queer-rave-rat-party-leeds-london-street-style",
+     "image": "https://images-prod.dazeddigital.com/1200/0-705-1988-1325/azure/dazed-prod/1450/3/1453718.JPG"
+    }
+   ],
+   "sound-vinyl": [
+    {
+     "headline": "Carlo Vistoli, From Baroque to Broadway in One Recital",
+     "source": "Seen and Heard International",
+     "date": "Sep 12",
+     "url": "https://seenandheard-international.com/2026/09/a-countertenor-without-limits-carlo-vistoli-in-recital-at-the-park-avenue-armory/",
+     "image": "https://seenandheard-international.com/wp-content/uploads/2026/09/Vistoli-1.jpeg"
+    },
+    {
+     "headline": "What Shaving the Bridge Does to an Acoustic Guitar's Top",
+     "source": "Premier Guitar",
+     "date": "Sep 12",
+     "url": "https://www.premierguitar.com/pro-advice/acoustic-soundboard/acoustic-soundboard-what-happens-when-you-shave-an-acoustic-guitars-bridge"
+    },
+    {
+     "headline": "Nine Ukrainian Musicians on Working Through the Air Raids",
+     "source": "a closer listen",
+     "date": "Sep 13",
+     "url": "https://acloserlisten.com/2026/09/13/ukrainian-field-notes-lviii/"
+    },
+    {
+     "headline": "Two Composers Split the Cues for The Shards, Remotely",
+     "source": "On The Score",
+     "date": "Sep 7",
+     "url": "https://onthescore.com/morgan-kibby-and-david-klotz-collect-the-shards-80s-vibes-that-cut-and-spellbind-for-ryan-murphy-and-bret-easton-ellis-hulu-adaptation/"
+    }
+   ],
+   "collecting": [
+    {
+     "headline": "Pretty Changes, Totally Hair, Cut and Style: Barbie by the Hair",
+     "source": "The Strong National Museum of Play",
+     "date": "Sep 11",
+     "url": "https://www.museumofplay.org/blog/lets-talk-about-barbie-hairplay/"
+    },
+    {
+     "headline": "The FBI Agent Who Traces Stolen Art",
+     "source": "Apollo Magazine",
+     "date": "Sep 9",
+     "url": "https://apollo-magazine.com/art-theft-museums-fbi-interview-jake-archer/",
+     "image": "https://apollo-magazine.com/wp-content/uploads/2026/09/GettyImages-2266677820_5d8b73.jpg"
+    },
+    {
+     "headline": "Yemen's State Press, Printing for Readers Who Expected Manuscripts",
+     "source": "Leiden Special Collections Blog",
+     "date": "Aug 17",
+     "url": "https://www.leidenspecialcollectionsblog.nl/articles/printing-for-a-manuscript-culture-early-20th-century-books-from-yemens-state-press"
+    }
+   ],
+   "archives": [
+    {
+     "headline": "What Medieval Physicians Actually Prescribed for the Mind",
+     "source": "Aeon",
+     "date": "Sep 10",
+     "url": "https://aeon.co/essays/the-curio-cabinet-of-medieval-mental-health"
+    },
+    {
+     "headline": "The Accuracy Complaints Film Inherited From History Painting",
+     "source": "Perspectives on History",
+     "date": "Sep 9",
+     "url": "https://www.historians.org/perspectives-article/on-history-painting-and-the-movies/"
+    },
+    {
+     "headline": "Four Manuscript Rolls Mapping a Medieval Water System",
+     "source": "Historical Transactions",
+     "date": "Sep 4",
+     "url": "https://blog.royalhistsoc.org/2026/09/04/reflections-on-londons-watery-heritage-new-directions-for-the-charterhouse-water-maps/",
+     "image": "https://files.royalhistsoc.org/wp-content/uploads/sites/2/2026/09/04143306/Untitled-design-2.jpg"
+    },
+    {
+     "headline": "The Postwar Rush to Prospect the Colorado Plateau",
+     "source": "Distillations",
+     "date": "Sep 3",
+     "url": "https://www.sciencehistory.org/stories/magazine/uranium-mania/"
+    }
+   ],
+   "photo-film": [
+    {
+     "headline": "Viktoria Schmid on Shooting in Three-Colour Separation",
+     "source": "Another Gaze",
+     "date": "Aug 31",
+     "url": "https://www.anothergaze.com/in-conversation-with-viktoria-schmid/",
+     "image": "https://anothergaze.com/images/e87e859b-8a39-45b1-882d-1f3b1c0993ac.jpg"
+    },
+    {
+     "headline": "Alan Jones on Curating a Box Set of Italian Disco Cinema",
+     "source": "ScreenAnarchy",
+     "date": "Sep 11",
+     "url": "https://screenanarchy.com/2026/09/disco-italiano-interview-alan-jones-talks-severins-box-set.html"
+    },
+    {
+     "headline": "Turning a Trippy UFO Academy Archive Into a Documentary",
+     "source": "Documentary Magazine",
+     "date": "Sep 11",
+     "url": "https://www.documentary.org/online-feature/welcome-space-brothers-filmmaker-jodi-wille-talks-turning-wild-and-very-trippy"
+    },
+    {
+     "headline": "Shooting a Bluegrass Band as It Formed",
+     "source": "POV Magazine",
+     "date": "Sep 12",
+     "url": "https://povmagazine.com/bleeding-hearts-will-make-you-love-music-docs-again/"
+    }
+   ]
+  }
+ },
+ {
   "dateLabel": "September 12, 2026",
   "hero": {
    "headline": "An Avatar of Yuja Wang, a Basement Bunker, and Eleven Out of a Hundred",
