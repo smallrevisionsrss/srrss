@@ -1,5 +1,182 @@
 [
  {
+  "dateLabel": "September 14, 2026",
+  "hero": {
+   "headline": "A Poet With a Camera, Restored by Her Daughter",
+   "dek": "Sarah Maldoror made Sambizanga in 1972, three films on Aime Cesaire across as many decades, a carnival trilogy shot in Cape Verde, the Sahel and Bissau, and a portrait of Louis Aragon. Since her death her daughter Annouchka de Andrade has been putting the work back into circulation, securing Martin Scorsese's Film Foundation for the Sambizanga restoration that finished in 2021. She has now curated a season of it at BFI Southbank, running to the fourth of October.",
+   "byline": "By Rachel Pronger · Sight and Sound",
+   "category": "photo-film",
+   "image": "https://core-cms.bfi.org.uk/sites/default/files/styles/responsive/public/2026-09/Sambizanga+%281%29.jpg/1200x630-cropped/Sambizanga+%281%29.jpg",
+   "caption": "Sambizanga, 1972",
+   "url": "https://www.bfi.org.uk/sight-and-sound/interviews/all-about-my-mother-annouchka-de-andrade-sarah-maldoror"
+  },
+  "categories": {
+   "design-arch": [
+    {
+     "headline": "A Vintage Book Dealer on How Books Actually Get Shelved",
+     "source": "The Modern House",
+     "date": "Sep 7",
+     "url": "https://themodernhouse.com/journal/living-with-books"
+    },
+    {
+     "headline": "Sao Paulo Bars Are Borrowing the Boteco's Old Signage",
+     "source": "It's Nice That",
+     "date": "Sep 14",
+     "url": "https://www.itsnicethat.com/features/the-view-from-sao-paulo-retro-bar-and-restaurant-branding-graphic-design-140926"
+    },
+    {
+     "headline": "The Infamous Upholstery Story, Corrected by the Man Who Started It",
+     "source": "The Autopian",
+     "date": "Sep 11",
+     "url": "https://www.theautopian.com/the-real-story-of-how-whale-penis-leather-became-the-most-infamous-upholstery-of-the-21st-century/",
+     "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/whalepenis_top.jpg"
+    },
+    {
+     "headline": "What MoMA's West Africa Models Leave Out of the Buildings",
+     "source": "World-Architects",
+     "date": "Sep 13",
+     "url": "https://world-architects.com/en/architecture-news/insight/moma-western-africa-modernism-exhibition"
+    }
+   ],
+   "craft": [
+    {
+     "headline": "Walking the Corporate Utopia North Texas Built and Left Running",
+     "source": "Glasstire",
+     "date": "Sep 13",
+     "url": "https://glasstire.com/2026/09/13/north-texas-and-the-afterlife-of-corporate-utopia/",
+     "image": "https://glasstire.com/wp-content/uploads/2026/09/FEATURE.jpg"
+    },
+    {
+     "headline": "How a Bench Gets Laid Out, by Someone Standing at One",
+     "source": "Paul Sellers",
+     "date": "Sep 13",
+     "url": "https://paulsellers.com/2026/09/the-composition-of-working/"
+    },
+    {
+     "headline": "Two 1950s Braun Rangefinders, Shot and Assessed",
+     "source": "35mmc",
+     "date": "Sep 14",
+     "url": "https://www.35mmc.com/14/09/2026/braun-paxette-iim-and-super-paxette-i-review/"
+    },
+    {
+     "headline": "Jane Wade on Turning a Tool Belt Into a Gathered Drawcord",
+     "source": "Hypebeast",
+     "date": "Sep 12",
+     "url": "https://hypebeast.com/2026/9/jane-wade-the-riverbed-spring-summer-2027-ss27"
+    }
+   ],
+   "sound-vinyl": [
+    {
+     "headline": "The Czech Philharmonic, Bychkov and Yunchan Lim in Prague",
+     "source": "Bachtrack",
+     "date": "Sep 12",
+     "url": "https://bachtrack.com/review-bychkov-yunchan-lim-ravel-smetana-czech-philharmonic-dvoraks-prague-september-2026"
+    },
+    {
+     "headline": "Jeff Tweedy on Tone and the Importance of Imperfection",
+     "source": "Acoustic Guitar",
+     "date": "Aug 26",
+     "url": "https://acousticguitar.com/interview-jeff-tweedy-talks-about-tone-songwriting-and-the-importance-of-imperfection/"
+    },
+    {
+     "headline": "Talk Talk's Last Live Shows, Forty Years On",
+     "source": "Aquarium Drunkard",
+     "date": "Sep 13",
+     "url": "https://aquariumdrunkard.com/2026/09/13/well-travelled-talk-talks-final-live-performances-40-years-on/"
+    },
+    {
+     "headline": "What the Program Note Does to What You Hear",
+     "source": "VAN Magazine",
+     "date": "Sep 3",
+     "url": "https://van-magazine.com/mag/defense-of-program-notes/",
+     "image": "https://van-magazine.com/wp-content/uploads/2026/09/defense-of-program-notes.jpg"
+    }
+   ],
+   "collecting": [
+    {
+     "headline": "Walking the Hong Kong Watch Fair Floor",
+     "source": "Quill & Pad",
+     "date": "Sep 12",
+     "url": "https://quillandpad.com/2026/09/12/hong-kong-its-all-about-energy/",
+     "image": "https://quillandpad.com/wp-content/uploads/2026/09/Aision-Zansyu-remembering-Hong-Kong-in-the-60s-PLEASE-ADD-Hong-Kong-shop-signs.jpg"
+    },
+    {
+     "headline": "Deciding What a Museum's European Collection Keeps",
+     "source": "Antiques And The Arts Weekly",
+     "date": "Sep 8",
+     "url": "https://antiquesandthearts.com/qa-elissa-watters/"
+    },
+    {
+     "headline": "One-Sixth Scale Arcade Cabinets, and the Obsession Behind Them",
+     "source": "SlashGear",
+     "date": "Sep 3",
+     "url": "https://www.slashgear.com/2250622/miniature-arcade-machine-gaming-collecting-obsession/",
+     "evergreen": true
+    },
+    {
+     "headline": "Mari Hong on the Pieces That Were Never Meant to Be Hers",
+     "source": "The Art Newspaper",
+     "date": "Sep 1",
+     "url": "https://www.theartnewspaper.com/2026/09/01/those-pieces-were-simply-not-meant-to-be-part-of-my-collection-mari-hong-on-avoiding-regret"
+    }
+   ],
+   "archives": [
+    {
+     "headline": "The Coalition That Fought Infant Mortality, From Its Own Papers",
+     "source": "Nursing Clio",
+     "date": "Sep 9",
+     "url": "https://nursingclio.org/2026/09/09/community-organizing-for-health-justice-reproductive-justice-activism-and-the-coalition-to-fight-infant-mortality/"
+    },
+    {
+     "headline": "The Patriots Burned Norfolk in 1776, Not the British",
+     "source": "The American Scholar",
+     "date": "Sep 8",
+     "url": "https://theamericanscholar.org/the-paper-chase-2/",
+     "image": "https://theamericanscholar.org/wp-content/uploads/2026/09/service-pnp-hec-27700-27704v.jpg"
+    },
+    {
+     "headline": "Wheat, Smoke and Three Decades of Advocacy on the Palouse",
+     "source": "The Metropole",
+     "date": "Sep 10",
+     "url": "https://themetropole.blog/2026/09/10/grassroots-vs-burned-grass-a-history-of-wheat-pollution-and-advocacy-on-the-palouse/"
+    },
+    {
+     "headline": "Bandung Internationalism, Traced Through Rare Pressings",
+     "source": "History Workshop",
+     "date": "Sep 8",
+     "url": "https://www.historyworkshop.org.uk/music-sound/afro-asian-rhythms-2/"
+    }
+   ],
+   "photo-film": [
+    {
+     "headline": "An Incomplete Calendar, Built From Petro-Archive Imagery",
+     "source": "Ultra Dogme",
+     "date": "Sep 11",
+     "url": "https://ultradogme.com/2026/09/11/an-incomplete-calendar/"
+    },
+    {
+     "headline": "Margaret at Fifteen, and Adolescence Under National Mourning",
+     "source": "Little White Lies",
+     "date": "Sep 11",
+     "url": "https://lwlies.com/in-praise-of/margaret-at-15"
+    },
+    {
+     "headline": "Iranian Cinema, From Ellipsis as Poetics to Ellipsis as Testimony",
+     "source": "The Brooklyn Rail",
+     "date": "Sep 9",
+     "url": "https://brooklynrail.org/2026/09/film/from-poet-to-witness-iranian-cinema-in-an-age-of-permanent-crisis/",
+     "image": "https://studio.brooklynrail.org/assets/b6315659-662b-424e-b186-8df6d6c985df.jpg"
+    },
+    {
+     "headline": "Elvis in Vegas, Against Venturi and Scott Brown",
+     "source": "Screen Slate",
+     "date": "Sep 12",
+     "url": "https://www.screenslate.com/articles/viva-las-vegas-learning-learning-las-vegas"
+    }
+   ]
+  }
+ },
+ {
   "dateLabel": "September 13, 2026",
   "hero": {
    "headline": "Catalogued as Another Paper for Two Hundred and Fifty Years",
@@ -5044,10 +5221,10 @@
      "url": "https://www.smithsonianmag.com/smart-news/a-medieval-mans-injuries-reminded-one-archaeologist-of-modern-day-car-crash-victims-they-turned-out-to-be-the-work-of-an-english-trebuchet-180989346/"
     },
     {
-     "headline": "The Forgotten 'Sand Men' Who Sculpted Atlantic City's Boardwalk",
-     "source": "Public Domain Review",
-     "date": "Jul 2026",
-     "url": "https://publicdomainreview.org/collection/atlantic-city-sand-sculpture/"
+     "headline": "A Peterloo Scrapbook, and Who Was Buying the Radical Press",
+     "source": "Rylands Blog",
+     "date": "Aug 14",
+     "url": "https://rylandscollections.com/2026/08/14/a-peterloo-scrapbook/"
     },
     {
      "headline": "Nineteen of the World's Most Astonishing Catacombs, From Paris to Naples",
