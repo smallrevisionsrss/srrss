@@ -1,5 +1,182 @@
 [
  {
+  "dateLabel": "September 15, 2026",
+  "hero": {
+   "headline": "How Shiv-Hari Hid a Stalker Inside a Love Song",
+   "dek": "Zane Merritt takes apart the score Shiv-Hari wrote for Yash Chopra's Darr in 1993 and finds the menace built into the orchestration rather than laid over it. Jaadu Teri Nazar opens as flirtation and turns proprietary in the arrangement. The instrumental Obsession escalates through percussion and wordless choir as Rahul's fantasy runs away from him, and by Tu Mere Saamne the track is breathing. Merritt traces a perfect fifth recurring across all three and argues the harmonica does the real work, an instrument that has to inhale and exhale at once to sound at all.",
+   "byline": "By Zane Merritt · Sounding Out!",
+   "category": "sound-vinyl",
+   "image": "https://soundstudiesblog.com/wp-content/uploads/2026/09/screenshot-2026-09-06-at-9.59.33-pm-1.png",
+   "caption": "Darr, 1993",
+   "url": "https://soundstudiesblog.com/2026/09/08/the-sounds-of-obsession-subtle-menace-in-the-music-of-yash-chopras-darr/"
+  },
+  "categories": {
+   "design-arch": [
+    {
+     "headline": "Italy Is Building the Overcrowding Into the Prisons",
+     "source": "Failed Architecture",
+     "date": "Aug 31",
+     "url": "https://failedarchitecture.com/behind-bars-italys-securitarian-project-of-debilitation-takes-shape/"
+    },
+    {
+     "headline": "The Back Room Is Getting the Budget the Front Room Used To",
+     "source": "The Spaces",
+     "date": "Sep 14",
+     "url": "https://thespaces.com/practical-magic-the-case-for-designing-your-back-room/",
+     "image": "https://cdn.thespaces.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-at-17.16.43.jpg"
+    },
+    {
+     "headline": "Silicone Lamps You Press, Pull or Bop Instead of Switching On",
+     "source": "Yanko Design",
+     "date": "Sep 12",
+     "url": "https://www.yankodesign.com/2026/09/12/no-switches-needed-just-press-pull-or-bop-these-silicone-lamps-behind-the-design-with-yd/"
+    },
+    {
+     "headline": "Robert Osborn Drew American Mediocrity in 1960 and It Still Lands",
+     "source": "PRINT Magazine",
+     "date": "Sep 14",
+     "url": "https://www.printmag.com/daily-heller/the-daily-heller-plus-ca-change-plus-cest-la-meme-chose/"
+    }
+   ],
+   "craft": [
+    {
+     "headline": "Ten Years of Berlin Doorways and Staircases, in Seventy-Nine Pictures",
+     "source": "Collector Daily",
+     "date": "Sep 15",
+     "url": "https://collectordaily.com/yasutaka-kojima-nakaima-berlin/",
+     "image": "https://collectordaily.com/wp-content/uploads/2026/08/IMG_7269.jpeg"
+    },
+    {
+     "headline": "Twenty-Three Years of Allevol, Corrected by the Man Who Built It",
+     "source": "Permanent Style",
+     "date": "Sep 11",
+     "url": "https://www.permanentstyle.com/2026/09/allevol-easy-americana-and-other-passions.html"
+    },
+    {
+     "headline": "The Lockpickers Who Post Everything and the Ones Who Never Did",
+     "source": "Huck",
+     "date": "Sep 9",
+     "url": "https://www.huckmag.com/article/the-battle-for-the-soul-of-lockpicking"
+    },
+    {
+     "headline": "Gillian Cooper on What the First Stitch Commits You To",
+     "source": "TextileArtist",
+     "date": "Aug 30",
+     "url": "https://www.textileartist.org/gillian-cooper-beyond-the-first-stitch/"
+    }
+   ],
+   "sound-vinyl": [
+    {
+     "headline": "Nine Shows, Seven Venues, Four Days in Chicago",
+     "source": "I Care If You Listen",
+     "date": "Sep 15",
+     "url": "https://icareifyoulisten.com/2026/09/review-sound-and-gravity-2026/"
+    },
+    {
+     "headline": "Friedrich Hollaender's 1930 Cabaret Score, Read Cue by Cue",
+     "source": "Movie Music UK",
+     "date": "Sep 14",
+     "url": "https://moviemusicuk.us/2026/09/14/der-blaue-engel-the-blue-angel-friedrich-hollaender/"
+    },
+    {
+     "headline": "Bach's Pedalling, Argued From Eighteenth Century Shoes",
+     "source": "The Diapason",
+     "date": "Aug 24",
+     "url": "https://www.thediapason.com/content/use-heels-pedaling-johann-sebastian-bachs-organ-works"
+    },
+    {
+     "headline": "Sixteen Pairs of Vietnamese Kite Flutes, Spun on Rotating Arms",
+     "source": "Sonic Field",
+     "date": "Sep 10",
+     "url": "https://sonicfield.org/drone-drone-siedl-cao",
+     "image": "https://sonicfield.org/drone-drone-siedl-cao.jpg"
+    }
+   ],
+   "collecting": [
+    {
+     "headline": "Fifteen Thousand Engine Drawings, Seven Thousand of Them Unrecorded",
+     "source": "The Museum of English Rural Life",
+     "date": "Sep 15",
+     "url": "https://merl.reading.ac.uk/news-and-views/digitising-the-fowler-archives/"
+    },
+    {
+     "headline": "A French Doctor Traced 867 Tattoos Off Prisoners' Skin",
+     "source": "Flashbak",
+     "date": "Sep 13",
+     "url": "https://flashbak.com/19th-centuryt-tattoos-485130/"
+    },
+    {
+     "headline": "Two Eleven-Pound Hubs, Rescued From a Dead Mint",
+     "source": "CoinWeek",
+     "date": "Sep 14",
+     "url": "https://coinweek.com/two-11-pound-sidney-poitier-medal-hubs-resurface-from-a-remarkable-moment-in-2001/"
+    },
+    {
+     "headline": "A Planter's Thirty-Four Books, and the Earliest Shakespeare in America",
+     "source": "Folger Shakespeare Library",
+     "date": "Aug 27",
+     "url": "https://www.folger.edu/blogs/collation/the-library-of-edward-dale/",
+     "image": "https://images.folger.edu/uploads/2026/08/133199-Small_1500px.jpg"
+    }
+   ],
+   "archives": [
+    {
+     "headline": "The Sea Peoples May Have Been Refugees as Much as Raiders",
+     "source": "The Ancient Near East Today",
+     "date": "Sep 3",
+     "url": "https://anetoday.org/sea-peoples-bronze-age/"
+    },
+    {
+     "headline": "The Alamo's Second Battle Was Over What the First One Meant",
+     "source": "Not Even Past",
+     "date": "Sep 2",
+     "url": "https://notevenpast.org/the-battles-of-the-alamo-and-the-myth-of-southern-exceptionalism/"
+    },
+    {
+     "headline": "Anna Julia Cooper's Universalism, Against Victorian Womanhood",
+     "source": "Black Perspectives",
+     "date": "Sep 14",
+     "url": "https://www.aaihs.org/what-anna-julia-cooper-can-teach-us-about-universalism/",
+     "image": "https://cdn.aaihs.org/2019/06/alridge-piece-ajc.jpg"
+    },
+    {
+     "headline": "Mercy Brown Died in 1892 and the Folklore Ate Her",
+     "source": "Contingent Magazine",
+     "date": "Jul 20, 2026",
+     "url": "https://contingentmagazine.org/2026/07/20/against-the-grave/",
+     "evergreen": true
+    }
+   ],
+   "photo-film": [
+    {
+     "headline": "Hope Keeps Putting Incompetent People Past Their Capacity",
+     "source": "Reverse Shot",
+     "date": "Sep 11",
+     "url": "https://reverseshot.org/reviews/entry/3489/hope",
+     "image": "https://reverseshot.org/uploads/entries/images/HOPE_STILL_3-590x308.jpeg"
+    },
+    {
+     "headline": "Six Films From Toronto, None of Them the Ones Being Sold",
+     "source": "In Review Online",
+     "date": "Sep 14",
+     "url": "https://inreviewonline.com/2026/09/14/tiff-2026-dispatch-1-reviews/"
+    },
+    {
+     "headline": "Framing British Sign Language When the Hands Are the Performance",
+     "source": "British Cinematographer",
+     "date": "Sep 14",
+     "url": "https://britishcinematographer.co.uk/jonny-raja-flint-and-teresa-garratty-green-grass/"
+    },
+    {
+     "headline": "Two Argentine Directors on Making a Manifesto Out of a Cineclub",
+     "source": "desistfilm",
+     "date": "Aug 31",
+     "url": "https://desistfilm.com/entrevista-a-ezequiel-salinas-y-ramiro-sonzini-directores-de-la-noche-esta-marchandose-ya/"
+    }
+   ]
+  }
+ },
+ {
   "dateLabel": "September 14, 2026",
   "hero": {
    "headline": "A Poet With a Camera, Restored by Her Daughter",
